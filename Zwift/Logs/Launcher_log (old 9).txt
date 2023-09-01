@@ -1,0 +1,1422 @@
+[6:42:24 2023-03-05] Launcher: Checking for VerCur Override
+[6:42:24 2023-03-05] Launcher: prefs.xml file found.
+[6:42:24 2023-03-05] Launcher: This is an AutoStartup Launch.
+[6:42:24 2023-03-05] Launcher: Auto Startup is Enabled.
+[6:42:24 2023-03-05] Launcher: Launcher Version Number 1.1.5
+[6:42:24 2023-03-05] Launcher: Initializing UI Components
+[6:42:24 2023-03-05] Launcher: Initializing Tray Components
+[6:42:24 2023-03-05] Launcher: Initializing Patcher
+[6:42:24 2023-03-05] Launcher: Setting Login URL
+[6:42:24 2023-03-05] Launcher: prefs.xml file found.
+[6:42:25 2023-03-05] Launcher: Found Launcher URL.
+[6:42:25 2023-03-05] Launcher: prefs.xml file found.
+[6:42:25 2023-03-05] Launcher: Navigating to Login URL
+[6:42:25 2023-03-05] Launcher: Launching silently.
+[6:42:25 2023-03-05] Launcher: Starting silent update timer for 1 second.
+[6:42:26 2023-03-05] Launcher: DoUpdateCheck() Called.
+[6:42:26 2023-03-05] Launcher: ZwiftApp.exe is not running.
+[6:42:26 2023-03-05] Launcher: Starting Update Check.
+[6:42:26 2023-03-05] Launcher: prefs.xml file found.
+[6:42:26 2023-03-05] Launcher: Checking for internet connection.
+[6:42:26 2023-03-05] Patcher: Patcher Version Number: "1.3.0".
+[6:42:26 2023-03-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[6:42:26 2023-03-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[6:42:26 2023-03-05] Patcher: Local update path set to "".
+[6:42:26 2023-03-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[6:42:26 2023-03-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[6:42:26 2023-03-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[6:42:26 2023-03-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[6:42:26 2023-03-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[6:42:26 2023-03-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[6:42:26 2023-03-05] Patcher: Local version is "1.0.108507".
+[6:42:26 2023-03-05] Patcher: Server version is "1.0.108507".
+[6:42:26 2023-03-05] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[6:42:26 2023-03-05] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[6:42:26 2023-03-05] Patcher: Server manifest file checksum is "1488876274".
+[6:42:26 2023-03-05] Patcher: Server ver_cur checksum is "1239594997".
+[6:42:26 2023-03-05] Patcher: Local Launcher version is "0.0.0".
+[6:42:26 2023-03-05] Patcher: Server Launcher version is "0.0.0".
+[6:42:26 2023-03-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[6:42:26 2023-03-05] Patcher: No update available, deleting temp files...
+[6:42:26 2023-03-05] Launcher: Checking Launcher Version.
+[6:42:26 2023-03-05] Launcher: Checking for Game Update.
+[6:42:26 2023-03-05] Launcher: No Update found.
+[7:42:26 2023-03-05] Launcher: DoUpdateCheck() Called.
+[7:42:26 2023-03-05] Launcher: ZwiftApp.exe is not running.
+[7:42:26 2023-03-05] Launcher: Starting Update Check.
+[7:42:26 2023-03-05] Launcher: prefs.xml file found.
+[7:42:26 2023-03-05] Launcher: Checking for internet connection.
+[7:42:26 2023-03-05] Patcher: Patcher Version Number: "1.3.0".
+[7:42:26 2023-03-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[7:42:26 2023-03-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[7:42:26 2023-03-05] Patcher: Local update path set to "".
+[7:42:26 2023-03-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[7:42:26 2023-03-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[7:42:26 2023-03-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[7:42:26 2023-03-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[7:42:26 2023-03-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[7:42:26 2023-03-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[7:42:26 2023-03-05] Patcher: Local version is "1.0.108507".
+[7:42:26 2023-03-05] Patcher: Server version is "1.0.108507".
+[7:42:26 2023-03-05] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[7:42:26 2023-03-05] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[7:42:26 2023-03-05] Patcher: Server manifest file checksum is "1488876274".
+[7:42:26 2023-03-05] Patcher: Server ver_cur checksum is "1239594997".
+[7:42:26 2023-03-05] Patcher: Local Launcher version is "0.0.0".
+[7:42:26 2023-03-05] Patcher: Server Launcher version is "0.0.0".
+[7:42:26 2023-03-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[7:42:26 2023-03-05] Patcher: No update available, deleting temp files...
+[7:42:26 2023-03-05] Launcher: Checking Launcher Version.
+[7:42:26 2023-03-05] Launcher: Checking for Game Update.
+[7:42:26 2023-03-05] Launcher: No Update found.
+[8:42:26 2023-03-05] Launcher: DoUpdateCheck() Called.
+[8:42:26 2023-03-05] Launcher: ZwiftApp.exe is not running.
+[8:42:26 2023-03-05] Launcher: Starting Update Check.
+[8:42:26 2023-03-05] Launcher: prefs.xml file found.
+[8:42:26 2023-03-05] Launcher: Checking for internet connection.
+[8:42:26 2023-03-05] Patcher: Patcher Version Number: "1.3.0".
+[8:42:26 2023-03-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[8:42:26 2023-03-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[8:42:26 2023-03-05] Patcher: Local update path set to "".
+[8:42:26 2023-03-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[8:42:26 2023-03-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[8:42:26 2023-03-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[8:42:26 2023-03-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[8:42:26 2023-03-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[8:42:26 2023-03-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[8:42:26 2023-03-05] Patcher: Local version is "1.0.108507".
+[8:42:26 2023-03-05] Patcher: Server version is "1.0.108507".
+[8:42:26 2023-03-05] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[8:42:26 2023-03-05] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[8:42:26 2023-03-05] Patcher: Server manifest file checksum is "1488876274".
+[8:42:26 2023-03-05] Patcher: Server ver_cur checksum is "1239594997".
+[8:42:26 2023-03-05] Patcher: Local Launcher version is "0.0.0".
+[8:42:26 2023-03-05] Patcher: Server Launcher version is "0.0.0".
+[8:42:26 2023-03-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[8:42:26 2023-03-05] Patcher: No update available, deleting temp files...
+[8:42:26 2023-03-05] Launcher: Checking Launcher Version.
+[8:42:26 2023-03-05] Launcher: Checking for Game Update.
+[8:42:26 2023-03-05] Launcher: No Update found.
+[9:42:26 2023-03-05] Launcher: DoUpdateCheck() Called.
+[9:42:26 2023-03-05] Launcher: ZwiftApp.exe is not running.
+[9:42:26 2023-03-05] Launcher: Starting Update Check.
+[9:42:26 2023-03-05] Launcher: prefs.xml file found.
+[9:42:26 2023-03-05] Launcher: Checking for internet connection.
+[9:42:26 2023-03-05] Patcher: Patcher Version Number: "1.3.0".
+[9:42:26 2023-03-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[9:42:26 2023-03-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[9:42:26 2023-03-05] Patcher: Local update path set to "".
+[9:42:26 2023-03-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[9:42:26 2023-03-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[9:42:26 2023-03-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[9:42:26 2023-03-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[9:42:26 2023-03-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[9:42:26 2023-03-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[9:42:26 2023-03-05] Patcher: Local version is "1.0.108507".
+[9:42:26 2023-03-05] Patcher: Server version is "1.0.108507".
+[9:42:26 2023-03-05] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[9:42:26 2023-03-05] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[9:42:26 2023-03-05] Patcher: Server manifest file checksum is "1488876274".
+[9:42:26 2023-03-05] Patcher: Server ver_cur checksum is "1239594997".
+[9:42:26 2023-03-05] Patcher: Local Launcher version is "0.0.0".
+[9:42:26 2023-03-05] Patcher: Server Launcher version is "0.0.0".
+[9:42:26 2023-03-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[9:42:26 2023-03-05] Patcher: No update available, deleting temp files...
+[9:42:26 2023-03-05] Launcher: Checking Launcher Version.
+[9:42:26 2023-03-05] Launcher: Checking for Game Update.
+[9:42:26 2023-03-05] Launcher: No Update found.
+[10:42:26 2023-03-05] Launcher: DoUpdateCheck() Called.
+[10:42:26 2023-03-05] Launcher: ZwiftApp.exe is not running.
+[10:42:26 2023-03-05] Launcher: Starting Update Check.
+[10:42:26 2023-03-05] Launcher: prefs.xml file found.
+[10:42:26 2023-03-05] Launcher: Checking for internet connection.
+[10:42:26 2023-03-05] Patcher: Patcher Version Number: "1.3.0".
+[10:42:26 2023-03-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[10:42:26 2023-03-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[10:42:26 2023-03-05] Patcher: Local update path set to "".
+[10:42:26 2023-03-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[10:42:26 2023-03-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[10:42:27 2023-03-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[10:42:27 2023-03-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[10:42:27 2023-03-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[10:42:27 2023-03-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[10:42:27 2023-03-05] Patcher: Local version is "1.0.108507".
+[10:42:27 2023-03-05] Patcher: Server version is "1.0.108507".
+[10:42:27 2023-03-05] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[10:42:27 2023-03-05] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[10:42:27 2023-03-05] Patcher: Server manifest file checksum is "1488876274".
+[10:42:27 2023-03-05] Patcher: Server ver_cur checksum is "1239594997".
+[10:42:27 2023-03-05] Patcher: Local Launcher version is "0.0.0".
+[10:42:27 2023-03-05] Patcher: Server Launcher version is "0.0.0".
+[10:42:27 2023-03-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[10:42:27 2023-03-05] Patcher: No update available, deleting temp files...
+[10:42:27 2023-03-05] Launcher: Checking Launcher Version.
+[10:42:27 2023-03-05] Launcher: Checking for Game Update.
+[10:42:27 2023-03-05] Launcher: No Update found.
+[11:42:27 2023-03-05] Launcher: DoUpdateCheck() Called.
+[11:42:27 2023-03-05] Launcher: ZwiftApp.exe is not running.
+[11:42:27 2023-03-05] Launcher: Starting Update Check.
+[11:42:27 2023-03-05] Launcher: prefs.xml file found.
+[11:42:27 2023-03-05] Launcher: Checking for internet connection.
+[11:42:27 2023-03-05] Patcher: Patcher Version Number: "1.3.0".
+[11:42:27 2023-03-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[11:42:27 2023-03-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[11:42:27 2023-03-05] Patcher: Local update path set to "".
+[11:42:27 2023-03-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[11:42:27 2023-03-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[11:42:27 2023-03-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[11:42:27 2023-03-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[11:42:27 2023-03-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[11:42:27 2023-03-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[11:42:27 2023-03-05] Patcher: Local version is "1.0.108507".
+[11:42:27 2023-03-05] Patcher: Server version is "1.0.108507".
+[11:42:27 2023-03-05] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[11:42:27 2023-03-05] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[11:42:27 2023-03-05] Patcher: Server manifest file checksum is "1488876274".
+[11:42:27 2023-03-05] Patcher: Server ver_cur checksum is "1239594997".
+[11:42:27 2023-03-05] Patcher: Local Launcher version is "0.0.0".
+[11:42:27 2023-03-05] Patcher: Server Launcher version is "0.0.0".
+[11:42:27 2023-03-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[11:42:27 2023-03-05] Patcher: No update available, deleting temp files...
+[11:42:27 2023-03-05] Launcher: Checking Launcher Version.
+[11:42:27 2023-03-05] Launcher: Checking for Game Update.
+[11:42:27 2023-03-05] Launcher: No Update found.
+[12:49:54 2023-03-05] Launcher: DoUpdateCheck() Called.
+[12:49:54 2023-03-05] Launcher: ZwiftApp.exe is not running.
+[12:49:54 2023-03-05] Launcher: Starting Update Check.
+[12:49:54 2023-03-05] Launcher: prefs.xml file found.
+[12:49:54 2023-03-05] Launcher: Checking for internet connection.
+[12:49:54 2023-03-05] Patcher: Patcher Version Number: "1.3.0".
+[12:49:54 2023-03-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[12:49:54 2023-03-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[12:49:54 2023-03-05] Patcher: Local update path set to "".
+[12:49:54 2023-03-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[12:49:54 2023-03-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[12:49:54 2023-03-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[12:49:54 2023-03-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[12:49:54 2023-03-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[12:49:54 2023-03-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[12:49:54 2023-03-05] Patcher: Local version is "1.0.108507".
+[12:49:54 2023-03-05] Patcher: Server version is "1.0.108507".
+[12:49:54 2023-03-05] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[12:49:54 2023-03-05] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[12:49:54 2023-03-05] Patcher: Server manifest file checksum is "1488876274".
+[12:49:54 2023-03-05] Patcher: Server ver_cur checksum is "1239594997".
+[12:49:54 2023-03-05] Patcher: Local Launcher version is "0.0.0".
+[12:49:54 2023-03-05] Patcher: Server Launcher version is "0.0.0".
+[12:49:54 2023-03-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[12:49:54 2023-03-05] Patcher: No update available, deleting temp files...
+[12:49:54 2023-03-05] Launcher: Checking Launcher Version.
+[12:49:54 2023-03-05] Launcher: Checking for Game Update.
+[12:49:54 2023-03-05] Launcher: No Update found.
+[13:50:20 2023-03-05] Launcher: DoUpdateCheck() Called.
+[13:50:20 2023-03-05] Launcher: ZwiftApp.exe is not running.
+[13:50:20 2023-03-05] Launcher: Starting Update Check.
+[13:50:20 2023-03-05] Launcher: prefs.xml file found.
+[13:50:20 2023-03-05] Launcher: Checking for internet connection.
+[13:50:20 2023-03-05] Patcher: Patcher Version Number: "1.3.0".
+[13:50:20 2023-03-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[13:50:20 2023-03-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[13:50:20 2023-03-05] Patcher: Local update path set to "".
+[13:50:20 2023-03-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[13:50:20 2023-03-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[13:50:20 2023-03-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[13:50:20 2023-03-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[13:50:20 2023-03-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[13:50:20 2023-03-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[13:50:20 2023-03-05] Patcher: Local version is "1.0.108507".
+[13:50:20 2023-03-05] Patcher: Server version is "1.0.108507".
+[13:50:20 2023-03-05] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[13:50:20 2023-03-05] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[13:50:20 2023-03-05] Patcher: Server manifest file checksum is "1488876274".
+[13:50:20 2023-03-05] Patcher: Server ver_cur checksum is "1239594997".
+[13:50:20 2023-03-05] Patcher: Local Launcher version is "0.0.0".
+[13:50:20 2023-03-05] Patcher: Server Launcher version is "0.0.0".
+[13:50:20 2023-03-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[13:50:20 2023-03-05] Patcher: No update available, deleting temp files...
+[13:50:20 2023-03-05] Launcher: Checking Launcher Version.
+[13:50:20 2023-03-05] Launcher: Checking for Game Update.
+[13:50:20 2023-03-05] Launcher: No Update found.
+[14:50:20 2023-03-05] Launcher: DoUpdateCheck() Called.
+[14:50:20 2023-03-05] Launcher: ZwiftApp.exe is not running.
+[14:50:20 2023-03-05] Launcher: Starting Update Check.
+[14:50:20 2023-03-05] Launcher: prefs.xml file found.
+[14:50:20 2023-03-05] Launcher: Checking for internet connection.
+[14:50:20 2023-03-05] Patcher: Patcher Version Number: "1.3.0".
+[14:50:20 2023-03-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[14:50:20 2023-03-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[14:50:20 2023-03-05] Patcher: Local update path set to "".
+[14:50:20 2023-03-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[14:50:20 2023-03-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[14:50:21 2023-03-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[14:50:21 2023-03-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[14:50:21 2023-03-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[14:50:21 2023-03-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[14:50:21 2023-03-05] Patcher: Local version is "1.0.108507".
+[14:50:21 2023-03-05] Patcher: Server version is "1.0.108507".
+[14:50:21 2023-03-05] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[14:50:21 2023-03-05] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[14:50:21 2023-03-05] Patcher: Server manifest file checksum is "1488876274".
+[14:50:21 2023-03-05] Patcher: Server ver_cur checksum is "1239594997".
+[14:50:21 2023-03-05] Patcher: Local Launcher version is "0.0.0".
+[14:50:21 2023-03-05] Patcher: Server Launcher version is "0.0.0".
+[14:50:21 2023-03-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[14:50:21 2023-03-05] Patcher: No update available, deleting temp files...
+[14:50:21 2023-03-05] Launcher: Checking Launcher Version.
+[14:50:21 2023-03-05] Launcher: Checking for Game Update.
+[14:50:21 2023-03-05] Launcher: No Update found.
+[15:50:21 2023-03-05] Launcher: DoUpdateCheck() Called.
+[15:50:21 2023-03-05] Launcher: ZwiftApp.exe is not running.
+[15:50:21 2023-03-05] Launcher: Starting Update Check.
+[15:50:21 2023-03-05] Launcher: prefs.xml file found.
+[15:50:21 2023-03-05] Launcher: Checking for internet connection.
+[15:50:21 2023-03-05] Patcher: Patcher Version Number: "1.3.0".
+[15:50:21 2023-03-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[15:50:21 2023-03-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[15:50:21 2023-03-05] Patcher: Local update path set to "".
+[15:50:21 2023-03-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[15:50:21 2023-03-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[15:50:21 2023-03-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[15:50:21 2023-03-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[15:50:21 2023-03-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[15:50:21 2023-03-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[15:50:21 2023-03-05] Patcher: Local version is "1.0.108507".
+[15:50:21 2023-03-05] Patcher: Server version is "1.0.108507".
+[15:50:21 2023-03-05] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[15:50:21 2023-03-05] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[15:50:21 2023-03-05] Patcher: Server manifest file checksum is "1488876274".
+[15:50:21 2023-03-05] Patcher: Server ver_cur checksum is "1239594997".
+[15:50:21 2023-03-05] Patcher: Local Launcher version is "0.0.0".
+[15:50:21 2023-03-05] Patcher: Server Launcher version is "0.0.0".
+[15:50:21 2023-03-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[15:50:21 2023-03-05] Patcher: No update available, deleting temp files...
+[15:50:21 2023-03-05] Launcher: Checking Launcher Version.
+[15:50:21 2023-03-05] Launcher: Checking for Game Update.
+[15:50:21 2023-03-05] Launcher: No Update found.
+[16:50:21 2023-03-05] Launcher: DoUpdateCheck() Called.
+[16:50:21 2023-03-05] Launcher: ZwiftApp.exe is not running.
+[16:50:21 2023-03-05] Launcher: Starting Update Check.
+[16:50:21 2023-03-05] Launcher: prefs.xml file found.
+[16:50:21 2023-03-05] Launcher: Checking for internet connection.
+[16:50:21 2023-03-05] Patcher: Patcher Version Number: "1.3.0".
+[16:50:21 2023-03-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[16:50:21 2023-03-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[16:50:21 2023-03-05] Patcher: Local update path set to "".
+[16:50:21 2023-03-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[16:50:21 2023-03-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[16:50:21 2023-03-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[16:50:21 2023-03-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[16:50:21 2023-03-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[16:50:21 2023-03-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[16:50:21 2023-03-05] Patcher: Local version is "1.0.108507".
+[16:50:21 2023-03-05] Patcher: Server version is "1.0.108507".
+[16:50:21 2023-03-05] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[16:50:21 2023-03-05] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[16:50:21 2023-03-05] Patcher: Server manifest file checksum is "1488876274".
+[16:50:21 2023-03-05] Patcher: Server ver_cur checksum is "1239594997".
+[16:50:21 2023-03-05] Patcher: Local Launcher version is "0.0.0".
+[16:50:21 2023-03-05] Patcher: Server Launcher version is "0.0.0".
+[16:50:21 2023-03-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[16:50:21 2023-03-05] Patcher: No update available, deleting temp files...
+[16:50:21 2023-03-05] Launcher: Checking Launcher Version.
+[16:50:21 2023-03-05] Launcher: Checking for Game Update.
+[16:50:21 2023-03-05] Launcher: No Update found.
+[17:50:21 2023-03-05] Launcher: DoUpdateCheck() Called.
+[17:50:21 2023-03-05] Launcher: ZwiftApp.exe is not running.
+[17:50:21 2023-03-05] Launcher: Starting Update Check.
+[17:50:21 2023-03-05] Launcher: prefs.xml file found.
+[17:50:21 2023-03-05] Launcher: Checking for internet connection.
+[17:50:21 2023-03-05] Patcher: Patcher Version Number: "1.3.0".
+[17:50:21 2023-03-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[17:50:21 2023-03-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[17:50:21 2023-03-05] Patcher: Local update path set to "".
+[17:50:21 2023-03-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[17:50:21 2023-03-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[17:50:21 2023-03-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[17:50:21 2023-03-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[17:50:21 2023-03-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[17:50:21 2023-03-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[17:50:21 2023-03-05] Patcher: Local version is "1.0.108507".
+[17:50:21 2023-03-05] Patcher: Server version is "1.0.108507".
+[17:50:21 2023-03-05] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[17:50:21 2023-03-05] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[17:50:21 2023-03-05] Patcher: Server manifest file checksum is "1488876274".
+[17:50:21 2023-03-05] Patcher: Server ver_cur checksum is "1239594997".
+[17:50:21 2023-03-05] Patcher: Local Launcher version is "0.0.0".
+[17:50:21 2023-03-05] Patcher: Server Launcher version is "0.0.0".
+[17:50:21 2023-03-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[17:50:21 2023-03-05] Patcher: No update available, deleting temp files...
+[17:50:21 2023-03-05] Launcher: Checking Launcher Version.
+[17:50:21 2023-03-05] Launcher: Checking for Game Update.
+[17:50:21 2023-03-05] Launcher: No Update found.
+[18:50:21 2023-03-05] Launcher: DoUpdateCheck() Called.
+[18:50:21 2023-03-05] Launcher: ZwiftApp.exe is not running.
+[18:50:21 2023-03-05] Launcher: Starting Update Check.
+[18:50:21 2023-03-05] Launcher: prefs.xml file found.
+[18:50:21 2023-03-05] Launcher: Checking for internet connection.
+[18:50:21 2023-03-05] Patcher: Patcher Version Number: "1.3.0".
+[18:50:21 2023-03-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[18:50:21 2023-03-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[18:50:21 2023-03-05] Patcher: Local update path set to "".
+[18:50:21 2023-03-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[18:50:21 2023-03-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[18:50:21 2023-03-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[18:50:21 2023-03-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[18:50:21 2023-03-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[18:50:21 2023-03-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[18:50:21 2023-03-05] Patcher: Local version is "1.0.108507".
+[18:50:21 2023-03-05] Patcher: Server version is "1.0.108507".
+[18:50:21 2023-03-05] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[18:50:21 2023-03-05] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[18:50:21 2023-03-05] Patcher: Server manifest file checksum is "1488876274".
+[18:50:21 2023-03-05] Patcher: Server ver_cur checksum is "1239594997".
+[18:50:21 2023-03-05] Patcher: Local Launcher version is "0.0.0".
+[18:50:21 2023-03-05] Patcher: Server Launcher version is "0.0.0".
+[18:50:21 2023-03-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[18:50:21 2023-03-05] Patcher: No update available, deleting temp files...
+[18:50:21 2023-03-05] Launcher: Checking Launcher Version.
+[18:50:21 2023-03-05] Launcher: Checking for Game Update.
+[18:50:21 2023-03-05] Launcher: No Update found.
+[19:51:29 2023-03-05] Launcher: DoUpdateCheck() Called.
+[19:51:29 2023-03-05] Launcher: ZwiftApp.exe is not running.
+[19:51:29 2023-03-05] Launcher: Starting Update Check.
+[19:51:29 2023-03-05] Launcher: prefs.xml file found.
+[19:51:29 2023-03-05] Launcher: Checking for internet connection.
+[19:51:29 2023-03-05] Patcher: Patcher Version Number: "1.3.0".
+[19:51:29 2023-03-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[19:51:29 2023-03-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[19:51:29 2023-03-05] Patcher: Local update path set to "".
+[19:51:29 2023-03-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[19:51:29 2023-03-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[19:51:29 2023-03-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[19:51:29 2023-03-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[19:51:29 2023-03-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[19:51:29 2023-03-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[19:51:29 2023-03-05] Patcher: Local version is "1.0.108507".
+[19:51:29 2023-03-05] Patcher: Server version is "1.0.108507".
+[19:51:29 2023-03-05] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[19:51:29 2023-03-05] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[19:51:29 2023-03-05] Patcher: Server manifest file checksum is "1488876274".
+[19:51:29 2023-03-05] Patcher: Server ver_cur checksum is "1239594997".
+[19:51:29 2023-03-05] Patcher: Local Launcher version is "0.0.0".
+[19:51:29 2023-03-05] Patcher: Server Launcher version is "0.0.0".
+[19:51:29 2023-03-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[19:51:29 2023-03-05] Patcher: No update available, deleting temp files...
+[19:51:29 2023-03-05] Launcher: Checking Launcher Version.
+[19:51:29 2023-03-05] Launcher: Checking for Game Update.
+[19:51:29 2023-03-05] Launcher: No Update found.
+[20:53:36 2023-03-05] Launcher: DoUpdateCheck() Called.
+[20:53:36 2023-03-05] Launcher: ZwiftApp.exe is not running.
+[20:53:36 2023-03-05] Launcher: Starting Update Check.
+[20:53:36 2023-03-05] Launcher: prefs.xml file found.
+[20:53:36 2023-03-05] Launcher: Checking for internet connection.
+[20:53:36 2023-03-05] Patcher: Patcher Version Number: "1.3.0".
+[20:53:36 2023-03-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[20:53:36 2023-03-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[20:53:36 2023-03-05] Patcher: Local update path set to "".
+[20:53:36 2023-03-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[20:53:36 2023-03-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[20:53:36 2023-03-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[20:53:36 2023-03-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[20:53:36 2023-03-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[20:53:36 2023-03-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[20:53:36 2023-03-05] Patcher: Local version is "1.0.108507".
+[20:53:36 2023-03-05] Patcher: Server version is "1.0.108507".
+[20:53:36 2023-03-05] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[20:53:36 2023-03-05] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[20:53:36 2023-03-05] Patcher: Server manifest file checksum is "1488876274".
+[20:53:36 2023-03-05] Patcher: Server ver_cur checksum is "1239594997".
+[20:53:36 2023-03-05] Patcher: Local Launcher version is "0.0.0".
+[20:53:36 2023-03-05] Patcher: Server Launcher version is "0.0.0".
+[20:53:36 2023-03-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[20:53:36 2023-03-05] Patcher: No update available, deleting temp files...
+[20:53:36 2023-03-05] Launcher: Checking Launcher Version.
+[20:53:36 2023-03-05] Launcher: Checking for Game Update.
+[20:53:36 2023-03-05] Launcher: No Update found.
+[22:03:25 2023-03-05] Launcher: DoUpdateCheck() Called.
+[22:03:25 2023-03-05] Launcher: ZwiftApp.exe is not running.
+[22:03:25 2023-03-05] Launcher: Starting Update Check.
+[22:03:25 2023-03-05] Launcher: prefs.xml file found.
+[22:03:25 2023-03-05] Launcher: Checking for internet connection.
+[22:03:25 2023-03-05] Patcher: Patcher Version Number: "1.3.0".
+[22:03:25 2023-03-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[22:03:25 2023-03-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[22:03:25 2023-03-05] Patcher: Local update path set to "".
+[22:03:25 2023-03-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[22:03:25 2023-03-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[22:03:25 2023-03-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[22:03:25 2023-03-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[22:03:25 2023-03-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[22:03:25 2023-03-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[22:03:25 2023-03-05] Patcher: Local version is "1.0.108507".
+[22:03:25 2023-03-05] Patcher: Server version is "1.0.108507".
+[22:03:25 2023-03-05] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[22:03:25 2023-03-05] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[22:03:25 2023-03-05] Patcher: Server manifest file checksum is "1488876274".
+[22:03:25 2023-03-05] Patcher: Server ver_cur checksum is "1239594997".
+[22:03:25 2023-03-05] Patcher: Local Launcher version is "0.0.0".
+[22:03:25 2023-03-05] Patcher: Server Launcher version is "0.0.0".
+[22:03:25 2023-03-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[22:03:25 2023-03-05] Patcher: No update available, deleting temp files...
+[22:03:25 2023-03-05] Launcher: Checking Launcher Version.
+[22:03:25 2023-03-05] Launcher: Checking for Game Update.
+[22:03:25 2023-03-05] Launcher: No Update found.
+[23:05:53 2023-03-05] Launcher: DoUpdateCheck() Called.
+[23:05:53 2023-03-05] Launcher: ZwiftApp.exe is not running.
+[23:05:53 2023-03-05] Launcher: Starting Update Check.
+[23:05:53 2023-03-05] Launcher: prefs.xml file found.
+[23:05:53 2023-03-05] Launcher: Checking for internet connection.
+[23:05:53 2023-03-05] Patcher: Patcher Version Number: "1.3.0".
+[23:05:53 2023-03-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[23:05:53 2023-03-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[23:05:53 2023-03-05] Patcher: Local update path set to "".
+[23:05:53 2023-03-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[23:05:53 2023-03-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[23:05:53 2023-03-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[23:05:53 2023-03-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[23:05:53 2023-03-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[23:05:53 2023-03-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[23:05:53 2023-03-05] Patcher: Local version is "1.0.108507".
+[23:05:53 2023-03-05] Patcher: Server version is "1.0.108507".
+[23:05:53 2023-03-05] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[23:05:53 2023-03-05] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[23:05:53 2023-03-05] Patcher: Server manifest file checksum is "1488876274".
+[23:05:53 2023-03-05] Patcher: Server ver_cur checksum is "1239594997".
+[23:05:53 2023-03-05] Patcher: Local Launcher version is "0.0.0".
+[23:05:53 2023-03-05] Patcher: Server Launcher version is "0.0.0".
+[23:05:53 2023-03-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[23:05:53 2023-03-05] Patcher: No update available, deleting temp files...
+[23:05:53 2023-03-05] Launcher: Checking Launcher Version.
+[23:05:53 2023-03-05] Launcher: Checking for Game Update.
+[23:05:53 2023-03-05] Launcher: No Update found.
+[0:08:24 2023-03-06] Launcher: DoUpdateCheck() Called.
+[0:08:24 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[0:08:24 2023-03-06] Launcher: Starting Update Check.
+[0:08:24 2023-03-06] Launcher: prefs.xml file found.
+[0:08:24 2023-03-06] Launcher: Checking for internet connection.
+[0:08:24 2023-03-06] Patcher: Patcher Version Number: "1.3.0".
+[0:08:24 2023-03-06] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[0:08:24 2023-03-06] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[0:08:24 2023-03-06] Patcher: Local update path set to "".
+[0:08:24 2023-03-06] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[0:08:24 2023-03-06] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[0:08:24 2023-03-06] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[0:08:24 2023-03-06] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[0:08:24 2023-03-06] Patcher: Completed downloading server XML version files (Game & Launcher).
+[0:08:24 2023-03-06] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[0:08:24 2023-03-06] Patcher: Local version is "1.0.108507".
+[0:08:24 2023-03-06] Patcher: Server version is "1.0.108507".
+[0:08:24 2023-03-06] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[0:08:24 2023-03-06] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[0:08:24 2023-03-06] Patcher: Server manifest file checksum is "1488876274".
+[0:08:24 2023-03-06] Patcher: Server ver_cur checksum is "1239594997".
+[0:08:24 2023-03-06] Patcher: Local Launcher version is "0.0.0".
+[0:08:24 2023-03-06] Patcher: Server Launcher version is "0.0.0".
+[0:08:24 2023-03-06] Patcher: Launcher URL for updating self is "www.zwift.com".
+[0:08:24 2023-03-06] Patcher: No update available, deleting temp files...
+[0:08:24 2023-03-06] Launcher: Checking Launcher Version.
+[0:08:24 2023-03-06] Launcher: Checking for Game Update.
+[0:08:24 2023-03-06] Launcher: No Update found.
+[1:09:31 2023-03-06] Launcher: DoUpdateCheck() Called.
+[1:09:31 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[1:09:31 2023-03-06] Launcher: Starting Update Check.
+[1:09:31 2023-03-06] Launcher: prefs.xml file found.
+[1:09:31 2023-03-06] Launcher: Checking for internet connection.
+[1:09:31 2023-03-06] Launcher: Launcher not set to visible.
+[1:09:31 2023-03-06] Launcher: No internet was found but we were in a minimized state. Resetting the update timer.
+[2:15:54 2023-03-06] Launcher: DoUpdateCheck() Called.
+[2:15:54 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[2:15:54 2023-03-06] Launcher: Starting Update Check.
+[2:15:54 2023-03-06] Launcher: prefs.xml file found.
+[2:15:54 2023-03-06] Launcher: Checking for internet connection.
+[2:15:54 2023-03-06] Patcher: Patcher Version Number: "1.3.0".
+[2:15:54 2023-03-06] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[2:15:54 2023-03-06] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[2:15:54 2023-03-06] Patcher: Local update path set to "".
+[2:15:54 2023-03-06] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[2:15:54 2023-03-06] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[2:15:54 2023-03-06] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[2:15:54 2023-03-06] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[2:15:54 2023-03-06] Patcher: Completed downloading server XML version files (Game & Launcher).
+[2:15:54 2023-03-06] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[2:15:54 2023-03-06] Patcher: Local version is "1.0.108507".
+[2:15:54 2023-03-06] Patcher: Server version is "1.0.108507".
+[2:15:54 2023-03-06] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[2:15:54 2023-03-06] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[2:15:54 2023-03-06] Patcher: Server manifest file checksum is "1488876274".
+[2:15:54 2023-03-06] Patcher: Server ver_cur checksum is "1239594997".
+[2:15:54 2023-03-06] Patcher: Local Launcher version is "0.0.0".
+[2:15:54 2023-03-06] Patcher: Server Launcher version is "0.0.0".
+[2:15:54 2023-03-06] Patcher: Launcher URL for updating self is "www.zwift.com".
+[2:15:54 2023-03-06] Patcher: No update available, deleting temp files...
+[2:15:54 2023-03-06] Launcher: Checking Launcher Version.
+[2:15:54 2023-03-06] Launcher: Checking for Game Update.
+[2:15:54 2023-03-06] Launcher: No Update found.
+[3:17:55 2023-03-06] Launcher: DoUpdateCheck() Called.
+[3:17:55 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[3:17:55 2023-03-06] Launcher: Starting Update Check.
+[3:17:55 2023-03-06] Launcher: prefs.xml file found.
+[3:17:55 2023-03-06] Launcher: Checking for internet connection.
+[3:19:53 2023-03-06] Launcher: Launcher not set to visible.
+[3:19:53 2023-03-06] Launcher: No internet was found but we were in a minimized state. Resetting the update timer.
+[4:23:53 2023-03-06] Launcher: DoUpdateCheck() Called.
+[4:23:53 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[4:23:53 2023-03-06] Launcher: Starting Update Check.
+[4:23:53 2023-03-06] Launcher: prefs.xml file found.
+[4:23:53 2023-03-06] Launcher: Checking for internet connection.
+[4:23:53 2023-03-06] Patcher: Patcher Version Number: "1.3.0".
+[4:23:53 2023-03-06] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[4:23:53 2023-03-06] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[4:23:53 2023-03-06] Patcher: Local update path set to "".
+[4:23:53 2023-03-06] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[4:23:53 2023-03-06] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[4:23:53 2023-03-06] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[4:23:53 2023-03-06] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[4:23:53 2023-03-06] Patcher: Completed downloading server XML version files (Game & Launcher).
+[4:23:53 2023-03-06] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[4:23:53 2023-03-06] Patcher: Local version is "1.0.108507".
+[4:23:53 2023-03-06] Patcher: Server version is "1.0.108507".
+[4:23:53 2023-03-06] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[4:23:53 2023-03-06] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[4:23:53 2023-03-06] Patcher: Server manifest file checksum is "1488876274".
+[4:23:53 2023-03-06] Patcher: Server ver_cur checksum is "1239594997".
+[4:23:53 2023-03-06] Patcher: Local Launcher version is "0.0.0".
+[4:23:53 2023-03-06] Patcher: Server Launcher version is "0.0.0".
+[4:23:53 2023-03-06] Patcher: Launcher URL for updating self is "www.zwift.com".
+[4:23:53 2023-03-06] Patcher: No update available, deleting temp files...
+[4:23:53 2023-03-06] Launcher: Checking Launcher Version.
+[4:23:53 2023-03-06] Launcher: Checking for Game Update.
+[4:23:53 2023-03-06] Launcher: No Update found.
+[5:27:53 2023-03-06] Launcher: DoUpdateCheck() Called.
+[5:27:53 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[5:27:53 2023-03-06] Launcher: Starting Update Check.
+[5:27:53 2023-03-06] Launcher: prefs.xml file found.
+[5:27:53 2023-03-06] Launcher: Checking for internet connection.
+[5:27:53 2023-03-06] Launcher: Launcher not set to visible.
+[5:27:53 2023-03-06] Launcher: No internet was found but we were in a minimized state. Resetting the update timer.
+[6:27:56 2023-03-06] Launcher: DoUpdateCheck() Called.
+[6:27:56 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[6:27:56 2023-03-06] Launcher: Starting Update Check.
+[6:27:56 2023-03-06] Launcher: prefs.xml file found.
+[6:27:56 2023-03-06] Launcher: Checking for internet connection.
+[6:27:57 2023-03-06] Patcher: Patcher Version Number: "1.3.0".
+[6:27:57 2023-03-06] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[6:27:57 2023-03-06] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[6:27:57 2023-03-06] Patcher: Local update path set to "".
+[6:27:57 2023-03-06] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[6:27:57 2023-03-06] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[6:27:57 2023-03-06] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[6:27:57 2023-03-06] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[6:27:57 2023-03-06] Patcher: Completed downloading server XML version files (Game & Launcher).
+[6:27:57 2023-03-06] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[6:27:57 2023-03-06] Patcher: Local version is "1.0.108507".
+[6:27:57 2023-03-06] Patcher: Server version is "1.0.108507".
+[6:27:57 2023-03-06] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[6:27:57 2023-03-06] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[6:27:57 2023-03-06] Patcher: Server manifest file checksum is "1488876274".
+[6:27:57 2023-03-06] Patcher: Server ver_cur checksum is "1239594997".
+[6:27:57 2023-03-06] Patcher: Local Launcher version is "0.0.0".
+[6:27:57 2023-03-06] Patcher: Server Launcher version is "0.0.0".
+[6:27:57 2023-03-06] Patcher: Launcher URL for updating self is "www.zwift.com".
+[6:27:57 2023-03-06] Patcher: No update available, deleting temp files...
+[6:27:57 2023-03-06] Launcher: Checking Launcher Version.
+[6:27:57 2023-03-06] Launcher: Checking for Game Update.
+[6:27:57 2023-03-06] Launcher: No Update found.
+[7:27:57 2023-03-06] Launcher: DoUpdateCheck() Called.
+[7:27:57 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[7:27:57 2023-03-06] Launcher: Starting Update Check.
+[7:27:57 2023-03-06] Launcher: prefs.xml file found.
+[7:27:57 2023-03-06] Launcher: Checking for internet connection.
+[7:27:57 2023-03-06] Launcher: Launcher not set to visible.
+[7:27:57 2023-03-06] Launcher: No internet was found but we were in a minimized state. Resetting the update timer.
+[8:27:57 2023-03-06] Launcher: DoUpdateCheck() Called.
+[8:27:57 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[8:27:57 2023-03-06] Launcher: Starting Update Check.
+[8:27:57 2023-03-06] Launcher: prefs.xml file found.
+[8:27:57 2023-03-06] Launcher: Checking for internet connection.
+[8:27:57 2023-03-06] Patcher: Patcher Version Number: "1.3.0".
+[8:27:57 2023-03-06] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[8:27:57 2023-03-06] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[8:27:57 2023-03-06] Patcher: Local update path set to "".
+[8:27:57 2023-03-06] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[8:27:57 2023-03-06] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[8:27:57 2023-03-06] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[8:27:57 2023-03-06] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[8:27:57 2023-03-06] Patcher: Completed downloading server XML version files (Game & Launcher).
+[8:27:57 2023-03-06] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[8:27:57 2023-03-06] Patcher: Local version is "1.0.108507".
+[8:27:57 2023-03-06] Patcher: Server version is "1.0.108507".
+[8:27:57 2023-03-06] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[8:27:57 2023-03-06] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[8:27:57 2023-03-06] Patcher: Server manifest file checksum is "1488876274".
+[8:27:57 2023-03-06] Patcher: Server ver_cur checksum is "1239594997".
+[8:27:57 2023-03-06] Patcher: Local Launcher version is "0.0.0".
+[8:27:57 2023-03-06] Patcher: Server Launcher version is "0.0.0".
+[8:27:57 2023-03-06] Patcher: Launcher URL for updating self is "www.zwift.com".
+[8:27:57 2023-03-06] Patcher: No update available, deleting temp files...
+[8:27:57 2023-03-06] Launcher: Checking Launcher Version.
+[8:27:57 2023-03-06] Launcher: Checking for Game Update.
+[8:27:57 2023-03-06] Launcher: No Update found.
+[9:27:57 2023-03-06] Launcher: DoUpdateCheck() Called.
+[9:27:57 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[9:27:57 2023-03-06] Launcher: Starting Update Check.
+[9:27:57 2023-03-06] Launcher: prefs.xml file found.
+[9:27:57 2023-03-06] Launcher: Checking for internet connection.
+[9:27:57 2023-03-06] Patcher: Patcher Version Number: "1.3.0".
+[9:27:57 2023-03-06] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[9:27:57 2023-03-06] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[9:27:57 2023-03-06] Patcher: Local update path set to "".
+[9:27:57 2023-03-06] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[9:27:57 2023-03-06] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[9:27:57 2023-03-06] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[9:27:57 2023-03-06] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[9:27:57 2023-03-06] Patcher: Completed downloading server XML version files (Game & Launcher).
+[9:27:57 2023-03-06] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[9:27:57 2023-03-06] Patcher: Local version is "1.0.108507".
+[9:27:57 2023-03-06] Patcher: Server version is "1.0.108507".
+[9:27:57 2023-03-06] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[9:27:57 2023-03-06] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[9:27:57 2023-03-06] Patcher: Server manifest file checksum is "1488876274".
+[9:27:57 2023-03-06] Patcher: Server ver_cur checksum is "1239594997".
+[9:27:57 2023-03-06] Patcher: Local Launcher version is "0.0.0".
+[9:27:57 2023-03-06] Patcher: Server Launcher version is "0.0.0".
+[9:27:57 2023-03-06] Patcher: Launcher URL for updating self is "www.zwift.com".
+[9:27:57 2023-03-06] Patcher: No update available, deleting temp files...
+[9:27:57 2023-03-06] Launcher: Checking Launcher Version.
+[9:27:57 2023-03-06] Launcher: Checking for Game Update.
+[9:27:57 2023-03-06] Launcher: No Update found.
+[10:27:57 2023-03-06] Launcher: DoUpdateCheck() Called.
+[10:27:57 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[10:27:57 2023-03-06] Launcher: Starting Update Check.
+[10:27:57 2023-03-06] Launcher: prefs.xml file found.
+[10:27:57 2023-03-06] Launcher: Checking for internet connection.
+[10:27:57 2023-03-06] Patcher: Patcher Version Number: "1.3.0".
+[10:27:57 2023-03-06] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[10:27:57 2023-03-06] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[10:27:57 2023-03-06] Patcher: Local update path set to "".
+[10:27:57 2023-03-06] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[10:27:57 2023-03-06] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[10:27:57 2023-03-06] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[10:27:57 2023-03-06] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[10:27:57 2023-03-06] Patcher: Completed downloading server XML version files (Game & Launcher).
+[10:27:57 2023-03-06] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[10:27:57 2023-03-06] Patcher: Local version is "1.0.108507".
+[10:27:57 2023-03-06] Patcher: Server version is "1.0.108507".
+[10:27:57 2023-03-06] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[10:27:57 2023-03-06] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[10:27:57 2023-03-06] Patcher: Server manifest file checksum is "1488876274".
+[10:27:57 2023-03-06] Patcher: Server ver_cur checksum is "1239594997".
+[10:27:57 2023-03-06] Patcher: Local Launcher version is "0.0.0".
+[10:27:57 2023-03-06] Patcher: Server Launcher version is "0.0.0".
+[10:27:57 2023-03-06] Patcher: Launcher URL for updating self is "www.zwift.com".
+[10:27:57 2023-03-06] Patcher: No update available, deleting temp files...
+[10:27:57 2023-03-06] Launcher: Checking Launcher Version.
+[10:27:57 2023-03-06] Launcher: Checking for Game Update.
+[10:27:57 2023-03-06] Launcher: No Update found.
+[11:27:57 2023-03-06] Launcher: DoUpdateCheck() Called.
+[11:27:57 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[11:27:57 2023-03-06] Launcher: Starting Update Check.
+[11:27:57 2023-03-06] Launcher: prefs.xml file found.
+[11:27:57 2023-03-06] Launcher: Checking for internet connection.
+[11:27:57 2023-03-06] Patcher: Patcher Version Number: "1.3.0".
+[11:27:57 2023-03-06] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[11:27:57 2023-03-06] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[11:27:57 2023-03-06] Patcher: Local update path set to "".
+[11:27:57 2023-03-06] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[11:27:57 2023-03-06] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[11:27:57 2023-03-06] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[11:27:57 2023-03-06] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[11:27:57 2023-03-06] Patcher: Completed downloading server XML version files (Game & Launcher).
+[11:27:57 2023-03-06] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[11:27:57 2023-03-06] Patcher: Local version is "1.0.108507".
+[11:27:57 2023-03-06] Patcher: Server version is "1.0.108507".
+[11:27:57 2023-03-06] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[11:27:57 2023-03-06] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[11:27:57 2023-03-06] Patcher: Server manifest file checksum is "1488876274".
+[11:27:57 2023-03-06] Patcher: Server ver_cur checksum is "1239594997".
+[11:27:57 2023-03-06] Patcher: Local Launcher version is "0.0.0".
+[11:27:57 2023-03-06] Patcher: Server Launcher version is "0.0.0".
+[11:27:57 2023-03-06] Patcher: Launcher URL for updating self is "www.zwift.com".
+[11:27:57 2023-03-06] Patcher: No update available, deleting temp files...
+[11:27:57 2023-03-06] Launcher: Checking Launcher Version.
+[11:27:57 2023-03-06] Launcher: Checking for Game Update.
+[11:27:57 2023-03-06] Launcher: No Update found.
+[12:27:57 2023-03-06] Launcher: DoUpdateCheck() Called.
+[12:27:57 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[12:27:57 2023-03-06] Launcher: Starting Update Check.
+[12:27:57 2023-03-06] Launcher: prefs.xml file found.
+[12:27:57 2023-03-06] Launcher: Checking for internet connection.
+[12:27:57 2023-03-06] Patcher: Patcher Version Number: "1.3.0".
+[12:27:57 2023-03-06] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[12:27:57 2023-03-06] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[12:27:57 2023-03-06] Patcher: Local update path set to "".
+[12:27:57 2023-03-06] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[12:27:57 2023-03-06] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[12:27:57 2023-03-06] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[12:27:57 2023-03-06] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[12:27:57 2023-03-06] Patcher: Completed downloading server XML version files (Game & Launcher).
+[12:27:57 2023-03-06] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[12:27:57 2023-03-06] Patcher: Local version is "1.0.108507".
+[12:27:57 2023-03-06] Patcher: Server version is "1.0.108507".
+[12:27:57 2023-03-06] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[12:27:57 2023-03-06] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[12:27:57 2023-03-06] Patcher: Server manifest file checksum is "1488876274".
+[12:27:57 2023-03-06] Patcher: Server ver_cur checksum is "1239594997".
+[12:27:57 2023-03-06] Patcher: Local Launcher version is "0.0.0".
+[12:27:57 2023-03-06] Patcher: Server Launcher version is "0.0.0".
+[12:27:57 2023-03-06] Patcher: Launcher URL for updating self is "www.zwift.com".
+[12:27:57 2023-03-06] Patcher: No update available, deleting temp files...
+[12:27:57 2023-03-06] Launcher: Checking Launcher Version.
+[12:27:57 2023-03-06] Launcher: Checking for Game Update.
+[12:27:57 2023-03-06] Launcher: No Update found.
+[13:27:57 2023-03-06] Launcher: DoUpdateCheck() Called.
+[13:27:57 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[13:27:57 2023-03-06] Launcher: Starting Update Check.
+[13:27:57 2023-03-06] Launcher: prefs.xml file found.
+[13:27:57 2023-03-06] Launcher: Checking for internet connection.
+[13:27:57 2023-03-06] Patcher: Patcher Version Number: "1.3.0".
+[13:27:57 2023-03-06] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[13:27:57 2023-03-06] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[13:27:57 2023-03-06] Patcher: Local update path set to "".
+[13:27:57 2023-03-06] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[13:27:57 2023-03-06] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[13:27:58 2023-03-06] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[13:27:58 2023-03-06] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[13:27:58 2023-03-06] Patcher: Completed downloading server XML version files (Game & Launcher).
+[13:27:58 2023-03-06] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[13:27:58 2023-03-06] Patcher: Local version is "1.0.108507".
+[13:27:58 2023-03-06] Patcher: Server version is "1.0.108507".
+[13:27:58 2023-03-06] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[13:27:58 2023-03-06] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[13:27:58 2023-03-06] Patcher: Server manifest file checksum is "1488876274".
+[13:27:58 2023-03-06] Patcher: Server ver_cur checksum is "1239594997".
+[13:27:58 2023-03-06] Patcher: Local Launcher version is "0.0.0".
+[13:27:58 2023-03-06] Patcher: Server Launcher version is "0.0.0".
+[13:27:58 2023-03-06] Patcher: Launcher URL for updating self is "www.zwift.com".
+[13:27:58 2023-03-06] Patcher: No update available, deleting temp files...
+[13:27:58 2023-03-06] Launcher: Checking Launcher Version.
+[13:27:58 2023-03-06] Launcher: Checking for Game Update.
+[13:27:58 2023-03-06] Launcher: No Update found.
+[14:27:58 2023-03-06] Launcher: DoUpdateCheck() Called.
+[14:27:58 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[14:27:58 2023-03-06] Launcher: Starting Update Check.
+[14:27:58 2023-03-06] Launcher: prefs.xml file found.
+[14:27:58 2023-03-06] Launcher: Checking for internet connection.
+[14:27:58 2023-03-06] Patcher: Patcher Version Number: "1.3.0".
+[14:27:58 2023-03-06] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[14:27:58 2023-03-06] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[14:27:58 2023-03-06] Patcher: Local update path set to "".
+[14:27:58 2023-03-06] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[14:27:58 2023-03-06] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[14:27:58 2023-03-06] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[14:27:58 2023-03-06] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[14:27:58 2023-03-06] Patcher: Completed downloading server XML version files (Game & Launcher).
+[14:27:58 2023-03-06] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[14:27:58 2023-03-06] Patcher: Local version is "1.0.108507".
+[14:27:58 2023-03-06] Patcher: Server version is "1.0.108507".
+[14:27:58 2023-03-06] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[14:27:58 2023-03-06] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[14:27:58 2023-03-06] Patcher: Server manifest file checksum is "1488876274".
+[14:27:58 2023-03-06] Patcher: Server ver_cur checksum is "1239594997".
+[14:27:58 2023-03-06] Patcher: Local Launcher version is "0.0.0".
+[14:27:58 2023-03-06] Patcher: Server Launcher version is "0.0.0".
+[14:27:58 2023-03-06] Patcher: Launcher URL for updating self is "www.zwift.com".
+[14:27:58 2023-03-06] Patcher: No update available, deleting temp files...
+[14:27:58 2023-03-06] Launcher: Checking Launcher Version.
+[14:27:58 2023-03-06] Launcher: Checking for Game Update.
+[14:27:58 2023-03-06] Launcher: No Update found.
+[15:27:58 2023-03-06] Launcher: DoUpdateCheck() Called.
+[15:27:58 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[15:27:58 2023-03-06] Launcher: Starting Update Check.
+[15:27:58 2023-03-06] Launcher: prefs.xml file found.
+[15:27:58 2023-03-06] Launcher: Checking for internet connection.
+[15:27:58 2023-03-06] Patcher: Patcher Version Number: "1.3.0".
+[15:27:58 2023-03-06] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[15:27:58 2023-03-06] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[15:27:58 2023-03-06] Patcher: Local update path set to "".
+[15:27:58 2023-03-06] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[15:27:58 2023-03-06] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[15:27:58 2023-03-06] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[15:27:58 2023-03-06] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[15:27:58 2023-03-06] Patcher: Completed downloading server XML version files (Game & Launcher).
+[15:27:58 2023-03-06] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[15:27:58 2023-03-06] Patcher: Local version is "1.0.108507".
+[15:27:58 2023-03-06] Patcher: Server version is "1.0.108507".
+[15:27:58 2023-03-06] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[15:27:58 2023-03-06] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[15:27:58 2023-03-06] Patcher: Server manifest file checksum is "1488876274".
+[15:27:58 2023-03-06] Patcher: Server ver_cur checksum is "1239594997".
+[15:27:58 2023-03-06] Patcher: Local Launcher version is "0.0.0".
+[15:27:58 2023-03-06] Patcher: Server Launcher version is "0.0.0".
+[15:27:58 2023-03-06] Patcher: Launcher URL for updating self is "www.zwift.com".
+[15:27:58 2023-03-06] Patcher: No update available, deleting temp files...
+[15:27:58 2023-03-06] Launcher: Checking Launcher Version.
+[15:27:58 2023-03-06] Launcher: Checking for Game Update.
+[15:27:58 2023-03-06] Launcher: No Update found.
+[16:27:58 2023-03-06] Launcher: DoUpdateCheck() Called.
+[16:27:58 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[16:27:58 2023-03-06] Launcher: Starting Update Check.
+[16:27:58 2023-03-06] Launcher: prefs.xml file found.
+[16:27:58 2023-03-06] Launcher: Checking for internet connection.
+[16:27:58 2023-03-06] Patcher: Patcher Version Number: "1.3.0".
+[16:27:58 2023-03-06] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[16:27:58 2023-03-06] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[16:27:58 2023-03-06] Patcher: Local update path set to "".
+[16:27:58 2023-03-06] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[16:27:58 2023-03-06] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[16:27:58 2023-03-06] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[16:27:58 2023-03-06] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[16:27:58 2023-03-06] Patcher: Completed downloading server XML version files (Game & Launcher).
+[16:27:58 2023-03-06] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[16:27:58 2023-03-06] Patcher: Local version is "1.0.108507".
+[16:27:58 2023-03-06] Patcher: Server version is "1.0.108507".
+[16:27:58 2023-03-06] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[16:27:58 2023-03-06] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[16:27:58 2023-03-06] Patcher: Server manifest file checksum is "1488876274".
+[16:27:58 2023-03-06] Patcher: Server ver_cur checksum is "1239594997".
+[16:27:58 2023-03-06] Patcher: Local Launcher version is "0.0.0".
+[16:27:58 2023-03-06] Patcher: Server Launcher version is "0.0.0".
+[16:27:58 2023-03-06] Patcher: Launcher URL for updating self is "www.zwift.com".
+[16:27:58 2023-03-06] Patcher: No update available, deleting temp files...
+[16:27:58 2023-03-06] Launcher: Checking Launcher Version.
+[16:27:58 2023-03-06] Launcher: Checking for Game Update.
+[16:27:58 2023-03-06] Launcher: No Update found.
+[17:27:58 2023-03-06] Launcher: DoUpdateCheck() Called.
+[17:27:58 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[17:27:58 2023-03-06] Launcher: Starting Update Check.
+[17:27:58 2023-03-06] Launcher: prefs.xml file found.
+[17:27:58 2023-03-06] Launcher: Checking for internet connection.
+[17:27:58 2023-03-06] Patcher: Patcher Version Number: "1.3.0".
+[17:27:58 2023-03-06] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[17:27:58 2023-03-06] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[17:27:58 2023-03-06] Patcher: Local update path set to "".
+[17:27:58 2023-03-06] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[17:27:58 2023-03-06] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[17:27:58 2023-03-06] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[17:27:58 2023-03-06] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[17:27:58 2023-03-06] Patcher: Completed downloading server XML version files (Game & Launcher).
+[17:27:58 2023-03-06] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[17:27:58 2023-03-06] Patcher: Local version is "1.0.108507".
+[17:27:58 2023-03-06] Patcher: Server version is "1.0.108507".
+[17:27:58 2023-03-06] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[17:27:58 2023-03-06] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[17:27:58 2023-03-06] Patcher: Server manifest file checksum is "1488876274".
+[17:27:58 2023-03-06] Patcher: Server ver_cur checksum is "1239594997".
+[17:27:58 2023-03-06] Patcher: Local Launcher version is "0.0.0".
+[17:27:58 2023-03-06] Patcher: Server Launcher version is "0.0.0".
+[17:27:58 2023-03-06] Patcher: Launcher URL for updating self is "www.zwift.com".
+[17:27:58 2023-03-06] Patcher: No update available, deleting temp files...
+[17:27:58 2023-03-06] Launcher: Checking Launcher Version.
+[17:27:58 2023-03-06] Launcher: Checking for Game Update.
+[17:27:58 2023-03-06] Launcher: No Update found.
+[18:27:58 2023-03-06] Launcher: DoUpdateCheck() Called.
+[18:27:58 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[18:27:58 2023-03-06] Launcher: Starting Update Check.
+[18:27:58 2023-03-06] Launcher: prefs.xml file found.
+[18:27:58 2023-03-06] Launcher: Checking for internet connection.
+[18:27:58 2023-03-06] Patcher: Patcher Version Number: "1.3.0".
+[18:27:58 2023-03-06] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[18:27:58 2023-03-06] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[18:27:58 2023-03-06] Patcher: Local update path set to "".
+[18:27:58 2023-03-06] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[18:27:58 2023-03-06] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[18:27:59 2023-03-06] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[18:27:59 2023-03-06] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[18:27:59 2023-03-06] Patcher: Completed downloading server XML version files (Game & Launcher).
+[18:27:59 2023-03-06] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[18:27:59 2023-03-06] Patcher: Local version is "1.0.108507".
+[18:27:59 2023-03-06] Patcher: Server version is "1.0.108507".
+[18:27:59 2023-03-06] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[18:27:59 2023-03-06] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[18:27:59 2023-03-06] Patcher: Server manifest file checksum is "1488876274".
+[18:27:59 2023-03-06] Patcher: Server ver_cur checksum is "1239594997".
+[18:27:59 2023-03-06] Patcher: Local Launcher version is "0.0.0".
+[18:27:59 2023-03-06] Patcher: Server Launcher version is "0.0.0".
+[18:27:59 2023-03-06] Patcher: Launcher URL for updating self is "www.zwift.com".
+[18:27:59 2023-03-06] Patcher: No update available, deleting temp files...
+[18:27:59 2023-03-06] Launcher: Checking Launcher Version.
+[18:27:59 2023-03-06] Launcher: Checking for Game Update.
+[18:27:59 2023-03-06] Launcher: No Update found.
+[19:27:59 2023-03-06] Launcher: DoUpdateCheck() Called.
+[19:27:59 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[19:27:59 2023-03-06] Launcher: Starting Update Check.
+[19:27:59 2023-03-06] Launcher: prefs.xml file found.
+[19:27:59 2023-03-06] Launcher: Checking for internet connection.
+[19:27:59 2023-03-06] Patcher: Patcher Version Number: "1.3.0".
+[19:27:59 2023-03-06] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[19:27:59 2023-03-06] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[19:27:59 2023-03-06] Patcher: Local update path set to "".
+[19:27:59 2023-03-06] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[19:27:59 2023-03-06] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[19:27:59 2023-03-06] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[19:27:59 2023-03-06] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[19:27:59 2023-03-06] Patcher: Completed downloading server XML version files (Game & Launcher).
+[19:27:59 2023-03-06] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[19:27:59 2023-03-06] Patcher: Local version is "1.0.108507".
+[19:27:59 2023-03-06] Patcher: Server version is "1.0.108507".
+[19:27:59 2023-03-06] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[19:27:59 2023-03-06] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[19:27:59 2023-03-06] Patcher: Server manifest file checksum is "1488876274".
+[19:27:59 2023-03-06] Patcher: Server ver_cur checksum is "1239594997".
+[19:27:59 2023-03-06] Patcher: Local Launcher version is "0.0.0".
+[19:27:59 2023-03-06] Patcher: Server Launcher version is "0.0.0".
+[19:27:59 2023-03-06] Patcher: Launcher URL for updating self is "www.zwift.com".
+[19:27:59 2023-03-06] Patcher: No update available, deleting temp files...
+[19:27:59 2023-03-06] Launcher: Checking Launcher Version.
+[19:27:59 2023-03-06] Launcher: Checking for Game Update.
+[19:27:59 2023-03-06] Launcher: No Update found.
+[20:27:59 2023-03-06] Launcher: DoUpdateCheck() Called.
+[20:27:59 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[20:27:59 2023-03-06] Launcher: Starting Update Check.
+[20:27:59 2023-03-06] Launcher: prefs.xml file found.
+[20:27:59 2023-03-06] Launcher: Checking for internet connection.
+[20:27:59 2023-03-06] Patcher: Patcher Version Number: "1.3.0".
+[20:27:59 2023-03-06] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[20:27:59 2023-03-06] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[20:27:59 2023-03-06] Patcher: Local update path set to "".
+[20:27:59 2023-03-06] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[20:27:59 2023-03-06] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[20:27:59 2023-03-06] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[20:27:59 2023-03-06] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[20:27:59 2023-03-06] Patcher: Completed downloading server XML version files (Game & Launcher).
+[20:27:59 2023-03-06] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[20:27:59 2023-03-06] Patcher: Local version is "1.0.108507".
+[20:27:59 2023-03-06] Patcher: Server version is "1.0.108507".
+[20:27:59 2023-03-06] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[20:27:59 2023-03-06] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[20:27:59 2023-03-06] Patcher: Server manifest file checksum is "1488876274".
+[20:27:59 2023-03-06] Patcher: Server ver_cur checksum is "1239594997".
+[20:27:59 2023-03-06] Patcher: Local Launcher version is "0.0.0".
+[20:27:59 2023-03-06] Patcher: Server Launcher version is "0.0.0".
+[20:27:59 2023-03-06] Patcher: Launcher URL for updating self is "www.zwift.com".
+[20:27:59 2023-03-06] Patcher: No update available, deleting temp files...
+[20:27:59 2023-03-06] Launcher: Checking Launcher Version.
+[20:27:59 2023-03-06] Launcher: Checking for Game Update.
+[20:27:59 2023-03-06] Launcher: No Update found.
+[21:27:59 2023-03-06] Launcher: DoUpdateCheck() Called.
+[21:27:59 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[21:27:59 2023-03-06] Launcher: Starting Update Check.
+[21:27:59 2023-03-06] Launcher: prefs.xml file found.
+[21:27:59 2023-03-06] Launcher: Checking for internet connection.
+[21:27:59 2023-03-06] Patcher: Patcher Version Number: "1.3.0".
+[21:27:59 2023-03-06] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[21:27:59 2023-03-06] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[21:27:59 2023-03-06] Patcher: Local update path set to "".
+[21:27:59 2023-03-06] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[21:27:59 2023-03-06] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[21:27:59 2023-03-06] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[21:27:59 2023-03-06] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[21:27:59 2023-03-06] Patcher: Completed downloading server XML version files (Game & Launcher).
+[21:27:59 2023-03-06] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[21:27:59 2023-03-06] Patcher: Local version is "1.0.108507".
+[21:27:59 2023-03-06] Patcher: Server version is "1.0.108507".
+[21:27:59 2023-03-06] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[21:27:59 2023-03-06] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[21:27:59 2023-03-06] Patcher: Server manifest file checksum is "1488876274".
+[21:27:59 2023-03-06] Patcher: Server ver_cur checksum is "1239594997".
+[21:27:59 2023-03-06] Patcher: Local Launcher version is "0.0.0".
+[21:27:59 2023-03-06] Patcher: Server Launcher version is "0.0.0".
+[21:27:59 2023-03-06] Patcher: Launcher URL for updating self is "www.zwift.com".
+[21:27:59 2023-03-06] Patcher: No update available, deleting temp files...
+[21:27:59 2023-03-06] Launcher: Checking Launcher Version.
+[21:27:59 2023-03-06] Launcher: Checking for Game Update.
+[21:27:59 2023-03-06] Launcher: No Update found.
+[22:27:59 2023-03-06] Launcher: DoUpdateCheck() Called.
+[22:27:59 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[22:27:59 2023-03-06] Launcher: Starting Update Check.
+[22:27:59 2023-03-06] Launcher: prefs.xml file found.
+[22:27:59 2023-03-06] Launcher: Checking for internet connection.
+[22:27:59 2023-03-06] Patcher: Patcher Version Number: "1.3.0".
+[22:27:59 2023-03-06] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[22:27:59 2023-03-06] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[22:27:59 2023-03-06] Patcher: Local update path set to "".
+[22:27:59 2023-03-06] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[22:27:59 2023-03-06] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[22:27:59 2023-03-06] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[22:27:59 2023-03-06] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[22:27:59 2023-03-06] Patcher: Completed downloading server XML version files (Game & Launcher).
+[22:27:59 2023-03-06] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[22:27:59 2023-03-06] Patcher: Local version is "1.0.108507".
+[22:27:59 2023-03-06] Patcher: Server version is "1.0.108507".
+[22:27:59 2023-03-06] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[22:27:59 2023-03-06] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[22:27:59 2023-03-06] Patcher: Server manifest file checksum is "1488876274".
+[22:27:59 2023-03-06] Patcher: Server ver_cur checksum is "1239594997".
+[22:27:59 2023-03-06] Patcher: Local Launcher version is "0.0.0".
+[22:27:59 2023-03-06] Patcher: Server Launcher version is "0.0.0".
+[22:27:59 2023-03-06] Patcher: Launcher URL for updating self is "www.zwift.com".
+[22:27:59 2023-03-06] Patcher: No update available, deleting temp files...
+[22:27:59 2023-03-06] Launcher: Checking Launcher Version.
+[22:27:59 2023-03-06] Launcher: Checking for Game Update.
+[22:27:59 2023-03-06] Launcher: No Update found.
+[23:27:59 2023-03-06] Launcher: DoUpdateCheck() Called.
+[23:27:59 2023-03-06] Launcher: ZwiftApp.exe is not running.
+[23:27:59 2023-03-06] Launcher: Starting Update Check.
+[23:27:59 2023-03-06] Launcher: prefs.xml file found.
+[23:27:59 2023-03-06] Launcher: Checking for internet connection.
+[23:27:59 2023-03-06] Patcher: Patcher Version Number: "1.3.0".
+[23:27:59 2023-03-06] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[23:27:59 2023-03-06] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[23:27:59 2023-03-06] Patcher: Local update path set to "".
+[23:27:59 2023-03-06] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[23:27:59 2023-03-06] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[23:27:59 2023-03-06] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[23:27:59 2023-03-06] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[23:27:59 2023-03-06] Patcher: Completed downloading server XML version files (Game & Launcher).
+[23:27:59 2023-03-06] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[23:27:59 2023-03-06] Patcher: Local version is "1.0.108507".
+[23:27:59 2023-03-06] Patcher: Server version is "1.0.108507".
+[23:27:59 2023-03-06] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[23:27:59 2023-03-06] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[23:27:59 2023-03-06] Patcher: Server manifest file checksum is "1488876274".
+[23:27:59 2023-03-06] Patcher: Server ver_cur checksum is "1239594997".
+[23:27:59 2023-03-06] Patcher: Local Launcher version is "0.0.0".
+[23:27:59 2023-03-06] Patcher: Server Launcher version is "0.0.0".
+[23:27:59 2023-03-06] Patcher: Launcher URL for updating self is "www.zwift.com".
+[23:27:59 2023-03-06] Patcher: No update available, deleting temp files...
+[23:27:59 2023-03-06] Launcher: Checking Launcher Version.
+[23:27:59 2023-03-06] Launcher: Checking for Game Update.
+[23:27:59 2023-03-06] Launcher: No Update found.
+[0:44:35 2023-03-07] Launcher: DoUpdateCheck() Called.
+[0:44:35 2023-03-07] Launcher: ZwiftApp.exe is not running.
+[0:44:35 2023-03-07] Launcher: Starting Update Check.
+[0:44:35 2023-03-07] Launcher: prefs.xml file found.
+[0:44:35 2023-03-07] Launcher: Checking for internet connection.
+[0:44:35 2023-03-07] Patcher: Patcher Version Number: "1.3.0".
+[0:44:35 2023-03-07] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[0:44:35 2023-03-07] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[0:44:35 2023-03-07] Patcher: Local update path set to "".
+[0:44:35 2023-03-07] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[0:44:35 2023-03-07] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[0:44:35 2023-03-07] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[0:44:35 2023-03-07] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[0:44:35 2023-03-07] Patcher: Completed downloading server XML version files (Game & Launcher).
+[0:44:35 2023-03-07] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[0:44:35 2023-03-07] Patcher: Local version is "1.0.108507".
+[0:44:35 2023-03-07] Patcher: Server version is "1.0.108507".
+[0:44:35 2023-03-07] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[0:44:35 2023-03-07] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[0:44:35 2023-03-07] Patcher: Server manifest file checksum is "1488876274".
+[0:44:35 2023-03-07] Patcher: Server ver_cur checksum is "1239594997".
+[0:44:35 2023-03-07] Patcher: Local Launcher version is "0.0.0".
+[0:44:35 2023-03-07] Patcher: Server Launcher version is "0.0.0".
+[0:44:35 2023-03-07] Patcher: Launcher URL for updating self is "www.zwift.com".
+[0:44:35 2023-03-07] Patcher: No update available, deleting temp files...
+[0:44:35 2023-03-07] Launcher: Checking Launcher Version.
+[0:44:35 2023-03-07] Launcher: Checking for Game Update.
+[0:44:35 2023-03-07] Launcher: No Update found.
+[1:45:04 2023-03-07] Launcher: DoUpdateCheck() Called.
+[1:45:04 2023-03-07] Launcher: ZwiftApp.exe is not running.
+[1:45:04 2023-03-07] Launcher: Starting Update Check.
+[1:45:04 2023-03-07] Launcher: prefs.xml file found.
+[1:45:04 2023-03-07] Launcher: Checking for internet connection.
+[1:45:05 2023-03-07] Patcher: Patcher Version Number: "1.3.0".
+[1:45:05 2023-03-07] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[1:45:05 2023-03-07] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[1:45:05 2023-03-07] Patcher: Local update path set to "".
+[1:45:05 2023-03-07] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[1:45:05 2023-03-07] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[1:45:05 2023-03-07] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[1:45:05 2023-03-07] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[1:45:05 2023-03-07] Patcher: Completed downloading server XML version files (Game & Launcher).
+[1:45:05 2023-03-07] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[1:45:05 2023-03-07] Patcher: Local version is "1.0.108507".
+[1:45:05 2023-03-07] Patcher: Server version is "1.0.108507".
+[1:45:05 2023-03-07] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[1:45:05 2023-03-07] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[1:45:05 2023-03-07] Patcher: Server manifest file checksum is "1488876274".
+[1:45:05 2023-03-07] Patcher: Server ver_cur checksum is "1239594997".
+[1:45:05 2023-03-07] Patcher: Local Launcher version is "0.0.0".
+[1:45:05 2023-03-07] Patcher: Server Launcher version is "0.0.0".
+[1:45:05 2023-03-07] Patcher: Launcher URL for updating self is "www.zwift.com".
+[1:45:05 2023-03-07] Patcher: No update available, deleting temp files...
+[1:45:05 2023-03-07] Launcher: Checking Launcher Version.
+[1:45:05 2023-03-07] Launcher: Checking for Game Update.
+[1:45:05 2023-03-07] Launcher: No Update found.
+[2:47:21 2023-03-07] Launcher: DoUpdateCheck() Called.
+[2:47:21 2023-03-07] Launcher: ZwiftApp.exe is not running.
+[2:47:21 2023-03-07] Launcher: Starting Update Check.
+[2:47:21 2023-03-07] Launcher: prefs.xml file found.
+[2:47:21 2023-03-07] Launcher: Checking for internet connection.
+[2:47:21 2023-03-07] Launcher: Launcher not set to visible.
+[2:47:21 2023-03-07] Launcher: No internet was found but we were in a minimized state. Resetting the update timer.
+[3:54:22 2023-03-07] Launcher: DoUpdateCheck() Called.
+[3:54:22 2023-03-07] Launcher: ZwiftApp.exe is not running.
+[3:54:22 2023-03-07] Launcher: Starting Update Check.
+[3:54:22 2023-03-07] Launcher: prefs.xml file found.
+[3:54:22 2023-03-07] Launcher: Checking for internet connection.
+[4:04:25 2023-03-07] Launcher: Launcher not set to visible.
+[4:04:25 2023-03-07] Launcher: No internet was found but we were in a minimized state. Resetting the update timer.
+[5:13:31 2023-03-07] Launcher: DoUpdateCheck() Called.
+[5:13:31 2023-03-07] Launcher: ZwiftApp.exe is not running.
+[5:13:31 2023-03-07] Launcher: Starting Update Check.
+[5:13:31 2023-03-07] Launcher: prefs.xml file found.
+[5:13:31 2023-03-07] Launcher: Checking for internet connection.
+[5:13:31 2023-03-07] Launcher: Launcher not set to visible.
+[5:13:31 2023-03-07] Launcher: No internet was found but we were in a minimized state. Resetting the update timer.
+[6:13:31 2023-03-07] Launcher: DoUpdateCheck() Called.
+[6:13:31 2023-03-07] Launcher: ZwiftApp.exe is not running.
+[6:13:31 2023-03-07] Launcher: Starting Update Check.
+[6:13:31 2023-03-07] Launcher: prefs.xml file found.
+[6:13:31 2023-03-07] Launcher: Checking for internet connection.
+[6:13:31 2023-03-07] Patcher: Patcher Version Number: "1.3.0".
+[6:13:31 2023-03-07] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[6:13:31 2023-03-07] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[6:13:31 2023-03-07] Patcher: Local update path set to "".
+[6:13:31 2023-03-07] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[6:13:31 2023-03-07] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[6:13:31 2023-03-07] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[6:13:31 2023-03-07] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[6:13:31 2023-03-07] Patcher: Completed downloading server XML version files (Game & Launcher).
+[6:13:31 2023-03-07] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[6:13:31 2023-03-07] Patcher: Local version is "1.0.108507".
+[6:13:31 2023-03-07] Patcher: Server version is "1.0.108507".
+[6:13:31 2023-03-07] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[6:13:31 2023-03-07] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[6:13:31 2023-03-07] Patcher: Server manifest file checksum is "1488876274".
+[6:13:31 2023-03-07] Patcher: Server ver_cur checksum is "1239594997".
+[6:13:31 2023-03-07] Patcher: Local Launcher version is "0.0.0".
+[6:13:31 2023-03-07] Patcher: Server Launcher version is "0.0.0".
+[6:13:31 2023-03-07] Patcher: Launcher URL for updating self is "www.zwift.com".
+[6:13:31 2023-03-07] Patcher: No update available, deleting temp files...
+[6:13:31 2023-03-07] Launcher: Checking Launcher Version.
+[6:13:31 2023-03-07] Launcher: Checking for Game Update.
+[6:13:31 2023-03-07] Launcher: No Update found.
+[7:13:31 2023-03-07] Launcher: DoUpdateCheck() Called.
+[7:13:31 2023-03-07] Launcher: ZwiftApp.exe is not running.
+[7:13:31 2023-03-07] Launcher: Starting Update Check.
+[7:13:31 2023-03-07] Launcher: prefs.xml file found.
+[7:13:31 2023-03-07] Launcher: Checking for internet connection.
+[7:13:31 2023-03-07] Patcher: Patcher Version Number: "1.3.0".
+[7:13:31 2023-03-07] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[7:13:31 2023-03-07] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[7:13:31 2023-03-07] Patcher: Local update path set to "".
+[7:13:31 2023-03-07] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[7:13:31 2023-03-07] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[7:13:31 2023-03-07] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[7:13:31 2023-03-07] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[7:13:31 2023-03-07] Patcher: Completed downloading server XML version files (Game & Launcher).
+[7:13:31 2023-03-07] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[7:13:31 2023-03-07] Patcher: Local version is "1.0.108507".
+[7:13:31 2023-03-07] Patcher: Server version is "1.0.108507".
+[7:13:31 2023-03-07] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[7:13:31 2023-03-07] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[7:13:31 2023-03-07] Patcher: Server manifest file checksum is "1488876274".
+[7:13:31 2023-03-07] Patcher: Server ver_cur checksum is "1239594997".
+[7:13:31 2023-03-07] Patcher: Local Launcher version is "0.0.0".
+[7:13:31 2023-03-07] Patcher: Server Launcher version is "0.0.0".
+[7:13:31 2023-03-07] Patcher: Launcher URL for updating self is "www.zwift.com".
+[7:13:31 2023-03-07] Patcher: No update available, deleting temp files...
+[7:13:31 2023-03-07] Launcher: Checking Launcher Version.
+[7:13:31 2023-03-07] Launcher: Checking for Game Update.
+[7:13:31 2023-03-07] Launcher: No Update found.
+[8:13:31 2023-03-07] Launcher: DoUpdateCheck() Called.
+[8:13:31 2023-03-07] Launcher: ZwiftApp.exe is not running.
+[8:13:31 2023-03-07] Launcher: Starting Update Check.
+[8:13:31 2023-03-07] Launcher: prefs.xml file found.
+[8:13:31 2023-03-07] Launcher: Checking for internet connection.
+[8:13:31 2023-03-07] Patcher: Patcher Version Number: "1.3.0".
+[8:13:31 2023-03-07] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[8:13:31 2023-03-07] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[8:13:31 2023-03-07] Patcher: Local update path set to "".
+[8:13:31 2023-03-07] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[8:13:31 2023-03-07] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[8:13:31 2023-03-07] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[8:13:31 2023-03-07] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[8:13:31 2023-03-07] Patcher: Completed downloading server XML version files (Game & Launcher).
+[8:13:31 2023-03-07] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[8:13:31 2023-03-07] Patcher: Local version is "1.0.108507".
+[8:13:31 2023-03-07] Patcher: Server version is "1.0.108507".
+[8:13:31 2023-03-07] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[8:13:31 2023-03-07] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[8:13:31 2023-03-07] Patcher: Server manifest file checksum is "1488876274".
+[8:13:31 2023-03-07] Patcher: Server ver_cur checksum is "1239594997".
+[8:13:31 2023-03-07] Patcher: Local Launcher version is "0.0.0".
+[8:13:31 2023-03-07] Patcher: Server Launcher version is "0.0.0".
+[8:13:31 2023-03-07] Patcher: Launcher URL for updating self is "www.zwift.com".
+[8:13:31 2023-03-07] Patcher: No update available, deleting temp files...
+[8:13:31 2023-03-07] Launcher: Checking Launcher Version.
+[8:13:31 2023-03-07] Launcher: Checking for Game Update.
+[8:13:31 2023-03-07] Launcher: No Update found.
+[9:30:43 2023-03-07] Launcher: DoUpdateCheck() Called.
+[9:30:43 2023-03-07] Launcher: ZwiftApp.exe is not running.
+[9:30:43 2023-03-07] Launcher: Starting Update Check.
+[9:30:43 2023-03-07] Launcher: prefs.xml file found.
+[9:30:43 2023-03-07] Launcher: Checking for internet connection.
+[9:30:43 2023-03-07] Launcher: Launcher not set to visible.
+[9:30:43 2023-03-07] Launcher: No internet was found but we were in a minimized state. Resetting the update timer.
+[10:30:43 2023-03-07] Launcher: DoUpdateCheck() Called.
+[10:30:43 2023-03-07] Launcher: ZwiftApp.exe is not running.
+[10:30:43 2023-03-07] Launcher: Starting Update Check.
+[10:30:43 2023-03-07] Launcher: prefs.xml file found.
+[10:30:43 2023-03-07] Launcher: Checking for internet connection.
+[10:30:43 2023-03-07] Launcher: Launcher not set to visible.
+[10:30:43 2023-03-07] Launcher: No internet was found but we were in a minimized state. Resetting the update timer.
+[11:35:26 2023-03-07] Launcher: DoUpdateCheck() Called.
+[11:35:26 2023-03-07] Launcher: ZwiftApp.exe is not running.
+[11:35:26 2023-03-07] Launcher: Starting Update Check.
+[11:35:26 2023-03-07] Launcher: prefs.xml file found.
+[11:35:26 2023-03-07] Launcher: Checking for internet connection.
+[11:35:26 2023-03-07] Launcher: Launcher not set to visible.
+[11:35:26 2023-03-07] Launcher: No internet was found but we were in a minimized state. Resetting the update timer.
+[12:39:10 2023-03-07] Launcher: DoUpdateCheck() Called.
+[12:39:10 2023-03-07] Launcher: ZwiftApp.exe is not running.
+[12:39:10 2023-03-07] Launcher: Starting Update Check.
+[12:39:10 2023-03-07] Launcher: prefs.xml file found.
+[12:39:10 2023-03-07] Launcher: Checking for internet connection.
+[12:39:10 2023-03-07] Launcher: Launcher not set to visible.
+[12:39:10 2023-03-07] Launcher: No internet was found but we were in a minimized state. Resetting the update timer.
+[13:40:05 2023-03-07] Launcher: DoUpdateCheck() Called.
+[13:40:05 2023-03-07] Launcher: ZwiftApp.exe is not running.
+[13:40:05 2023-03-07] Launcher: Starting Update Check.
+[13:40:05 2023-03-07] Launcher: prefs.xml file found.
+[13:40:05 2023-03-07] Launcher: Checking for internet connection.
+[13:40:05 2023-03-07] Launcher: Launcher not set to visible.
+[13:40:05 2023-03-07] Launcher: No internet was found but we were in a minimized state. Resetting the update timer.
+[14:41:10 2023-03-07] Launcher: DoUpdateCheck() Called.
+[14:41:10 2023-03-07] Launcher: ZwiftApp.exe is not running.
+[14:41:10 2023-03-07] Launcher: Starting Update Check.
+[14:41:10 2023-03-07] Launcher: prefs.xml file found.
+[14:41:10 2023-03-07] Launcher: Checking for internet connection.
+[14:41:10 2023-03-07] Launcher: Launcher not set to visible.
+[14:41:10 2023-03-07] Launcher: No internet was found but we were in a minimized state. Resetting the update timer.
+[15:44:11 2023-03-07] Launcher: DoUpdateCheck() Called.
+[15:44:11 2023-03-07] Launcher: ZwiftApp.exe is not running.
+[15:44:11 2023-03-07] Launcher: Starting Update Check.
+[15:44:11 2023-03-07] Launcher: prefs.xml file found.
+[15:44:11 2023-03-07] Launcher: Checking for internet connection.
+[15:44:11 2023-03-07] Launcher: Launcher not set to visible.
+[15:44:11 2023-03-07] Launcher: No internet was found but we were in a minimized state. Resetting the update timer.
+[16:48:18 2023-03-07] Launcher: DoUpdateCheck() Called.
+[16:48:18 2023-03-07] Launcher: ZwiftApp.exe is not running.
+[16:48:18 2023-03-07] Launcher: Starting Update Check.
+[16:48:18 2023-03-07] Launcher: prefs.xml file found.
+[16:48:18 2023-03-07] Launcher: Checking for internet connection.
+[16:48:18 2023-03-07] Launcher: Launcher not set to visible.
+[16:48:18 2023-03-07] Launcher: No internet was found but we were in a minimized state. Resetting the update timer.
+[18:19:23 2023-03-07] Launcher: DoUpdateCheck() Called.
+[18:19:23 2023-03-07] Launcher: ZwiftApp.exe is not running.
+[18:19:23 2023-03-07] Launcher: Starting Update Check.
+[18:19:23 2023-03-07] Launcher: prefs.xml file found.
+[18:19:23 2023-03-07] Launcher: Checking for internet connection.
+[18:19:23 2023-03-07] Launcher: Launcher not set to visible.
+[18:19:23 2023-03-07] Launcher: No internet was found but we were in a minimized state. Resetting the update timer.
+[19:27:24 2023-03-07] Launcher: DoUpdateCheck() Called.
+[19:27:24 2023-03-07] Launcher: ZwiftApp.exe is not running.
+[19:27:24 2023-03-07] Launcher: Starting Update Check.
+[19:27:24 2023-03-07] Launcher: prefs.xml file found.
+[19:27:24 2023-03-07] Launcher: Checking for internet connection.
+[19:27:24 2023-03-07] Launcher: Launcher not set to visible.
+[19:27:24 2023-03-07] Launcher: No internet was found but we were in a minimized state. Resetting the update timer.
+[20:31:25 2023-03-07] Launcher: DoUpdateCheck() Called.
+[20:31:25 2023-03-07] Launcher: ZwiftApp.exe is not running.
+[20:31:25 2023-03-07] Launcher: Starting Update Check.
+[20:31:25 2023-03-07] Launcher: prefs.xml file found.
+[20:31:25 2023-03-07] Launcher: Checking for internet connection.
+[20:31:25 2023-03-07] Patcher: Patcher Version Number: "1.3.0".
+[20:31:25 2023-03-07] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[20:31:25 2023-03-07] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[20:31:25 2023-03-07] Patcher: Local update path set to "".
+[20:31:25 2023-03-07] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[20:31:25 2023-03-07] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[20:31:25 2023-03-07] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[20:31:25 2023-03-07] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[20:31:25 2023-03-07] Patcher: Completed downloading server XML version files (Game & Launcher).
+[20:31:25 2023-03-07] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[20:31:25 2023-03-07] Patcher: Local version is "1.0.108507".
+[20:31:25 2023-03-07] Patcher: Server version is "1.0.108507".
+[20:31:25 2023-03-07] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[20:31:25 2023-03-07] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[20:31:25 2023-03-07] Patcher: Server manifest file checksum is "1488876274".
+[20:31:25 2023-03-07] Patcher: Server ver_cur checksum is "1239594997".
+[20:31:25 2023-03-07] Patcher: Local Launcher version is "0.0.0".
+[20:31:25 2023-03-07] Patcher: Server Launcher version is "0.0.0".
+[20:31:25 2023-03-07] Patcher: Launcher URL for updating self is "www.zwift.com".
+[20:31:25 2023-03-07] Patcher: No update available, deleting temp files...
+[20:31:25 2023-03-07] Launcher: Checking Launcher Version.
+[20:31:25 2023-03-07] Launcher: Checking for Game Update.
+[20:31:25 2023-03-07] Launcher: No Update found.
+[21:31:25 2023-03-07] Launcher: DoUpdateCheck() Called.
+[21:31:25 2023-03-07] Launcher: ZwiftApp.exe is not running.
+[21:31:25 2023-03-07] Launcher: Starting Update Check.
+[21:31:25 2023-03-07] Launcher: prefs.xml file found.
+[21:31:25 2023-03-07] Launcher: Checking for internet connection.
+[21:31:25 2023-03-07] Patcher: Patcher Version Number: "1.3.0".
+[21:31:25 2023-03-07] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[21:31:25 2023-03-07] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[21:31:25 2023-03-07] Patcher: Local update path set to "".
+[21:31:25 2023-03-07] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[21:31:25 2023-03-07] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[21:31:25 2023-03-07] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[21:31:25 2023-03-07] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[21:31:25 2023-03-07] Patcher: Completed downloading server XML version files (Game & Launcher).
+[21:31:25 2023-03-07] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[21:31:25 2023-03-07] Patcher: Local version is "1.0.108507".
+[21:31:25 2023-03-07] Patcher: Server version is "1.0.108507".
+[21:31:25 2023-03-07] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[21:31:25 2023-03-07] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[21:31:25 2023-03-07] Patcher: Server manifest file checksum is "1488876274".
+[21:31:25 2023-03-07] Patcher: Server ver_cur checksum is "1239594997".
+[21:31:25 2023-03-07] Patcher: Local Launcher version is "0.0.0".
+[21:31:25 2023-03-07] Patcher: Server Launcher version is "0.0.0".
+[21:31:25 2023-03-07] Patcher: Launcher URL for updating self is "www.zwift.com".
+[21:31:25 2023-03-07] Patcher: No update available, deleting temp files...
+[21:31:25 2023-03-07] Launcher: Checking Launcher Version.
+[21:31:25 2023-03-07] Launcher: Checking for Game Update.
+[21:31:25 2023-03-07] Launcher: No Update found.
+[22:31:25 2023-03-07] Launcher: DoUpdateCheck() Called.
+[22:31:25 2023-03-07] Launcher: ZwiftApp.exe is not running.
+[22:31:25 2023-03-07] Launcher: Starting Update Check.
+[22:31:25 2023-03-07] Launcher: prefs.xml file found.
+[22:31:25 2023-03-07] Launcher: Checking for internet connection.
+[22:31:26 2023-03-07] Patcher: Patcher Version Number: "1.3.0".
+[22:31:26 2023-03-07] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[22:31:26 2023-03-07] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[22:31:26 2023-03-07] Patcher: Local update path set to "".
+[22:31:26 2023-03-07] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[22:31:26 2023-03-07] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[22:31:26 2023-03-07] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[22:31:26 2023-03-07] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[22:31:26 2023-03-07] Patcher: Completed downloading server XML version files (Game & Launcher).
+[22:31:26 2023-03-07] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[22:31:26 2023-03-07] Patcher: Local version is "1.0.108507".
+[22:31:26 2023-03-07] Patcher: Server version is "1.0.108507".
+[22:31:26 2023-03-07] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[22:31:26 2023-03-07] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[22:31:26 2023-03-07] Patcher: Server manifest file checksum is "1488876274".
+[22:31:26 2023-03-07] Patcher: Server ver_cur checksum is "1239594997".
+[22:31:26 2023-03-07] Patcher: Local Launcher version is "0.0.0".
+[22:31:26 2023-03-07] Patcher: Server Launcher version is "0.0.0".
+[22:31:26 2023-03-07] Patcher: Launcher URL for updating self is "www.zwift.com".
+[22:31:26 2023-03-07] Patcher: No update available, deleting temp files...
+[22:31:26 2023-03-07] Launcher: Checking Launcher Version.
+[22:31:26 2023-03-07] Launcher: Checking for Game Update.
+[22:31:26 2023-03-07] Launcher: No Update found.
+[23:31:26 2023-03-07] Launcher: DoUpdateCheck() Called.
+[23:31:26 2023-03-07] Launcher: ZwiftApp.exe is not running.
+[23:31:26 2023-03-07] Launcher: Starting Update Check.
+[23:31:26 2023-03-07] Launcher: prefs.xml file found.
+[23:31:26 2023-03-07] Launcher: Checking for internet connection.
+[23:31:26 2023-03-07] Patcher: Patcher Version Number: "1.3.0".
+[23:31:26 2023-03-07] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[23:31:26 2023-03-07] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[23:31:26 2023-03-07] Patcher: Local update path set to "".
+[23:31:26 2023-03-07] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[23:31:26 2023-03-07] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[23:31:26 2023-03-07] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[23:31:26 2023-03-07] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[23:31:26 2023-03-07] Patcher: Completed downloading server XML version files (Game & Launcher).
+[23:31:26 2023-03-07] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[23:31:26 2023-03-07] Patcher: Local version is "1.0.108507".
+[23:31:26 2023-03-07] Patcher: Server version is "1.0.108507".
+[23:31:26 2023-03-07] Patcher: Local manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[23:31:26 2023-03-07] Patcher: Server manifest is "Zwift_1.0.108507_fc8f6630_manifest.xml".
+[23:31:26 2023-03-07] Patcher: Server manifest file checksum is "1488876274".
+[23:31:26 2023-03-07] Patcher: Server ver_cur checksum is "1239594997".
+[23:31:26 2023-03-07] Patcher: Local Launcher version is "0.0.0".
+[23:31:26 2023-03-07] Patcher: Server Launcher version is "0.0.0".
+[23:31:26 2023-03-07] Patcher: Launcher URL for updating self is "www.zwift.com".
+[23:31:26 2023-03-07] Patcher: No update available, deleting temp files...
+[23:31:26 2023-03-07] Launcher: Checking Launcher Version.
+[23:31:26 2023-03-07] Launcher: Checking for Game Update.
+[23:31:26 2023-03-07] Launcher: No Update found.

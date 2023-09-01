@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Map selection: "WATOPIA", "RICHMOND", "LONDON", "NEWYORK", "INNSBRUCK", "YORKSHIRE", "FRANCE", "PARIS" -->
+<!-- Date/times are "ISO 8601" format in UTC (i.e. GMT) (eg. 2016-09-14T10:26-10 where "-10" is the time zone and can be omitted) (See: https://en.wikipedia.org/wiki/ISO_8601) -->
+<!-- Note: The entries do not have to be in chronological order -->
+<MapSchedule>
+    <appointments>
+                <!-- December -->
+        <appointment map="MAKURIISLANDS" start="2022-12-01T00:01-04" />
+        <appointment map="YORKSHIRE" start="2022-12-04T00:01-04" />
+        <appointment map="LONDON" start="2022-12-06T00:01-04" />
+        <appointment map="RICHMOND" start="2022-12-09T00:01-04" />
+        <appointment map="INNSBRUCK" start="2022-12-10T00:01-04" />
+        <appointment map="MAKURIISLANDS" start="2022-12-12T00:01-04" />
+        <appointment map="FRANCE" start="2022-12-15T00:01-04" />
+        <appointment map="LONDON" start="2022-12-18T00:01-04" />
+        <appointment map="RICHMOND" start="2022-12-20T00:01-04" />
+        <appointment map="INNSBRUCK" start="2022-12-23T00:01-04" />
+        <appointment map="YORKSHIRE" start="2022-12-24T00:01-04" />
+        <appointment map="FRANCE" start="2022-12-26T00:01-04" />
+        <appointment map="MAKURIISLANDS" start="2022-12-29T00:01-04" />
+                <!-- January -->
+        <appointment map="MAKURIISLANDS" start="2023-01-01T00:01-04" />
+        <appointment map="RICHMOND" start="2023-01-03T00:01-04" />
+        <appointment map="INNSBRUCK" start="2023-01-06T00:01-04" />
+        <appointment map="FRANCE" start="2023-01-08T00:01-04" />
+        <appointment map="MAKURIISLANDS" start="2023-01-11T00:01-04" />
+        <appointment map="YORKSHIRE" start="2023-01-14T00:01-04" />
+        <appointment map="LONDON" start="2023-01-16T00:01-04" />
+        <appointment map="RICHMOND" start="2023-01-19T00:01-04" />
+        <appointment map="MAKURIISLANDS" start="2023-01-21T00:01-04" />
+        <appointment map="FRANCE" start="2023-01-25T00:01-04" />
+        <appointment map="INNSBRUCK" start="2023-01-28T00:01-04" />
+        <appointment map="YORKSHIRE" start="2023-01-30T00:01-04" />
+        <appointment map="LONDON" start="2023-01-31T00:01-04" />
+​
+​
+    </appointments>
+    <VERSION>1</VERSION>
+</MapSchedule>

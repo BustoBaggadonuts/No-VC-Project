@@ -1,0 +1,389 @@
+[23:49:16 2023-06-06] Launcher: Checking for VerCur Override
+[23:49:16 2023-06-06] Launcher: prefs.xml file found.
+[23:49:16 2023-06-06] Launcher: This is an AutoStartup Launch.
+[23:49:16 2023-06-06] Launcher: Auto Startup is Enabled.
+[23:49:16 2023-06-06] Launcher: Launcher Version Number 1.1.5
+[23:49:16 2023-06-06] Launcher: Initializing UI Components
+[23:49:17 2023-06-06] Launcher: Initializing Tray Components
+[23:49:17 2023-06-06] Launcher: Initializing Patcher
+[23:49:17 2023-06-06] Launcher: Setting Login URL
+[23:49:17 2023-06-06] Launcher: prefs.xml file found.
+[23:49:17 2023-06-06] Launcher: Found Launcher URL.
+[23:49:17 2023-06-06] Launcher: prefs.xml file found.
+[23:49:17 2023-06-06] Launcher: Navigating to Login URL
+[23:49:17 2023-06-06] Launcher: Launching silently.
+[23:49:17 2023-06-06] Launcher: Starting silent update timer for 1 second.
+[23:49:18 2023-06-06] Launcher: DoUpdateCheck() Called.
+[23:49:18 2023-06-06] Launcher: ZwiftApp.exe is not running.
+[23:49:18 2023-06-06] Launcher: Starting Update Check.
+[23:49:18 2023-06-06] Launcher: prefs.xml file found.
+[23:49:18 2023-06-06] Launcher: Checking for internet connection.
+[23:49:18 2023-06-06] Patcher: Patcher Version Number: "1.3.0".
+[23:49:18 2023-06-06] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[23:49:18 2023-06-06] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[23:49:18 2023-06-06] Patcher: Local update path set to "".
+[23:49:18 2023-06-06] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[23:49:18 2023-06-06] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[23:49:18 2023-06-06] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[23:49:18 2023-06-06] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[23:49:18 2023-06-06] Patcher: Completed downloading server XML version files (Game & Launcher).
+[23:49:18 2023-06-06] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[23:49:18 2023-06-06] Patcher: Local version is "1.0.110983".
+[23:49:18 2023-06-06] Patcher: Server version is "1.0.112387".
+[23:49:18 2023-06-06] Patcher: Local manifest is "Zwift_1.0.110983_c2f5d01a_manifest.xml".
+[23:49:18 2023-06-06] Patcher: Server manifest is "Zwift_1.0.112387_6206595e_manifest.xml".
+[23:49:18 2023-06-06] Patcher: Server manifest file checksum is "412355868".
+[23:49:18 2023-06-06] Patcher: Server ver_cur checksum is "-2037761136".
+[23:49:18 2023-06-06] Patcher: Local Launcher version is "0.0.0".
+[23:49:18 2023-06-06] Patcher: Server Launcher version is "0.0.0".
+[23:49:18 2023-06-06] Patcher: Launcher URL for updating self is "www.zwift.com".
+[23:49:18 2023-06-06] Patcher: Update available (1.0.110983 != 1.0.112387) false 
+[23:49:18 2023-06-06] Launcher: Checking Launcher Version.
+[23:49:18 2023-06-06] Launcher: Checking for Game Update.
+[23:49:18 2023-06-06] Launcher: Update Found. Starting Pre Update Process.
+[23:49:19 2023-06-06] Patcher: Kicking download of "Zwift_1.0.112387_6206595e_manifest.xml"...
+[23:49:22 2023-06-06] Downloader: "Zwift_1.0.112387_6206595e_manifest.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[23:49:22 2023-06-06] Patcher: "Zwift_1.0.112387_6206595e_manifest.xml" was downloaded successfully.
+[23:49:22 2023-06-06] Patcher: Parsing local "Zwift_1.0.110983_c2f5d01a_manifest.xml"...
+[23:49:22 2023-06-06] Patcher: Parsing server "Zwift_1.0.112387_6206595e_manifest.xml"...
+[23:49:22 2023-06-06] Patcher: Root server folder containing files to download is "Zwift_1.0.112387_6206595e"
+[23:49:22 2023-06-06] Patcher: Preparing for software update...
+[23:49:22 2023-06-06] Patcher:     "ANT_DLL.dll" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "BleWin10Lib.dll" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "BleWin10Lib_V2.dll" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "libBink2MacArm64.dylib" server file missing locally -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "ZwiftApp.exe" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "ZwiftHelper.exe" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "ZwiftSetup.exe" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "ZwiftWindowsCrashHandler.exe" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "assets\global.wad" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "assets\configs\buttonconfigs.wad" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "assets\fonts\font.wad" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "assets\haptic\fittech_haptic.wad" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "assets\Humans\Accessories\Accessories.wad" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "assets\Noesis\Blend_Data\noesis_fonts.wad" server file missing locally -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "assets\Noesis\Blend_Data\noesis_loc.wad" server file missing locally -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "assets\Noesis\Blend_Data\noesis_resources.wad" server file missing locally -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "assets\Noesis\Blend_Data\noesis_root.wad" server file missing locally -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "assets\Noesis\Blend_Data\noesis_styles.wad" server file missing locally -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "assets\Noesis\Blend_Data\noesis_utils.wad" server file missing locally -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "assets\Noesis\Blend_Data\noesis_views.wad" server file missing locally -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "assets\Noesis\Blend_Data\noesis_zui.wad" server file missing locally -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "assets\UI\layouts\layouts.wad" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "assets\UI\WhiteOrangeTheme\WhiteOrangeTheme.wad" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "assets\Workouts\workouts.wad" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "assets\Worlds\roads.wad" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "assets\Worlds\worlds.wad" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "assets\Worlds\world1\data_1.wad" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "assets\Worlds\world10\data_1.wad" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "assets\Worlds\world11\data_1.wad" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "assets\Worlds\world13\data_1.wad" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "assets\Worlds\world9\data_1.wad" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "data\Audio\PC\globals_02.bnk" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "data\Audio\PC\globals_03.bnk" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "data\Audio\PC\Init.bnk" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "data\Audio\PC\Main.bnk" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "data\Audio\PC\Music.bnk" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "data\Audio\PC\soundmedia.bnk" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "data\configs\basic.txt" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "data\configs\currentconfig.txt" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "data\configs\high.txt" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "data\configs\medium.txt" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "data\configs\profile.txt" out of date -- adding to missing files list.
+[23:49:22 2023-06-06] Patcher:     "data\configs\ultra.txt" out of date -- adding to missing files list.
+[23:49:23 2023-06-06] Patcher:     "data\Environment\Effects\Group_Ride_Leader\Holo_Replay.gde" server file missing locally -- adding to missing files list.
+[23:49:23 2023-06-06] Patcher:     "data\Environment\HotAirBalloons\Textures\OldTimeyBalloonTDFemmesD.ztx" out of date -- adding to missing files list.
+[23:49:23 2023-06-06] Patcher:     "data\Environment\Misc\BoostArrows\Textures\FlatColourSwatch01.ztx" out of date -- adding to missing files list.
+[23:49:23 2023-06-06] Patcher:     "data\Environment\Monuments\France\Textures\BigArcFlag01TDFFaZ_D.ztx" out of date -- adding to missing files list.
+[23:49:23 2023-06-06] Patcher:     "data\Environment\Road\RoadDecals\GlasGo.gde" server file missing locally -- adding to missing files list.
+[23:49:24 2023-06-06] Patcher:     "data\Environment\Structures\EventArches\PrideOnArch2022.ztx" out of date -- adding to missing files list.
+[23:49:24 2023-06-06] Patcher:     "data\Environment\Structures\EventArches\TdFF2022Tier1Arch.ztx" out of date -- adding to missing files list.
+[23:49:24 2023-06-06] Patcher:     "data\Environment\Structures\EventArches\TdFF2022TierXArch.ztx" out of date -- adding to missing files list.
+[23:49:24 2023-06-06] Patcher:     "data\Environment\Structures\RoadSide\Barriers\France\Textures\TdFMens.ztx" out of date -- adding to missing files list.
+[23:49:26 2023-06-06] Patcher:     "data\Fonts\ZwiftFondoBlack105ptW1.ztx" out of date -- adding to missing files list.
+[23:49:26 2023-06-06] Patcher:     "data\Fonts\ZwiftFondoBlack105ptW2.ztx" out of date -- adding to missing files list.
+[23:49:26 2023-06-06] Patcher:     "data\Fonts\ZwiftFondoBlack105ptW3.ztx" out of date -- adding to missing files list.
+[23:49:26 2023-06-06] Patcher:     "data\Fonts\ZwiftFondoDigits.ztx" server file missing locally -- adding to missing files list.
+[23:49:26 2023-06-06] Patcher:     "data\Fonts\ZwiftFondoMedium54ptW1.ztx" out of date -- adding to missing files list.
+[23:49:26 2023-06-06] Patcher:     "data\Fonts\ZwiftFondoMedium54ptW2.ztx" out of date -- adding to missing files list.
+[23:49:26 2023-06-06] Patcher:     "data\Fonts\ZwiftFondoMedium54ptW3.ztx" out of date -- adding to missing files list.
+[23:49:26 2023-06-06] Patcher:     "data\Humans\Accessories\Hats\CyclingCapTdFFaZ2023.gde" server file missing locally -- adding to missing files list.
+[23:49:26 2023-06-06] Patcher:     "data\Humans\Accessories\Hats\Textures\CyclingCapTdFFaZ2023.ztx" server file missing locally -- adding to missing files list.
+[23:49:26 2023-06-06] Patcher:     "data\Humans\Jerseys\Clubs\Aeonian2021.ztx" out of date -- adding to missing files list.
+[23:49:26 2023-06-06] Patcher:     "data\Humans\Jerseys\Clubs\HexagoneRacing2023.ztx" server file missing locally -- adding to missing files list.
+[23:49:26 2023-06-06] Patcher:     "data\Humans\Jerseys\Clubs\PDQ2023.ztx" server file missing locally -- adding to missing files list.
+[23:49:26 2023-06-06] Patcher:     "data\Humans\Jerseys\Clubs\TEZH2023.ztx" server file missing locally -- adding to missing files list.
+[23:49:26 2023-06-06] Patcher:     "data\Humans\Jerseys\Clubs\VelocioUnity2023.ztx" server file missing locally -- adding to missing files list.
+[23:49:27 2023-06-06] Patcher:     "data\Humans\Jerseys\Events\TdFFemmes2022.ztx" out of date -- adding to missing files list.
+[23:49:27 2023-06-06] Patcher:     "data\Humans\Jerseys\Pro_Teams\IntermarcheWantyCircus2023.ztx" server file missing locally -- adding to missing files list.
+[23:49:27 2023-06-06] Patcher:     "data\Humans\Jerseys\Pro_Teams\JumboVismaTdF2023.ztx" server file missing locally -- adding to missing files list.
+[23:49:27 2023-06-06] Patcher:     "data\Humans\Jerseys\Pro_Teams\JumboVismaTdFFaZ2023.ztx" server file missing locally -- adding to missing files list.
+[23:49:27 2023-06-06] Patcher:     "data\Humans\Jerseys\Pro_Teams\TRINITYRace2023.ztx" server file missing locally -- adding to missing files list.
+[23:49:27 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\Campaigns\julmission2023_mission_box.png" server file missing locally -- adding to missing files list.
+[23:49:27 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\Campaigns\julyzrs2023_mission_box.png" server file missing locally -- adding to missing files list.
+[23:49:27 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\Campaigns\junmission2023_mission_box.png" server file missing locally -- adding to missing files list.
+[23:49:27 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\Campaigns\zracingjul2023_mission_box.png" server file missing locally -- adding to missing files list.
+[23:49:27 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\Campaigns\zracingjun2023_mission_box.png" server file missing locally -- adding to missing files list.
+[23:49:27 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\Controller\Controller_FrontLeft.png" out of date -- adding to missing files list.
+[23:49:27 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\Controller\Controller_FrontRight.png" out of date -- adding to missing files list.
+[23:49:27 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\Controller\Controller_TopLeft.png" out of date -- adding to missing files list.
+[23:49:27 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\Controller\Controller_TopRight.png" out of date -- adding to missing files list.
+[23:49:28 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_cyclingA.jpg" server file missing locally -- adding to missing files list.
+[23:49:28 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_cyclingB.jpg" server file missing locally -- adding to missing files list.
+[23:49:28 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_cyclingC.jpg" server file missing locally -- adding to missing files list.
+[23:49:28 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_cyclingD.jpg" server file missing locally -- adding to missing files list.
+[23:49:28 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_halloween_alien.jpg" server file missing locally -- adding to missing files list.
+[23:49:28 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_halloween_astronaut.jpg" server file missing locally -- adding to missing files list.
+[23:49:28 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_halloween_dinosaur.jpg" server file missing locally -- adding to missing files list.
+[23:49:28 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_runningfemaleA.jpg" server file missing locally -- adding to missing files list.
+[23:49:28 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_runningfemaleB.jpg" server file missing locally -- adding to missing files list.
+[23:49:28 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_runningfemaleC.jpg" server file missing locally -- adding to missing files list.
+[23:49:28 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_runningfemaleD.jpg" server file missing locally -- adding to missing files list.
+[23:49:28 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_runningmaleA.jpg" server file missing locally -- adding to missing files list.
+[23:49:28 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_runningmaleB.jpg" server file missing locally -- adding to missing files list.
+[23:49:28 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_runningmaleC.jpg" server file missing locally -- adding to missing files list.
+[23:49:28 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_runningmaleD.jpg" server file missing locally -- adding to missing files list.
+[23:49:28 2023-06-06] Patcher:     "data\Noesis\Blend_Data\ZwiftUI\ZwiftDesignSystem\Images\Shadows\Shadow_CR_0.png" server file missing locally -- adding to missing files list.
+[23:49:28 2023-06-06] Patcher:     "data\Noesis\Blend_Data\ZwiftUI\ZwiftDesignSystem\Images\Shadows\Shadow_CR_4.png" server file missing locally -- adding to missing files list.
+[23:49:28 2023-06-06] Patcher:     "data\Noesis\Blend_Data\ZwiftUI\ZwiftDesignSystem\Images\Shadows\Shadow_CR_6.png" server file missing locally -- adding to missing files list.
+[23:49:28 2023-06-06] Patcher:     "data\Noesis\Blend_Data\ZwiftUI\ZwiftDesignSystem\Images\Shadows\Shadow_CR_8.png" server file missing locally -- adding to missing files list.
+[23:49:29 2023-06-06] Patcher:     "data\UI\icons\Icon_Input.ztx" out of date -- adding to missing files list.
+[23:49:29 2023-06-06] Patcher:     "data\UI\icons\Icon_Input_Alt.ztx" out of date -- adding to missing files list.
+[23:49:29 2023-06-06] Patcher:     "data\UI\icons\Icon_Left_Controller_White.ztx" out of date -- adding to missing files list.
+[23:49:29 2023-06-06] Patcher:     "data\UI\icons\Icon_Right_Controller_White.ztx" out of date -- adding to missing files list.
+[23:49:29 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\Customization\Hats\CyclingCapTdFFaZ2023_thumb.ztx" server file missing locally -- adding to missing files list.
+[23:49:30 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\HUD\icon_face_b.ztx" out of date -- adding to missing files list.
+[23:49:30 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\HUD\icon_face_dpad_down.ztx" out of date -- adding to missing files list.
+[23:49:30 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\HUD\icon_face_dpad_left.ztx" out of date -- adding to missing files list.
+[23:49:30 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\HUD\icon_face_dpad_right.ztx" out of date -- adding to missing files list.
+[23:49:30 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\HUD\icon_face_y.ztx" out of date -- adding to missing files list.
+[23:49:30 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\HUD\icon_face_z.ztx" out of date -- adding to missing files list.
+[23:49:30 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\HUD\icon_front_ls.ztx" out of date -- adding to missing files list.
+[23:49:30 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\HUD\icon_front_rs.ztx" out of date -- adding to missing files list.
+[23:49:30 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\HUD\Y_white.ztx" server file missing locally -- adding to missing files list.
+[23:49:30 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\HUD\RepackIntro\Boost.ztx" server file missing locally -- adding to missing files list.
+[23:49:30 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\HUD\RepackIntro\Hazard.ztx" server file missing locally -- adding to missing files list.
+[23:49:30 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\HUD\RepackIntro\StopWatch.ztx" server file missing locally -- adding to missing files list.
+[23:49:30 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\JerseyIcons\Aeonian2021_thumb.ztx" out of date -- adding to missing files list.
+[23:49:30 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\JerseyIcons\HexagoneRacing2023_thumb.ztx" server file missing locally -- adding to missing files list.
+[23:49:30 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\JerseyIcons\IntermarcheWantyCircus2023_thumb.ztx" server file missing locally -- adding to missing files list.
+[23:49:30 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\JerseyIcons\JumboVismaTdF2023_thumb.ztx" server file missing locally -- adding to missing files list.
+[23:49:30 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\JerseyIcons\JumboVismaTdFFaZ2023_thumb.ztx" server file missing locally -- adding to missing files list.
+[23:49:31 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\JerseyIcons\PDQ2023_thumb.ztx" server file missing locally -- adding to missing files list.
+[23:49:31 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\JerseyIcons\TEZH2023_thumb.ztx" server file missing locally -- adding to missing files list.
+[23:49:31 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\JerseyIcons\TRINITYRace2023_thumb.ztx" server file missing locally -- adding to missing files list.
+[23:49:31 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\JerseyIcons\VelocioUnity2023_thumb.ztx" server file missing locally -- adding to missing files list.
+[23:49:31 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\ZwiftCampaigns\julmission2023_badge.ztx" server file missing locally -- adding to missing files list.
+[23:49:31 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\ZwiftCampaigns\julyzrs2023_badge.ztx" server file missing locally -- adding to missing files list.
+[23:49:31 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\ZwiftCampaigns\junmission2023_badge.ztx" server file missing locally -- adding to missing files list.
+[23:49:32 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\ZwiftCampaigns\zracingjul2023_badge.ztx" server file missing locally -- adding to missing files list.
+[23:49:32 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\ZwiftCampaigns\zracingjun2023_badge.ztx" server file missing locally -- adding to missing files list.
+[23:49:32 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\Zwift_Pacer\icon_zwift_holoreplay.ztx" server file missing locally -- adding to missing files list.
+[23:49:32 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\Zwift_Pacer\icon_zwift_holoreplay_outline.ztx" server file missing locally -- adding to missing files list.
+[23:49:32 2023-06-06] Patcher:     "data\Video\Braking.bik" out of date -- adding to missing files list.
+[23:49:32 2023-06-06] Patcher:     "data\Video\Steering.bik" out of date -- adding to missing files list.
+[23:49:32 2023-06-06] Patcher:     "assets\Noesis\Blend_Data\noesis.wad" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\1011300907.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\1044221521.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\1048102476.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\116506290.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\176894394.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\17956715.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\199462662.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\221248803.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\2221789.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\290425886.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\537681854.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\607419185.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\655897525.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\777200017.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\786660404.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\896101030.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\963639793.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\World14.bnk" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\World6.bnk" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\World8.bnk" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\Media\1042454973.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\Media\1060071765.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\Media\14061067.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\Media\254978304.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\Media\267420827.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\Media\298074532.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\Media\486350809.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\Media\536967595.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\Media\594141656.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\Media\750606579.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\Media\86434387.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\Media\869511246.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\Media\899869566.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\Media\971957210.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Audio\PC\Media\982270630.wem" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Environment\Buildings\NewYork\DistanceBuildings_NY.gdea09084" Local file not on server -- adding to extraneous files list.
+[23:49:32 2023-06-06] Patcher:     "data\Environment\Buildings\NewYork\overPass.gdea02056" Local file not on server -- adding to extraneous files list.
+[23:49:33 2023-06-06] Patcher:     "data\Environment\Rocks\GravelMountain\GravelMesaRock.01gde" Local file not on server -- adding to extraneous files list.
+[23:49:36 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\PacePartner\pace_partner_cyclingfemaleA.jpg" Local file not on server -- adding to extraneous files list.
+[23:49:36 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\PacePartner\pace_partner_cyclingfemaleB.jpg" Local file not on server -- adding to extraneous files list.
+[23:49:36 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\PacePartner\pace_partner_cyclingfemaleC.jpg" Local file not on server -- adding to extraneous files list.
+[23:49:36 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\PacePartner\pace_partner_cyclingfemaleD.jpg" Local file not on server -- adding to extraneous files list.
+[23:49:36 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\PacePartner\pace_partner_cyclingmaleA.jpg" Local file not on server -- adding to extraneous files list.
+[23:49:36 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\PacePartner\pace_partner_cyclingmaleB.jpg" Local file not on server -- adding to extraneous files list.
+[23:49:36 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\PacePartner\pace_partner_cyclingmaleC.jpg" Local file not on server -- adding to extraneous files list.
+[23:49:36 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\PacePartner\pace_partner_cyclingmaleD.jpg" Local file not on server -- adding to extraneous files list.
+[23:49:36 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\PacePartner\pace_partner_halloween_alien.jpg" Local file not on server -- adding to extraneous files list.
+[23:49:36 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\PacePartner\pace_partner_halloween_astronaut.jpg" Local file not on server -- adding to extraneous files list.
+[23:49:36 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\PacePartner\pace_partner_halloween_dinosaur.jpg" Local file not on server -- adding to extraneous files list.
+[23:49:36 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\PacePartner\pace_partner_runningfemaleA.jpg" Local file not on server -- adding to extraneous files list.
+[23:49:36 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\PacePartner\pace_partner_runningfemaleB.jpg" Local file not on server -- adding to extraneous files list.
+[23:49:36 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\PacePartner\pace_partner_runningfemaleC.jpg" Local file not on server -- adding to extraneous files list.
+[23:49:36 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\PacePartner\pace_partner_runningfemaleD.jpg" Local file not on server -- adding to extraneous files list.
+[23:49:36 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\PacePartner\pace_partner_runningmaleA.jpg" Local file not on server -- adding to extraneous files list.
+[23:49:36 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\PacePartner\pace_partner_runningmaleB.jpg" Local file not on server -- adding to extraneous files list.
+[23:49:36 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\PacePartner\pace_partner_runningmaleC.jpg" Local file not on server -- adding to extraneous files list.
+[23:49:36 2023-06-06] Patcher:     "data\Noesis\Blend_Data\Images\PacePartner\pace_partner_runningmaleD.jpg" Local file not on server -- adding to extraneous files list.
+[23:49:38 2023-06-06] Patcher:     "data\UI\WhiteOrangeTheme\HUD\tvoscontroller.tgax" Local file not on server -- adding to extraneous files list.
+[23:49:39 2023-06-06] Patcher: Kicking download of missing local files from server...
+[23:49:39 2023-06-06] Downloader: "BleWin10Lib.dll" downloaded successfully (local checksum=-219622579, manifest checksum=-219622579).
+[23:49:39 2023-06-06] Downloader: "ANT_DLL.dll" downloaded successfully (local checksum=1351851697, manifest checksum=1351851697).
+[23:49:40 2023-06-06] Downloader: "ZwiftHelper.exe" downloaded successfully (local checksum=-444160165, manifest checksum=-444160165).
+[23:49:40 2023-06-06] Downloader: "BleWin10Lib_V2.dll" downloaded successfully (local checksum=-288902595, manifest checksum=-288902595).
+[23:49:40 2023-06-06] Downloader: "libBink2MacArm64.dylib" downloaded successfully (local checksum=-1483867110, manifest checksum=-1483867110).
+[23:49:40 2023-06-06] Downloader: "assets\configs\buttonconfigs.wad" downloaded successfully (manifest checksum not provided, i.e. -1).
+[23:49:40 2023-06-06] Downloader: "assets\haptic\fittech_haptic.wad" downloaded successfully (local checksum=-799312473, manifest checksum=-799312473).
+[23:49:40 2023-06-06] Downloader: "assets\fonts\font.wad" downloaded successfully (local checksum=629812245, manifest checksum=629812245).
+[23:49:40 2023-06-06] Downloader: "assets\Noesis\Blend_Data\noesis_root.wad" downloaded successfully (local checksum=661619631, manifest checksum=661619631).
+[23:49:40 2023-06-06] Downloader: "assets\Noesis\Blend_Data\noesis_styles.wad" downloaded successfully (local checksum=-1036391227, manifest checksum=-1036391227).
+[23:49:40 2023-06-06] Downloader: "assets\Noesis\Blend_Data\noesis_utils.wad" downloaded successfully (local checksum=-32013710, manifest checksum=-32013710).
+[23:49:40 2023-06-06] Downloader: "assets\UI\layouts\layouts.wad" downloaded successfully (local checksum=226799119, manifest checksum=226799119).
+[23:49:40 2023-06-06] Downloader: "assets\Humans\Accessories\Accessories.wad" downloaded successfully (local checksum=1410926903, manifest checksum=1410926903).
+[23:49:40 2023-06-06] Downloader: "assets\Noesis\Blend_Data\noesis_views.wad" downloaded successfully (local checksum=-822308877, manifest checksum=-822308877).
+[23:49:40 2023-06-06] Downloader: "assets\Noesis\Blend_Data\noesis_resources.wad" downloaded successfully (local checksum=-1347012778, manifest checksum=-1347012778).
+[23:49:40 2023-06-06] Downloader: "assets\Noesis\Blend_Data\noesis_zui.wad" downloaded successfully (local checksum=1427426186, manifest checksum=1427426186).
+[23:49:40 2023-06-06] Downloader: "assets\Worlds\roads.wad" downloaded successfully (local checksum=349587737, manifest checksum=349587737).
+[23:49:41 2023-06-06] Downloader: "assets\Worlds\worlds.wad" downloaded successfully (local checksum=387381571, manifest checksum=387381571).
+[23:49:41 2023-06-06] Downloader: "data\Audio\PC\Init.bnk" downloaded successfully (local checksum=2139166569, manifest checksum=2139166569).
+[23:49:41 2023-06-06] Downloader: "data\Audio\PC\Music.bnk" downloaded successfully (local checksum=-778731752, manifest checksum=-778731752).
+[23:49:41 2023-06-06] Downloader: "data\configs\basic.txt" downloaded successfully (manifest checksum not provided, i.e. -1).
+[23:49:41 2023-06-06] Downloader: "data\configs\high.txt" downloaded successfully (manifest checksum not provided, i.e. -1).
+[23:49:41 2023-06-06] Downloader: "data\configs\currentconfig.txt" downloaded successfully (manifest checksum not provided, i.e. -1).
+[23:49:41 2023-06-06] Downloader: "assets\Worlds\world11\data_1.wad" downloaded successfully (local checksum=1945446979, manifest checksum=1945446979).
+[23:49:41 2023-06-06] Downloader: "data\configs\medium.txt" downloaded successfully (manifest checksum not provided, i.e. -1).
+[23:49:41 2023-06-06] Downloader: "data\configs\profile.txt" downloaded successfully (manifest checksum not provided, i.e. -1).
+[23:49:41 2023-06-06] Downloader: "data\configs\ultra.txt" downloaded successfully (manifest checksum not provided, i.e. -1).
+[23:49:41 2023-06-06] Downloader: "data\Environment\Effects\Group_Ride_Leader\Holo_Replay.gde" downloaded successfully (local checksum=1461802376, manifest checksum=1461802376).
+[23:49:41 2023-06-06] Downloader: "data\Environment\Misc\BoostArrows\Textures\FlatColourSwatch01.ztx" downloaded successfully (local checksum=1292023971, manifest checksum=1292023971).
+[23:49:41 2023-06-06] Downloader: "data\Environment\Road\RoadDecals\GlasGo.gde" downloaded successfully (local checksum=1548854989, manifest checksum=1548854989).
+[23:49:41 2023-06-06] Downloader: "data\Audio\PC\globals_03.bnk" downloaded successfully (local checksum=1854267312, manifest checksum=1854267312).
+[23:49:42 2023-06-06] Downloader: "ZwiftWindowsCrashHandler.exe" downloaded successfully (local checksum=-1524158132, manifest checksum=-1524158132).
+[23:49:42 2023-06-06] Downloader: "data\Environment\Monuments\France\Textures\BigArcFlag01TDFFaZ_D.ztx" downloaded successfully (local checksum=1484338473, manifest checksum=1484338473).
+[23:49:42 2023-06-06] Downloader: "data\Environment\Structures\EventArches\TdFF2022Tier1Arch.ztx" downloaded successfully (local checksum=-463898085, manifest checksum=-463898085).
+[23:49:42 2023-06-06] Downloader: "data\Environment\HotAirBalloons\Textures\OldTimeyBalloonTDFemmesD.ztx" downloaded successfully (local checksum=1943578042, manifest checksum=1943578042).
+[23:49:42 2023-06-06] Downloader: "data\Audio\PC\globals_02.bnk" downloaded successfully (local checksum=403366121, manifest checksum=403366121).
+[23:49:42 2023-06-06] Downloader: "data\Environment\Structures\EventArches\PrideOnArch2022.ztx" downloaded successfully (local checksum=1482819200, manifest checksum=1482819200).
+[23:49:42 2023-06-06] Downloader: "data\Environment\Structures\EventArches\TdFF2022TierXArch.ztx" downloaded successfully (local checksum=1585924667, manifest checksum=1585924667).
+[23:49:42 2023-06-06] Downloader: "data\Fonts\ZwiftFondoDigits.ztx" downloaded successfully (local checksum=1085664765, manifest checksum=1085664765).
+[23:49:42 2023-06-06] Downloader: "data\Environment\Structures\RoadSide\Barriers\France\Textures\TdFMens.ztx" downloaded successfully (local checksum=1959583658, manifest checksum=1959583658).
+[23:49:42 2023-06-06] Downloader: "data\Humans\Accessories\Hats\CyclingCapTdFFaZ2023.gde" downloaded successfully (local checksum=622114522, manifest checksum=622114522).
+[23:49:42 2023-06-06] Downloader: "assets\Worlds\world13\data_1.wad" downloaded successfully (local checksum=-2122104081, manifest checksum=-2122104081).
+[23:49:42 2023-06-06] Downloader: "data\Humans\Accessories\Hats\Textures\CyclingCapTdFFaZ2023.ztx" downloaded successfully (local checksum=313901611, manifest checksum=313901611).
+[23:49:42 2023-06-06] Downloader: "data\Humans\Jerseys\Clubs\Aeonian2021.ztx" downloaded successfully (local checksum=-405660732, manifest checksum=-405660732).
+[23:49:42 2023-06-06] Downloader: "data\Humans\Jerseys\Clubs\HexagoneRacing2023.ztx" downloaded successfully (local checksum=-88357657, manifest checksum=-88357657).
+[23:49:42 2023-06-06] Downloader: "data\Fonts\ZwiftFondoMedium54ptW2.ztx" downloaded successfully (local checksum=-1092220010, manifest checksum=-1092220010).
+[23:49:42 2023-06-06] Downloader: "data\Humans\Jerseys\Clubs\PDQ2023.ztx" downloaded successfully (local checksum=-1231527420, manifest checksum=-1231527420).
+[23:49:42 2023-06-06] Downloader: "data\Humans\Jerseys\Events\TdFFemmes2022.ztx" downloaded successfully (local checksum=809124278, manifest checksum=809124278).
+[23:49:42 2023-06-06] Downloader: "data\Humans\Jerseys\Clubs\TEZH2023.ztx" downloaded successfully (local checksum=-1923115685, manifest checksum=-1923115685).
+[23:49:42 2023-06-06] Downloader: "data\Humans\Jerseys\Clubs\VelocioUnity2023.ztx" downloaded successfully (local checksum=1519851769, manifest checksum=1519851769).
+[23:49:42 2023-06-06] Downloader: "assets\Noesis\Blend_Data\noesis_loc.wad" downloaded successfully (local checksum=-141372126, manifest checksum=-141372126).
+[23:49:42 2023-06-06] Downloader: "data\Humans\Jerseys\Pro_Teams\IntermarcheWantyCircus2023.ztx" downloaded successfully (local checksum=-952389258, manifest checksum=-952389258).
+[23:49:42 2023-06-06] Downloader: "data\Humans\Jerseys\Pro_Teams\JumboVismaTdF2023.ztx" downloaded successfully (local checksum=283288274, manifest checksum=283288274).
+[23:49:42 2023-06-06] Downloader: "data\Humans\Jerseys\Pro_Teams\JumboVismaTdFFaZ2023.ztx" downloaded successfully (local checksum=125534143, manifest checksum=125534143).
+[23:49:43 2023-06-06] Downloader: "assets\UI\WhiteOrangeTheme\WhiteOrangeTheme.wad" downloaded successfully (local checksum=-267939922, manifest checksum=-267939922).
+[23:49:43 2023-06-06] Downloader: "data\Humans\Jerseys\Pro_Teams\TRINITYRace2023.ztx" downloaded successfully (local checksum=-2133934551, manifest checksum=-2133934551).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\Campaigns\julmission2023_mission_box.png" downloaded successfully (local checksum=1987767186, manifest checksum=1987767186).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\Campaigns\julyzrs2023_mission_box.png" downloaded successfully (local checksum=-1612005262, manifest checksum=-1612005262).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\Controller\Controller_FrontLeft.png" downloaded successfully (local checksum=-502900691, manifest checksum=-502900691).
+[23:49:43 2023-06-06] Downloader: "data\Fonts\ZwiftFondoBlack105ptW2.ztx" downloaded successfully (local checksum=227062494, manifest checksum=227062494).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\Controller\Controller_FrontRight.png" downloaded successfully (local checksum=-1344520132, manifest checksum=-1344520132).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\Campaigns\junmission2023_mission_box.png" downloaded successfully (local checksum=-1763499983, manifest checksum=-1763499983).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\Controller\Controller_TopLeft.png" downloaded successfully (local checksum=-1666987353, manifest checksum=-1666987353).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\Campaigns\zracingjul2023_mission_box.png" downloaded successfully (local checksum=1784074511, manifest checksum=1784074511).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\Controller\Controller_TopRight.png" downloaded successfully (local checksum=-96844240, manifest checksum=-96844240).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\Campaigns\zracingjun2023_mission_box.png" downloaded successfully (local checksum=-289985029, manifest checksum=-289985029).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_halloween_astronaut.jpg" downloaded successfully (local checksum=-350430225, manifest checksum=-350430225).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_cyclingA.jpg" downloaded successfully (local checksum=965985275, manifest checksum=965985275).
+[23:49:43 2023-06-06] Downloader: "data\Fonts\ZwiftFondoMedium54ptW3.ztx" downloaded successfully (local checksum=-1829966446, manifest checksum=-1829966446).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_cyclingC.jpg" downloaded successfully (local checksum=-934809725, manifest checksum=-934809725).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_cyclingD.jpg" downloaded successfully (local checksum=-1708919857, manifest checksum=-1708919857).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_cyclingB.jpg" downloaded successfully (local checksum=-2111673885, manifest checksum=-2111673885).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_runningfemaleA.jpg" downloaded successfully (local checksum=268871222, manifest checksum=268871222).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_halloween_alien.jpg" downloaded successfully (local checksum=432537805, manifest checksum=432537805).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\ZwiftUI\ZwiftDesignSystem\Images\Shadows\Shadow_CR_0.png" downloaded successfully (local checksum=218440359, manifest checksum=218440359).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_runningfemaleB.jpg" downloaded successfully (local checksum=-1580395763, manifest checksum=-1580395763).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\ZwiftUI\ZwiftDesignSystem\Images\Shadows\Shadow_CR_4.png" downloaded successfully (local checksum=1137255469, manifest checksum=1137255469).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\ZwiftUI\ZwiftDesignSystem\Images\Shadows\Shadow_CR_6.png" downloaded successfully (local checksum=1226768353, manifest checksum=1226768353).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_runningfemaleC.jpg" downloaded successfully (local checksum=-913229596, manifest checksum=-913229596).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_runningfemaleD.jpg" downloaded successfully (local checksum=897529694, manifest checksum=897529694).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\ZwiftUI\ZwiftDesignSystem\Images\Shadows\Shadow_CR_8.png" downloaded successfully (local checksum=-364970853, manifest checksum=-364970853).
+[23:49:43 2023-06-06] Downloader: "data\UI\icons\Icon_Input.ztx" downloaded successfully (local checksum=701064664, manifest checksum=701064664).
+[23:49:43 2023-06-06] Downloader: "data\UI\icons\Icon_Input_Alt.ztx" downloaded successfully (local checksum=1019298827, manifest checksum=1019298827).
+[23:49:43 2023-06-06] Downloader: "data\UI\icons\Icon_Left_Controller_White.ztx" downloaded successfully (local checksum=325058970, manifest checksum=325058970).
+[23:49:43 2023-06-06] Downloader: "data\UI\icons\Icon_Right_Controller_White.ztx" downloaded successfully (local checksum=1759243059, manifest checksum=1759243059).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\Customization\Hats\CyclingCapTdFFaZ2023_thumb.ztx" downloaded successfully (local checksum=866340, manifest checksum=866340).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\HUD\icon_face_b.ztx" downloaded successfully (local checksum=376172262, manifest checksum=376172262).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_runningmaleB.jpg" downloaded successfully (local checksum=-946282324, manifest checksum=-946282324).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_runningmaleC.jpg" downloaded successfully (local checksum=-949219845, manifest checksum=-949219845).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_runningmaleD.jpg" downloaded successfully (local checksum=-1927082405, manifest checksum=-1927082405).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\HUD\icon_face_dpad_down.ztx" downloaded successfully (local checksum=-1480290222, manifest checksum=-1480290222).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\HUD\icon_face_dpad_left.ztx" downloaded successfully (local checksum=-2015142991, manifest checksum=-2015142991).
+[23:49:43 2023-06-06] Downloader: "data\Fonts\ZwiftFondoBlack105ptW1.ztx" downloaded successfully (local checksum=-766236046, manifest checksum=-766236046).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_halloween_dinosaur.jpg" downloaded successfully (local checksum=1354258348, manifest checksum=1354258348).
+[23:49:43 2023-06-06] Downloader: "data\Noesis\Blend_Data\Images\RoboPacer\robo_pacer_runningmaleA.jpg" downloaded successfully (local checksum=-1404067825, manifest checksum=-1404067825).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\HUD\icon_face_dpad_right.ztx" downloaded successfully (local checksum=946835515, manifest checksum=946835515).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\HUD\icon_face_y.ztx" downloaded successfully (local checksum=2026533240, manifest checksum=2026533240).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\HUD\icon_face_z.ztx" downloaded successfully (local checksum=-1656472306, manifest checksum=-1656472306).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\HUD\icon_front_ls.ztx" downloaded successfully (local checksum=1746016800, manifest checksum=1746016800).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\HUD\icon_front_rs.ztx" downloaded successfully (local checksum=1410130199, manifest checksum=1410130199).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\HUD\Y_white.ztx" downloaded successfully (local checksum=2026533240, manifest checksum=2026533240).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\HUD\RepackIntro\Boost.ztx" downloaded successfully (local checksum=-581014715, manifest checksum=-581014715).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\HUD\RepackIntro\Hazard.ztx" downloaded successfully (local checksum=825765518, manifest checksum=825765518).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\HUD\RepackIntro\StopWatch.ztx" downloaded successfully (local checksum=-782013994, manifest checksum=-782013994).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\JerseyIcons\Aeonian2021_thumb.ztx" downloaded successfully (local checksum=1252842604, manifest checksum=1252842604).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\JerseyIcons\HexagoneRacing2023_thumb.ztx" downloaded successfully (local checksum=-1730831164, manifest checksum=-1730831164).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\JerseyIcons\IntermarcheWantyCircus2023_thumb.ztx" downloaded successfully (local checksum=1875943185, manifest checksum=1875943185).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\JerseyIcons\JumboVismaTdF2023_thumb.ztx" downloaded successfully (local checksum=-2084364689, manifest checksum=-2084364689).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\JerseyIcons\JumboVismaTdFFaZ2023_thumb.ztx" downloaded successfully (local checksum=-476607105, manifest checksum=-476607105).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\JerseyIcons\PDQ2023_thumb.ztx" downloaded successfully (local checksum=1676008343, manifest checksum=1676008343).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\JerseyIcons\TEZH2023_thumb.ztx" downloaded successfully (local checksum=211883791, manifest checksum=211883791).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\JerseyIcons\TRINITYRace2023_thumb.ztx" downloaded successfully (local checksum=-792181264, manifest checksum=-792181264).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\JerseyIcons\VelocioUnity2023_thumb.ztx" downloaded successfully (local checksum=-1398315130, manifest checksum=-1398315130).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\ZwiftCampaigns\julmission2023_badge.ztx" downloaded successfully (local checksum=1607422317, manifest checksum=1607422317).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\ZwiftCampaigns\julyzrs2023_badge.ztx" downloaded successfully (local checksum=1545593091, manifest checksum=1545593091).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\Zwift_Pacer\icon_zwift_holoreplay.ztx" downloaded successfully (local checksum=-848638386, manifest checksum=-848638386).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\Zwift_Pacer\icon_zwift_holoreplay_outline.ztx" downloaded successfully (local checksum=151059173, manifest checksum=151059173).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\ZwiftCampaigns\zracingjul2023_badge.ztx" downloaded successfully (local checksum=-22999345, manifest checksum=-22999345).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\ZwiftCampaigns\zracingjun2023_badge.ztx" downloaded successfully (local checksum=-1503644962, manifest checksum=-1503644962).
+[23:49:43 2023-06-06] Downloader: "data\UI\WhiteOrangeTheme\ZwiftCampaigns\junmission2023_badge.ztx" downloaded successfully (local checksum=256635416, manifest checksum=256635416).
+[23:49:44 2023-06-06] Downloader: "data\Fonts\ZwiftFondoBlack105ptW3.ztx" downloaded successfully (local checksum=-478513202, manifest checksum=-478513202).
+[23:49:44 2023-06-06] Downloader: "data\Fonts\ZwiftFondoMedium54ptW1.ztx" downloaded successfully (local checksum=-2059910605, manifest checksum=-2059910605).
+[23:49:44 2023-06-06] Downloader: "assets\Workouts\workouts.wad" downloaded successfully (local checksum=1366973080, manifest checksum=1366973080).
+[23:49:44 2023-06-06] Downloader: "assets\Worlds\world10\data_1.wad" downloaded successfully (local checksum=-579479564, manifest checksum=-579479564).
+[23:49:46 2023-06-06] Downloader: "assets\global.wad" downloaded successfully (local checksum=1783763751, manifest checksum=1783763751).
+[23:49:47 2023-06-06] Downloader: "data\Video\Braking.bik" downloaded successfully (local checksum=-1961207297, manifest checksum=-1961207297).
+[23:49:47 2023-06-06] Downloader: "assets\Worlds\world9\data_1.wad" downloaded successfully (local checksum=792779955, manifest checksum=792779955).
+[23:49:49 2023-06-06] Downloader: "data\Audio\PC\soundmedia.bnk" downloaded successfully (local checksum=-1552757420, manifest checksum=-1552757420).
+[23:49:49 2023-06-06] Downloader: "data\Video\Steering.bik" downloaded successfully (local checksum=-149832158, manifest checksum=-149832158).
+[23:49:51 2023-06-06] Downloader: "assets\Worlds\world1\data_1.wad" downloaded successfully (local checksum=-410411440, manifest checksum=-410411440).
+[23:50:00 2023-06-06] Downloader: "data\Audio\PC\Main.bnk" downloaded successfully (local checksum=-1944665698, manifest checksum=-1944665698).
+[23:50:03 2023-06-06] Downloader: "ZwiftSetup.exe" downloaded successfully (local checksum=-1591268386, manifest checksum=-1591268386).
+[23:50:05 2023-06-06] Downloader: "ZwiftApp.exe" downloaded successfully (local checksum=-1432191535, manifest checksum=-1432191535).
+[23:50:14 2023-06-06] Downloader: "assets\Noesis\Blend_Data\noesis_fonts.wad" downloaded successfully (local checksum=-1366766033, manifest checksum=-1366766033).
+[23:50:14 2023-06-06] Patcher: Completed download of needed server files for update.
+[23:50:14 2023-06-06] Launcher: ZwiftApp.exe is not running.
+[23:50:14 2023-06-06] Patcher: Copying new and replacement files into place...
+[23:50:14 2023-06-06] Patcher: Copying new and replacement files into place...
+[23:50:14 2023-06-06] Patcher: Deleting unneeded files...
+[23:50:14 2023-06-06] Patcher: Deleting old local manifest file...
+[23:50:14 2023-06-06] Patcher: Copying new Manifest file into place ("C:\Users\erick\Downloads\Zwift\Zwift_1.0.112387_6206595e_manifest.xml"->"Zwift_1.0.112387_6206595e_manifest.xml")
+[23:50:14 2023-06-06] Patcher: Copying new Game Version file into place ("C:\Users\erick\Downloads\Zwift\Zwift_ver_cur.xml"->"Zwift_ver_cur.xml")
+[23:50:15 2023-06-06] Patcher: Copying new Launcher Version file into place ("C:\Users\erick\Downloads\Zwift\Launcher_ver_cur.xml"->"Launcher_ver_cur.xml")
+[23:50:15 2023-06-06] Patcher: Local Game version is now "1.0.112387".
+[23:50:15 2023-06-06] Patcher: Deleting temp files...

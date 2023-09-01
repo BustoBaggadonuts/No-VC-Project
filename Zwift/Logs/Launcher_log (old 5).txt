@@ -1,0 +1,994 @@
+[19:47:08 2023-05-04] Launcher: Checking for VerCur Override
+[19:47:08 2023-05-04] Launcher: prefs.xml file found.
+[19:47:08 2023-05-04] Launcher: This is an AutoStartup Launch.
+[19:47:08 2023-05-04] Launcher: Auto Startup is Enabled.
+[19:47:08 2023-05-04] Launcher: Launcher Version Number 1.1.5
+[19:47:08 2023-05-04] Launcher: Initializing UI Components
+[19:47:08 2023-05-04] Launcher: Initializing Tray Components
+[19:47:08 2023-05-04] Launcher: Initializing Patcher
+[19:47:08 2023-05-04] Launcher: Setting Login URL
+[19:47:08 2023-05-04] Launcher: prefs.xml file found.
+[19:47:08 2023-05-04] Launcher: Found Launcher URL.
+[19:47:08 2023-05-04] Launcher: prefs.xml file found.
+[19:47:08 2023-05-04] Launcher: Navigating to Login URL
+[19:47:08 2023-05-04] Launcher: Launching silently.
+[19:47:08 2023-05-04] Launcher: Starting silent update timer for 1 second.
+[19:47:09 2023-05-04] Launcher: DoUpdateCheck() Called.
+[19:47:09 2023-05-04] Launcher: ZwiftApp.exe is not running.
+[19:47:09 2023-05-04] Launcher: Starting Update Check.
+[19:47:09 2023-05-04] Launcher: prefs.xml file found.
+[19:47:09 2023-05-04] Launcher: Checking for internet connection.
+[19:47:09 2023-05-04] Patcher: Patcher Version Number: "1.3.0".
+[19:47:09 2023-05-04] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[19:47:09 2023-05-04] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[19:47:09 2023-05-04] Patcher: Local update path set to "".
+[19:47:09 2023-05-04] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[19:47:09 2023-05-04] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[19:47:09 2023-05-04] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[19:47:09 2023-05-04] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[19:47:09 2023-05-04] Patcher: Completed downloading server XML version files (Game & Launcher).
+[19:47:09 2023-05-04] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[19:47:09 2023-05-04] Patcher: Local version is "1.0.109673".
+[19:47:09 2023-05-04] Patcher: Server version is "1.0.109673".
+[19:47:09 2023-05-04] Patcher: Local manifest is "Zwift_1.0.109673_0e59edd2_manifest.xml".
+[19:47:09 2023-05-04] Patcher: Server manifest is "Zwift_1.0.109673_0e59edd2_manifest.xml".
+[19:47:09 2023-05-04] Patcher: Server manifest file checksum is "891756609".
+[19:47:09 2023-05-04] Patcher: Server ver_cur checksum is "2023843912".
+[19:47:09 2023-05-04] Patcher: Local Launcher version is "0.0.0".
+[19:47:09 2023-05-04] Patcher: Server Launcher version is "0.0.0".
+[19:47:09 2023-05-04] Patcher: Launcher URL for updating self is "www.zwift.com".
+[19:47:09 2023-05-04] Patcher: No update available, deleting temp files...
+[19:47:09 2023-05-04] Launcher: Checking Launcher Version.
+[19:47:09 2023-05-04] Launcher: Checking for Game Update.
+[19:47:09 2023-05-04] Launcher: No Update found.
+[20:48:11 2023-05-04] Launcher: DoUpdateCheck() Called.
+[20:48:11 2023-05-04] Launcher: ZwiftApp.exe is not running.
+[20:48:11 2023-05-04] Launcher: Starting Update Check.
+[20:48:11 2023-05-04] Launcher: prefs.xml file found.
+[20:48:11 2023-05-04] Launcher: Checking for internet connection.
+[20:48:11 2023-05-04] Launcher: Launcher not set to visible.
+[20:48:11 2023-05-04] Launcher: No internet was found but we were in a minimized state. Resetting the update timer.
+[21:51:46 2023-05-04] Launcher: DoUpdateCheck() Called.
+[21:51:46 2023-05-04] Launcher: ZwiftApp.exe is not running.
+[21:51:46 2023-05-04] Launcher: Starting Update Check.
+[21:51:46 2023-05-04] Launcher: prefs.xml file found.
+[21:51:46 2023-05-04] Launcher: Checking for internet connection.
+[21:51:46 2023-05-04] Patcher: Patcher Version Number: "1.3.0".
+[21:51:46 2023-05-04] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[21:51:46 2023-05-04] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[21:51:46 2023-05-04] Patcher: Local update path set to "".
+[21:51:46 2023-05-04] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[21:51:46 2023-05-04] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[21:51:46 2023-05-04] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[21:51:46 2023-05-04] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[21:51:46 2023-05-04] Patcher: Completed downloading server XML version files (Game & Launcher).
+[21:51:46 2023-05-04] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[21:51:46 2023-05-04] Patcher: Local version is "1.0.109673".
+[21:51:46 2023-05-04] Patcher: Server version is "1.0.109673".
+[21:51:46 2023-05-04] Patcher: Local manifest is "Zwift_1.0.109673_0e59edd2_manifest.xml".
+[21:51:46 2023-05-04] Patcher: Server manifest is "Zwift_1.0.109673_0e59edd2_manifest.xml".
+[21:51:46 2023-05-04] Patcher: Server manifest file checksum is "891756609".
+[21:51:46 2023-05-04] Patcher: Server ver_cur checksum is "2023843912".
+[21:51:46 2023-05-04] Patcher: Local Launcher version is "0.0.0".
+[21:51:46 2023-05-04] Patcher: Server Launcher version is "0.0.0".
+[21:51:46 2023-05-04] Patcher: Launcher URL for updating self is "www.zwift.com".
+[21:51:46 2023-05-04] Patcher: No update available, deleting temp files...
+[21:51:46 2023-05-04] Launcher: Checking Launcher Version.
+[21:51:46 2023-05-04] Launcher: Checking for Game Update.
+[21:51:46 2023-05-04] Launcher: No Update found.
+[22:57:58 2023-05-04] Launcher: DoUpdateCheck() Called.
+[22:57:58 2023-05-04] Launcher: ZwiftApp.exe is not running.
+[22:57:58 2023-05-04] Launcher: Starting Update Check.
+[22:57:58 2023-05-04] Launcher: prefs.xml file found.
+[22:57:58 2023-05-04] Launcher: Checking for internet connection.
+[23:00:59 2023-05-04] Launcher: Launcher not set to visible.
+[23:00:59 2023-05-04] Launcher: No internet was found but we were in a minimized state. Resetting the update timer.
+[1:05:00 2023-05-05] Launcher: DoUpdateCheck() Called.
+[1:05:00 2023-05-05] Launcher: ZwiftApp.exe is not running.
+[1:05:00 2023-05-05] Launcher: Starting Update Check.
+[1:05:00 2023-05-05] Launcher: prefs.xml file found.
+[1:05:00 2023-05-05] Launcher: Checking for internet connection.
+[1:05:00 2023-05-05] Patcher: Patcher Version Number: "1.3.0".
+[1:05:00 2023-05-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[1:05:00 2023-05-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[1:05:00 2023-05-05] Patcher: Local update path set to "".
+[1:05:00 2023-05-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[1:05:00 2023-05-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[1:05:00 2023-05-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[1:05:00 2023-05-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[1:05:00 2023-05-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[1:05:00 2023-05-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[1:05:00 2023-05-05] Patcher: Local version is "1.0.109673".
+[1:05:00 2023-05-05] Patcher: Server version is "1.0.109673".
+[1:05:00 2023-05-05] Patcher: Local manifest is "Zwift_1.0.109673_0e59edd2_manifest.xml".
+[1:05:00 2023-05-05] Patcher: Server manifest is "Zwift_1.0.109673_0e59edd2_manifest.xml".
+[1:05:00 2023-05-05] Patcher: Server manifest file checksum is "891756609".
+[1:05:00 2023-05-05] Patcher: Server ver_cur checksum is "2023843912".
+[1:05:00 2023-05-05] Patcher: Local Launcher version is "0.0.0".
+[1:05:00 2023-05-05] Patcher: Server Launcher version is "0.0.0".
+[1:05:00 2023-05-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[1:05:00 2023-05-05] Patcher: No update available, deleting temp files...
+[1:05:00 2023-05-05] Launcher: Checking Launcher Version.
+[1:05:00 2023-05-05] Launcher: Checking for Game Update.
+[1:05:00 2023-05-05] Launcher: No Update found.
+[2:09:35 2023-05-05] Launcher: DoUpdateCheck() Called.
+[2:09:35 2023-05-05] Launcher: ZwiftApp.exe is not running.
+[2:09:35 2023-05-05] Launcher: Starting Update Check.
+[2:09:35 2023-05-05] Launcher: prefs.xml file found.
+[2:09:35 2023-05-05] Launcher: Checking for internet connection.
+[2:09:35 2023-05-05] Launcher: Launcher not set to visible.
+[2:09:35 2023-05-05] Launcher: No internet was found but we were in a minimized state. Resetting the update timer.
+[3:28:05 2023-05-05] Launcher: DoUpdateCheck() Called.
+[3:28:05 2023-05-05] Launcher: ZwiftApp.exe is not running.
+[3:28:05 2023-05-05] Launcher: Starting Update Check.
+[3:28:05 2023-05-05] Launcher: prefs.xml file found.
+[3:28:05 2023-05-05] Launcher: Checking for internet connection.
+[3:28:06 2023-05-05] Patcher: Patcher Version Number: "1.3.0".
+[3:28:06 2023-05-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[3:28:06 2023-05-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[3:28:06 2023-05-05] Patcher: Local update path set to "".
+[3:28:06 2023-05-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[3:28:06 2023-05-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[3:28:06 2023-05-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[3:28:06 2023-05-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[3:28:06 2023-05-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[3:28:06 2023-05-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[3:28:06 2023-05-05] Patcher: Local version is "1.0.109673".
+[3:28:06 2023-05-05] Patcher: Server version is "1.0.109673".
+[3:28:06 2023-05-05] Patcher: Local manifest is "Zwift_1.0.109673_0e59edd2_manifest.xml".
+[3:28:06 2023-05-05] Patcher: Server manifest is "Zwift_1.0.109673_0e59edd2_manifest.xml".
+[3:28:06 2023-05-05] Patcher: Server manifest file checksum is "891756609".
+[3:28:06 2023-05-05] Patcher: Server ver_cur checksum is "2023843912".
+[3:28:06 2023-05-05] Patcher: Local Launcher version is "0.0.0".
+[3:28:06 2023-05-05] Patcher: Server Launcher version is "0.0.0".
+[3:28:06 2023-05-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[3:28:06 2023-05-05] Patcher: No update available, deleting temp files...
+[3:28:06 2023-05-05] Launcher: Checking Launcher Version.
+[3:28:06 2023-05-05] Launcher: Checking for Game Update.
+[3:28:06 2023-05-05] Launcher: No Update found.
+[4:28:06 2023-05-05] Launcher: DoUpdateCheck() Called.
+[4:28:06 2023-05-05] Launcher: ZwiftApp.exe is not running.
+[4:28:06 2023-05-05] Launcher: Starting Update Check.
+[4:28:06 2023-05-05] Launcher: prefs.xml file found.
+[4:28:06 2023-05-05] Launcher: Checking for internet connection.
+[4:28:06 2023-05-05] Patcher: Patcher Version Number: "1.3.0".
+[4:28:06 2023-05-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[4:28:06 2023-05-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[4:28:06 2023-05-05] Patcher: Local update path set to "".
+[4:28:06 2023-05-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[4:28:06 2023-05-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[4:28:06 2023-05-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[4:28:06 2023-05-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[4:28:06 2023-05-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[4:28:06 2023-05-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[4:28:06 2023-05-05] Patcher: Local version is "1.0.109673".
+[4:28:06 2023-05-05] Patcher: Server version is "1.0.109673".
+[4:28:06 2023-05-05] Patcher: Local manifest is "Zwift_1.0.109673_0e59edd2_manifest.xml".
+[4:28:06 2023-05-05] Patcher: Server manifest is "Zwift_1.0.109673_0e59edd2_manifest.xml".
+[4:28:06 2023-05-05] Patcher: Server manifest file checksum is "891756609".
+[4:28:06 2023-05-05] Patcher: Server ver_cur checksum is "2023843912".
+[4:28:06 2023-05-05] Patcher: Local Launcher version is "0.0.0".
+[4:28:06 2023-05-05] Patcher: Server Launcher version is "0.0.0".
+[4:28:06 2023-05-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[4:28:06 2023-05-05] Patcher: No update available, deleting temp files...
+[4:28:06 2023-05-05] Launcher: Checking Launcher Version.
+[4:28:06 2023-05-05] Launcher: Checking for Game Update.
+[4:28:06 2023-05-05] Launcher: No Update found.
+[5:28:06 2023-05-05] Launcher: DoUpdateCheck() Called.
+[5:28:06 2023-05-05] Launcher: ZwiftApp.exe is not running.
+[5:28:06 2023-05-05] Launcher: Starting Update Check.
+[5:28:06 2023-05-05] Launcher: prefs.xml file found.
+[5:28:06 2023-05-05] Launcher: Checking for internet connection.
+[5:28:06 2023-05-05] Patcher: Patcher Version Number: "1.3.0".
+[5:28:06 2023-05-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[5:28:06 2023-05-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[5:28:06 2023-05-05] Patcher: Local update path set to "".
+[5:28:06 2023-05-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[5:28:06 2023-05-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[5:28:06 2023-05-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[5:28:06 2023-05-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[5:28:06 2023-05-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[5:28:06 2023-05-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[5:28:06 2023-05-05] Patcher: Local version is "1.0.109673".
+[5:28:06 2023-05-05] Patcher: Server version is "1.0.109673".
+[5:28:06 2023-05-05] Patcher: Local manifest is "Zwift_1.0.109673_0e59edd2_manifest.xml".
+[5:28:06 2023-05-05] Patcher: Server manifest is "Zwift_1.0.109673_0e59edd2_manifest.xml".
+[5:28:06 2023-05-05] Patcher: Server manifest file checksum is "891756609".
+[5:28:06 2023-05-05] Patcher: Server ver_cur checksum is "2023843912".
+[5:28:06 2023-05-05] Patcher: Local Launcher version is "0.0.0".
+[5:28:06 2023-05-05] Patcher: Server Launcher version is "0.0.0".
+[5:28:06 2023-05-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[5:28:06 2023-05-05] Patcher: No update available, deleting temp files...
+[5:28:06 2023-05-05] Launcher: Checking Launcher Version.
+[5:28:06 2023-05-05] Launcher: Checking for Game Update.
+[5:28:06 2023-05-05] Launcher: No Update found.
+[6:28:06 2023-05-05] Launcher: DoUpdateCheck() Called.
+[6:28:06 2023-05-05] Launcher: ZwiftApp.exe is not running.
+[6:28:06 2023-05-05] Launcher: Starting Update Check.
+[6:28:06 2023-05-05] Launcher: prefs.xml file found.
+[6:28:06 2023-05-05] Launcher: Checking for internet connection.
+[6:28:06 2023-05-05] Patcher: Patcher Version Number: "1.3.0".
+[6:28:06 2023-05-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[6:28:06 2023-05-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[6:28:06 2023-05-05] Patcher: Local update path set to "".
+[6:28:06 2023-05-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[6:28:06 2023-05-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[6:28:06 2023-05-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[6:28:06 2023-05-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[6:28:06 2023-05-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[6:28:06 2023-05-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[6:28:06 2023-05-05] Patcher: Local version is "1.0.109673".
+[6:28:06 2023-05-05] Patcher: Server version is "1.0.109673".
+[6:28:06 2023-05-05] Patcher: Local manifest is "Zwift_1.0.109673_0e59edd2_manifest.xml".
+[6:28:06 2023-05-05] Patcher: Server manifest is "Zwift_1.0.109673_0e59edd2_manifest.xml".
+[6:28:06 2023-05-05] Patcher: Server manifest file checksum is "891756609".
+[6:28:06 2023-05-05] Patcher: Server ver_cur checksum is "2023843912".
+[6:28:06 2023-05-05] Patcher: Local Launcher version is "0.0.0".
+[6:28:06 2023-05-05] Patcher: Server Launcher version is "0.0.0".
+[6:28:06 2023-05-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[6:28:06 2023-05-05] Patcher: No update available, deleting temp files...
+[6:28:06 2023-05-05] Launcher: Checking Launcher Version.
+[6:28:06 2023-05-05] Launcher: Checking for Game Update.
+[6:28:06 2023-05-05] Launcher: No Update found.
+[7:28:06 2023-05-05] Launcher: DoUpdateCheck() Called.
+[7:28:06 2023-05-05] Launcher: ZwiftApp.exe is not running.
+[7:28:06 2023-05-05] Launcher: Starting Update Check.
+[7:28:06 2023-05-05] Launcher: prefs.xml file found.
+[7:28:06 2023-05-05] Launcher: Checking for internet connection.
+[7:28:06 2023-05-05] Patcher: Patcher Version Number: "1.3.0".
+[7:28:06 2023-05-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[7:28:06 2023-05-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[7:28:06 2023-05-05] Patcher: Local update path set to "".
+[7:28:06 2023-05-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[7:28:06 2023-05-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[7:28:06 2023-05-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[7:28:06 2023-05-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[7:28:06 2023-05-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[7:28:06 2023-05-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[7:28:06 2023-05-05] Patcher: Local version is "1.0.109673".
+[7:28:06 2023-05-05] Patcher: Server version is "1.0.109673".
+[7:28:06 2023-05-05] Patcher: Local manifest is "Zwift_1.0.109673_0e59edd2_manifest.xml".
+[7:28:06 2023-05-05] Patcher: Server manifest is "Zwift_1.0.109673_0e59edd2_manifest.xml".
+[7:28:06 2023-05-05] Patcher: Server manifest file checksum is "891756609".
+[7:28:06 2023-05-05] Patcher: Server ver_cur checksum is "2023843912".
+[7:28:06 2023-05-05] Patcher: Local Launcher version is "0.0.0".
+[7:28:06 2023-05-05] Patcher: Server Launcher version is "0.0.0".
+[7:28:06 2023-05-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[7:28:06 2023-05-05] Patcher: No update available, deleting temp files...
+[7:28:06 2023-05-05] Launcher: Checking Launcher Version.
+[7:28:06 2023-05-05] Launcher: Checking for Game Update.
+[7:28:06 2023-05-05] Launcher: No Update found.
+[8:28:06 2023-05-05] Launcher: DoUpdateCheck() Called.
+[8:28:06 2023-05-05] Launcher: ZwiftApp.exe is not running.
+[8:28:06 2023-05-05] Launcher: Starting Update Check.
+[8:28:06 2023-05-05] Launcher: prefs.xml file found.
+[8:28:06 2023-05-05] Launcher: Checking for internet connection.
+[8:28:06 2023-05-05] Patcher: Patcher Version Number: "1.3.0".
+[8:28:06 2023-05-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[8:28:06 2023-05-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[8:28:06 2023-05-05] Patcher: Local update path set to "".
+[8:28:06 2023-05-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[8:28:06 2023-05-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[8:28:06 2023-05-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[8:28:06 2023-05-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[8:28:06 2023-05-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[8:28:06 2023-05-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[8:28:06 2023-05-05] Patcher: Local version is "1.0.109673".
+[8:28:06 2023-05-05] Patcher: Server version is "1.0.109673".
+[8:28:06 2023-05-05] Patcher: Local manifest is "Zwift_1.0.109673_0e59edd2_manifest.xml".
+[8:28:06 2023-05-05] Patcher: Server manifest is "Zwift_1.0.109673_0e59edd2_manifest.xml".
+[8:28:06 2023-05-05] Patcher: Server manifest file checksum is "891756609".
+[8:28:06 2023-05-05] Patcher: Server ver_cur checksum is "2023843912".
+[8:28:06 2023-05-05] Patcher: Local Launcher version is "0.0.0".
+[8:28:06 2023-05-05] Patcher: Server Launcher version is "0.0.0".
+[8:28:06 2023-05-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[8:28:06 2023-05-05] Patcher: No update available, deleting temp files...
+[8:28:06 2023-05-05] Launcher: Checking Launcher Version.
+[8:28:06 2023-05-05] Launcher: Checking for Game Update.
+[8:28:06 2023-05-05] Launcher: No Update found.
+[9:28:06 2023-05-05] Launcher: DoUpdateCheck() Called.
+[9:28:06 2023-05-05] Launcher: ZwiftApp.exe is not running.
+[9:28:06 2023-05-05] Launcher: Starting Update Check.
+[9:28:06 2023-05-05] Launcher: prefs.xml file found.
+[9:28:06 2023-05-05] Launcher: Checking for internet connection.
+[9:28:07 2023-05-05] Patcher: Patcher Version Number: "1.3.0".
+[9:28:07 2023-05-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[9:28:07 2023-05-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[9:28:07 2023-05-05] Patcher: Local update path set to "".
+[9:28:07 2023-05-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[9:28:07 2023-05-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[9:28:07 2023-05-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[9:28:07 2023-05-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[9:28:07 2023-05-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[9:28:07 2023-05-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[9:28:07 2023-05-05] Patcher: Local version is "1.0.109673".
+[9:28:07 2023-05-05] Patcher: Server version is "1.0.109673".
+[9:28:07 2023-05-05] Patcher: Local manifest is "Zwift_1.0.109673_0e59edd2_manifest.xml".
+[9:28:07 2023-05-05] Patcher: Server manifest is "Zwift_1.0.109673_0e59edd2_manifest.xml".
+[9:28:07 2023-05-05] Patcher: Server manifest file checksum is "891756609".
+[9:28:07 2023-05-05] Patcher: Server ver_cur checksum is "2023843912".
+[9:28:07 2023-05-05] Patcher: Local Launcher version is "0.0.0".
+[9:28:07 2023-05-05] Patcher: Server Launcher version is "0.0.0".
+[9:28:07 2023-05-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[9:28:07 2023-05-05] Patcher: No update available, deleting temp files...
+[9:28:07 2023-05-05] Launcher: Checking Launcher Version.
+[9:28:07 2023-05-05] Launcher: Checking for Game Update.
+[9:28:07 2023-05-05] Launcher: No Update found.
+[10:28:07 2023-05-05] Launcher: DoUpdateCheck() Called.
+[10:28:07 2023-05-05] Launcher: ZwiftApp.exe is not running.
+[10:28:07 2023-05-05] Launcher: Starting Update Check.
+[10:28:07 2023-05-05] Launcher: prefs.xml file found.
+[10:28:07 2023-05-05] Launcher: Checking for internet connection.
+[10:28:07 2023-05-05] Patcher: Patcher Version Number: "1.3.0".
+[10:28:07 2023-05-05] Patcher: Local download path set to "C:\Users\erick\Downloads\Zwift\".
+[10:28:07 2023-05-05] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[10:28:07 2023-05-05] Patcher: Local update path set to "".
+[10:28:07 2023-05-05] Patcher: Kicking download of "Zwift_ver_cur.xml"...
+[10:28:07 2023-05-05] Patcher: Kicking download of "Launcher_ver_cur.xml"...
+[10:28:07 2023-05-05] Downloader: "Zwift_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[10:28:07 2023-05-05] Downloader: "Launcher_ver_cur.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[10:28:07 2023-05-05] Patcher: Completed downloading server XML version files (Game & Launcher).
+[10:28:07 2023-05-05] Patcher: Fetching version attribute from file: "Zwift_ver_cur.xml"
+[10:28:07 2023-05-05] Patcher: Local version is "1.0.109673".
+[10:28:07 2023-05-05] Patcher: Server version is "1.0.110983".
+[10:28:07 2023-05-05] Patcher: Local manifest is "Zwift_1.0.109673_0e59edd2_manifest.xml".
+[10:28:07 2023-05-05] Patcher: Server manifest is "Zwift_1.0.110983_c2f5d01a_manifest.xml".
+[10:28:07 2023-05-05] Patcher: Server manifest file checksum is "-1839481625".
+[10:28:07 2023-05-05] Patcher: Server ver_cur checksum is "-1984675811".
+[10:28:07 2023-05-05] Patcher: Local Launcher version is "0.0.0".
+[10:28:07 2023-05-05] Patcher: Server Launcher version is "0.0.0".
+[10:28:07 2023-05-05] Patcher: Launcher URL for updating self is "www.zwift.com".
+[10:28:07 2023-05-05] Patcher: Update available (1.0.109673 != 1.0.110983) false 
+[10:28:07 2023-05-05] Launcher: Checking Launcher Version.
+[10:28:07 2023-05-05] Launcher: Checking for Game Update.
+[10:28:07 2023-05-05] Launcher: Update Found. Starting Pre Update Process.
+[10:28:07 2023-05-05] Patcher: Kicking download of "Zwift_1.0.110983_c2f5d01a_manifest.xml"...
+[10:28:10 2023-05-05] Downloader: "Zwift_1.0.110983_c2f5d01a_manifest.xml" downloaded successfully (manifest checksum not provided, i.e. -1).
+[10:28:10 2023-05-05] Patcher: "Zwift_1.0.110983_c2f5d01a_manifest.xml" was downloaded successfully.
+[10:28:10 2023-05-05] Patcher: Parsing local "Zwift_1.0.109673_0e59edd2_manifest.xml"...
+[10:28:10 2023-05-05] Patcher: Parsing server "Zwift_1.0.110983_c2f5d01a_manifest.xml"...
+[10:28:10 2023-05-05] Patcher: Root server folder containing files to download is "Zwift_1.0.110983_c2f5d01a"
+[10:28:10 2023-05-05] Patcher: Preparing for software update...
+[10:28:10 2023-05-05] Patcher:     "ANT_DLL.dll" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "BleWin10Lib.dll" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "BleWin10Lib_V2.dll" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "ZwiftApp.exe" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "ZwiftHelper.exe" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "ZwiftSetup.exe" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "ZwiftWindowsCrashHandler.exe" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "assets\global.wad" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "assets\configs\buttonconfigs.wad" server file missing locally -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "assets\fonts\font.wad" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "assets\haptic\fittech_haptic.wad" server file missing locally -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "assets\Humans\Accessories\Accessories.wad" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "assets\Humans\Male\male.wad" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "assets\Noesis\Blend_Data\noesis.wad" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "assets\UI\WhiteOrangeTheme\WhiteOrangeTheme.wad" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "assets\Workouts\workouts.wad" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "assets\Worlds\roads.wad" server file missing locally -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "assets\Worlds\worlds.wad" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "assets\Worlds\world1\data.wad" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "assets\Worlds\world1\data_1.wad" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "assets\Worlds\world10\data_1.wad" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "assets\Worlds\world13\data_1.wad" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "assets\Worlds\world2\data_1.wad" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "assets\Worlds\world3\data_1.wad" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "assets\Worlds\world4\data_1.wad" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "assets\Worlds\world5\data_1.wad" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "assets\Worlds\world7\data_1.wad" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "assets\Worlds\world9\data_1.wad" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\globals_01.bnk" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\Main.bnk" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\soundmedia.bnk" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\World1.bnk" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\World10.bnk" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\World11.bnk" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\World12.bnk" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\World16.bnk" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\World3.bnk" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\Media\1042454973.wem" server file missing locally -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\Media\1060071765.wem" server file missing locally -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\Media\14061067.wem" server file missing locally -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\Media\254978304.wem" server file missing locally -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\Media\267420827.wem" server file missing locally -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\Media\298074532.wem" server file missing locally -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\Media\486350809.wem" server file missing locally -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\Media\536967595.wem" server file missing locally -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\Media\594141656.wem" server file missing locally -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\Media\750606579.wem" server file missing locally -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\Media\86434387.wem" server file missing locally -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\Media\869511246.wem" server file missing locally -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\Media\899869566.wem" server file missing locally -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\Media\971957210.wem" server file missing locally -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Audio\PC\Media\982270630.wem" server file missing locally -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Environment\Buildings\Glasgow\GlasgowCityModularBottom01ShortBlack02.gde" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Environment\Buildings\Glasgow\GlasgowCityModularBottom01ShortWhite01.gde" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Environment\Buildings\Glasgow\GlasgowCityModularBottom01ShortWhite02.gde" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Environment\Buildings\Glasgow\GlasgowCityModularBottom03Short.gde" out of date -- adding to missing files list.
+[10:28:10 2023-05-05] Patcher:     "data\Environment\Buildings\Glasgow\GlasgowCityModularBottom04Tall.gde" out of date -- adding to missing files list.
+[10:28:11 2023-05-05] Patcher:     "data\Environment\Misc\BoostArrows\Textures\dashB.ztx" server file missing locally -- adding to missing files list.
+[10:28:12 2023-05-05] Patcher:     "data\Environment\SkyDome\cirrus1.gde" server file missing locally -- adding to missing files list.
+[10:28:12 2023-05-05] Patcher:     "data\Environment\SkyDome\cirrus2.gde" server file missing locally -- adding to missing files list.
+[10:28:12 2023-05-05] Patcher:     "data\Environment\SkyDome\Cirrus_01.ztx" server file missing locally -- adding to missing files list.
+[10:28:12 2023-05-05] Patcher:     "data\Environment\SkyDome\clouds1.gde" server file missing locally -- adding to missing files list.
+[10:28:12 2023-05-05] Patcher:     "data\Environment\SkyDome\clouds2.gde" server file missing locally -- adding to missing files list.
+[10:28:12 2023-05-05] Patcher:     "data\Environment\SkyDome\clouds3.gde" server file missing locally -- adding to missing files list.
+[10:28:12 2023-05-05] Patcher:     "data\Environment\SkyDome\cloudsA.ztx" server file missing locally -- adding to missing files list.
+[10:28:12 2023-05-05] Patcher:     "data\Environment\SkyDome\demoSkyCloudsFast.gde" server file missing locally -- adding to missing files list.
+[10:28:12 2023-05-05] Patcher:     "data\Environment\SkyDome\exampleSkyCloudsFast.gde" server file missing locally -- adding to missing files list.
+[10:28:12 2023-05-05] Patcher:     "data\Environment\SkyDome\portal.gde" server file missing locally -- adding to missing files list.
+[10:28:12 2023-05-05] Patcher:     "data\Environment\SkyDome\SkyDome.gde" out of date -- adding to missing files list.
+[10:28:12 2023-05-05] Patcher:     "data\Environment\SkyDome\skyhalfdome2.gde" server file missing locally -- adding to missing files list.
+[10:28:12 2023-05-05] Patcher:     "data\Environment\SkyDome\starfield.ztx" server file missing locally -- adding to missing files list.
+[10:28:12 2023-05-05] Patcher:     "data\Environment\SkyDome\triangle.ztx" server file missing locally -- adding to missing files list.
+[10:28:12 2023-05-05] Patcher:     "data\Environment\Structures\Bridges\NatlForestConcreteBridge.gde" server file missing locally -- adding to missing files list.
+[10:28:12 2023-05-05] Patcher:     "data\Environment\Structures\Bridges\NatlForestWoodBridge.gde" server file missing locally -- adding to missing files list.
+[10:28:12 2023-05-05] Patcher:     "data\Environment\Structures\Bridges\NatlForest\BrokenRoadBridge.gde" server file missing locally -- adding to missing files list.
+[10:28:12 2023-05-05] Patcher:     "data\Environment\Structures\Bridges\NatlForest\NatlForestStoneBridge.gde" server file missing locally -- adding to missing files list.
+[10:28:12 2023-05-05] Patcher:     "data\Environment\Structures\Bridges\NatlForest\NatlForestWoodBridge.gde" server file missing locally -- adding to missing files list.
+[10:28:12 2023-05-05] Patcher:     "data\Environment\Structures\EventArches\ZwiftObstacleCourse2021.ztx" server file missing locally -- adding to missing files list.
+[10:28:12 2023-05-05] Patcher:     "data\Environment\Structures\EventArches\ZwiftObstacleCourseArch2021.gde" server file missing locally -- adding to missing files list.
+[10:28:13 2023-05-05] Patcher:     "data\Environment\Structures\RoadSide\MountainBikeTrail\Creek.gde" out of date -- adding to missing files list.
+[10:28:13 2023-05-05] Patcher:     "data\Environment\Structures\RoadSide\MountainBikeTrail\CreekBridgeSmall.gde" out of date -- adding to missing files list.
+[10:28:13 2023-05-05] Patcher:     "data\Environment\Structures\RoadSide\MountainBikeTrail\CreekSmall.gde" out of date -- adding to missing files list.
+[10:28:13 2023-05-05] Patcher:     "data\Environment\Structures\RoadSide\MountainBikeTrail\MtbTrailRamp3.gde" out of date -- adding to missing files list.
+[10:28:13 2023-05-05] Patcher:     "data\Environment\Structures\RoadSide\MountainBikeTrail\OldBandSaw.gde" out of date -- adding to missing files list.
+[10:28:13 2023-05-05] Patcher:     "data\Environment\Structures\RoadSide\MountainBikeTrail\RePackEntrancePaddock.gde" server file missing locally -- adding to missing files list.
+[10:28:13 2023-05-05] Patcher:     "data\Environment\Structures\RoadSide\MountainBikeTrail\RePackEntrancePaddockExit.gde" server file missing locally -- adding to missing files list.
+[10:28:13 2023-05-05] Patcher:     "data\Environment\Structures\RoadSide\MountainBikeTrail\RePackExit.gde" server file missing locally -- adding to missing files list.
+[10:28:13 2023-05-05] Patcher:     "data\Environment\Structures\RoadSide\MountainBikeTrail\RoadShoulderSection04.gde" out of date -- adding to missing files list.
+[10:28:13 2023-05-05] Patcher:     "data\Environment\Structures\RoadSide\MountainBikeTrail\SafetyNetFinish.gde" out of date -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\Fonts\ZwiftFondoBlack105ptW1.ztx" out of date -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\Fonts\ZwiftFondoBlack105ptW2.ztx" out of date -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\Fonts\ZwiftFondoBlack105ptW3.ztx" out of date -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\Fonts\ZwiftFondoMedium54ptW1.ztx" out of date -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\Fonts\ZwiftFondoMedium54ptW2.ztx" out of date -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\Fonts\ZwiftFondoMedium54ptW3.ztx" out of date -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\Boosts\BoostPickup_Blue.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\Boosts\BoostPickup_UI_Blue.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\Boosts\BoostStripA.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\Boosts\CollectionFX_Blue.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\Boosts\CollectionSpeedFX_Blue.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\Boosts\CollectionSpeedFX_Blue_Turbo.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\Energies\RadialEnergy_Blue.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\Energies\RadialEnergy_Green.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\Energies\RadialEnergy_Orange.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\Energies\RadialEnergy_Red.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\Hazards\CollectionGlow_Red.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\Hazards\HazardPickup_Red.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\Hazards\HazardPickup_UI_Red.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\Hazards\Hazard_BumperA.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\Hazards\Hazard_BumperB.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\Particles\confetti01_sheet.ztx" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\StopWatch\CollectionGlow_Green.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\StopWatch\StopWatch_Blue.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\StopWatch\StopWatch_Green.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\StopWatch\StopWatch_Orange.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\StopWatch\StopWatch_UI_Green.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\StopWatch\TimePickupEnergy_Blue.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\StopWatch\TimePickupEnergy_Green.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\StopWatch\TimePickupEnergy_Orange.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\Textures\Bars.ztx" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\FX\ZwiftPickup\ZwiftOrange.gde" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\Humans\Accessories\Hair\CurlyHair01.gde" out of date -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\Humans\Accessories\Hair\MaleHair02.gde" out of date -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\Humans\Accessories\Hair\MaleHair03.gde" out of date -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\Humans\Accessories\Hair\MaleHair04.gde" out of date -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\Humans\Accessories\Hair\MaleHair05.gde" out of date -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\Humans\Accessories\Hats\RunningCapTourOfWatopia2023.gde" out of date -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\Humans\Accessories\Socks\Textures\Socks_PrideOn2023.ztx" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\Humans\Clothes\PrideOn2023.ztx" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\Humans\Jerseys\Events\PrideOn2023.ztx" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\Humans\Jerseys\Events\RideLikeKing2023.ztx" server file missing locally -- adding to missing files list.
+[10:28:14 2023-05-05] Patcher:     "data\Humans\Jerseys\Pro_Teams\BoraHansgrohe2023.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\RoboPacer.gde" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistBottleDrink.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistClipIn.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\CyclistClipInMountain.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistClipIn_Buffalo.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistClipOut.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\CyclistClipOutMountain.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistClipOut_Buffalo.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistDropsElbowFlick.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistFootDownIdle.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\CyclistFootDownIdleMountain.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistFootDownIdle_Buffalo.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistHoodsElbowFlick.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\CyclistIdleBW.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\CyclistIdleHandcycle.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistSeatedDrops.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistSeatedDropsBlink.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\CyclistSeatedDropsBW.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\CyclistSeatedDropsHandcycle.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\CyclistSeatedDropsMountain.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\CyclistSeatedDropsMountainBlink.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistSeatedDrops_Buffalo.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistSeatedDrops_BuffaloBlink.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistSeatedDrops_TT.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistSeatedDrops_TTBlink.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistSeatedHoods.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistSeatedHoodsBlink.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\CyclistSeatedHoodsBW.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\CyclistSeatedHoodsHandcycle.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\CyclistSeatedHoodsMountain.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\CyclistSeatedHoodsMountainBlink.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistSeatedHoods_Buffalo.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistSeatedHoods_BuffaloBlink.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistSeatedHoods_TT.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistSeatedHoods_TTBlink.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistSeatedWave.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistSprint.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\CyclistSprintAltMountain.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\CyclistSprintBW.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\CyclistSprintHandcycle.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\CyclistSprintMountain.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\CyclistSprintMountain_alt.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistSprint_alt.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistSprint_alt_Buffalo.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistSprint_Buffalo.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistStandingHoods.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistStandingHoodsBlink.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\CyclistStandingHoodsMountain.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\CyclistStandingHoodsMountainBlink.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistStandingHoods_Buffalo.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistStandingHoods_BuffaloBlink.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistStandingHoods_TT.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistStandingHoods_TTBlink.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistSuperAero.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclistSuperAeroBlink.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclist_clipInConcept.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclist_clipIn_TT.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclist_clipOutConcept.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclist_clipOutIdleConcept.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclist_SeatedDrops_Concept.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\cyclist_SeatedDrops_ConceptBlink.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\Idle.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\PaperThrowDrops.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\PaperThrowHoods.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\PaperThrowStanding.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\runnerIdle.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\RunnerJog.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\RunnerJogFast.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\RunnerRun.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\RunnerSprint.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\RunnerStoreIdle.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\RunnerWalk.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\RunnerWalkFast.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Anims\RunnerWalkFaster.anim" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Textures\Glow_A.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Textures\Glow_B.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Textures\Glow_C.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Textures\Glow_D.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Textures\RPBody_DM_A.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Textures\RPBody_DM_B.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Textures\RPBody_DM_C.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Textures\RPBody_DM_D.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Textures\RPBody_NM.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Textures\RPLimbs_DM_A.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Textures\RPLimbs_DM_B.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Textures\RPLimbs_DM_C.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Textures\RPLimbs_DM_D.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Humans\RoboPacer\Textures\RPLimbs_NM.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\icon_back.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\Campaigns\zrs2023_mission_box.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\Controller\Controller_FrontLeft.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\Controller\Controller_FrontRight.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\Controller\Controller_TopLeft.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\Controller\Controller_TopRight.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\Fallback\ImageFallback_Portal.jpg" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\Garage\icon_back.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\Garage\icon_dropz.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\Garage\icon_equipped_checkmark.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\Garage\icon_gearing_basic.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\Garage\icon_gearing_climbing.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\Garage\icon_gearing_delete.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\Garage\icon_gearing_offroad.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\Garage\icon_gearing_tt.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\Garage\icon_shifter.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\Garage\placeholder_garage_gearing.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\Garage\placeholder_garage_gearing_item.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\Languages\lang_chinese.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\Languages\lang_japanese.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\Languages\lang_korean.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\RC1\background.jpg" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\RC1\background.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\Images\RC1\RideOn.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\ZwiftUI\ZwiftGameUI\Images\Fallback\ImageFallback_Profile.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\ZwiftUI\ZwiftGameUI\Images\RaceResults\error_state.png" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\Noesis\Blend_Data\ZwiftUI\ZwiftGameUI\Images\WorkoutDetail\background_workout.jpg" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\UI\icons\Icon_Cadence_White.tgax" out of date -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\UI\icons\Icon_DumbSpeed_White.tgax" out of date -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\UI\icons\Icon_Global.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\UI\icons\Icon_Heart_White.tgax" out of date -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\UI\icons\Icon_Input.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\UI\icons\Icon_Input_Alt.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\UI\icons\Icon_Left_Controller_White.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\UI\icons\Icon_Personal.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\UI\icons\Icon_Power_White.tgax" out of date -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\UI\icons\Icon_Right_Controller_White.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\UI\icons\Icon_Smart_White.tgax" out of date -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\UI\icons\UpdatedIcons2022\BonusIconFrameSegmented.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\UI\icons\UpdatedIcons2022\Clock.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\UI\icons\UpdatedIcons2022\Personal-Best.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\UI\icons\UpdatedIcons2022\PowerupInnerBG.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\UI\icons\UpdatedIcons2022\PowerupOuterBG.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\UI\icons\UpdatedIcons2022\Rewind.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\UI\icons\UpdatedIcons2022\RewindWhite.ztx" server file missing locally -- adding to missing files list.
+[10:28:15 2023-05-05] Patcher:     "data\UI\icons\UpdatedIcons2022\Stopwatch.ztx" server file missing locally -- adding to missing files list.
+[10:28:16 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\Customization\custom_icon_gearing.ztx" server file missing locally -- adding to missing files list.
+[10:28:16 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\Customization\custom_icon_shifting.ztx" server file missing locally -- adding to missing files list.
+[10:28:16 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\Customization\RunningShirts\PrideOn2023_thumb.ztx" server file missing locally -- adding to missing files list.
+[10:28:16 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\Customization\RunningShorts\PrideOn2023_thumb.ztx" server file missing locally -- adding to missing files list.
+[10:28:16 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\HUD\icon_face_b.ztx" server file missing locally -- adding to missing files list.
+[10:28:16 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\HUD\icon_face_dpad_down.ztx" server file missing locally -- adding to missing files list.
+[10:28:16 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\HUD\icon_face_dpad_left.ztx" server file missing locally -- adding to missing files list.
+[10:28:16 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\HUD\icon_face_dpad_right.ztx" server file missing locally -- adding to missing files list.
+[10:28:16 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\HUD\icon_face_y.ztx" server file missing locally -- adding to missing files list.
+[10:28:16 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\HUD\icon_face_z.ztx" server file missing locally -- adding to missing files list.
+[10:28:16 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\HUD\icon_front_ls.ztx" server file missing locally -- adding to missing files list.
+[10:28:16 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\HUD\icon_front_rs.ztx" server file missing locally -- adding to missing files list.
+[10:28:16 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\HUD\icon_minus.ztx" server file missing locally -- adding to missing files list.
+[10:28:16 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\HUD\icon_plus.ztx" server file missing locally -- adding to missing files list.
+[10:28:16 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\HUD\Navigation\steeringwheel.ztx" out of date -- adding to missing files list.
+[10:28:16 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\HUD\RepackIntro\help_repackintro_01.ztx" server file missing locally -- adding to missing files list.
+[10:28:16 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\HUD\RepackIntro\help_repackintro_02.ztx" server file missing locally -- adding to missing files list.
+[10:28:16 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\HUD\RepackIntro\help_repackintro_03.ztx" server file missing locally -- adding to missing files list.
+[10:28:16 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\JerseyIcons\BoraHansgrohe2023_thumb.ztx" server file missing locally -- adding to missing files list.
+[10:28:17 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\JerseyIcons\PrideOn2023_thumb.ztx" server file missing locally -- adding to missing files list.
+[10:28:17 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\JerseyIcons\RideLikeKing2023_thumb.ztx" server file missing locally -- adding to missing files list.
+[10:28:17 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\Pairing_Screen\icon_device_battery.ztx" server file missing locally -- adding to missing files list.
+[10:28:17 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\ZwiftCampaigns\zrs2023_badge.ztx" server file missing locally -- adding to missing files list.
+[10:28:17 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\ZwiftCampaigns\zrs2023_mission_box.ztx" server file missing locally -- adding to missing files list.
+[10:28:17 2023-05-05] Patcher:     "data\Video\Braking.bik" server file missing locally -- adding to missing files list.
+[10:28:17 2023-05-05] Patcher:     "data\Video\Steering.bik" server file missing locally -- adding to missing files list.
+[10:28:17 2023-05-05] Patcher:     "data\Worlds\world1\map.ztx" out of date -- adding to missing files list.
+[10:28:17 2023-05-05] Patcher:     "data\Worlds\world13\vertexcolormap_1024_0.ztx" server file missing locally -- adding to missing files list.
+[10:28:17 2023-05-05] Patcher:     "data\Worlds\world13\vertexcolormap_1024_1.ztx" server file missing locally -- adding to missing files list.
+[10:28:17 2023-05-05] Patcher:     "data\Worlds\world13\vertexcolormap_1024_2.ztx" server file missing locally -- adding to missing files list.
+[10:28:17 2023-05-05] Patcher:     "data\Worlds\world13\vertexcolormap_1024_3.ztx" server file missing locally -- adding to missing files list.
+[10:28:17 2023-05-05] Patcher:     "data\Worlds\world13\vertexcolormap_1024_4.ztx" server file missing locally -- adding to missing files list.
+[10:28:17 2023-05-05] Patcher:     "data\Worlds\world13\vertexcolormap_1024_5.ztx" server file missing locally -- adding to missing files list.
+[10:28:17 2023-05-05] Patcher:     "data\bikes\Components\CrankSets\Campagnolo_SuperRecord\Campagnolo_Super_Record.gde.assets.conf" Local file not on server -- adding to extraneous files list.
+[10:28:17 2023-05-05] Patcher:     "data\bikes\Components\CrankSets\Campagnolo_SuperRecord\Campagnolo_Super_Record.gde.log" Local file not on server -- adding to extraneous files list.
+[10:28:17 2023-05-05] Patcher:     "data\bikes\Components\CrankSets\Campagnolo_SuperRecord\Campagnolo_Super_Record.gde.obj" Local file not on server -- adding to extraneous files list.
+[10:28:17 2023-05-05] Patcher:     "data\bikes\Components\CrankSets\Campagnolo_SuperRecord\Campagnolo_Super_Record.gde.objf" Local file not on server -- adding to extraneous files list.
+[10:28:17 2023-05-05] Patcher:     "data\bikes\Components\CrankSets\Campagnolo_SuperRecord\Campagnolo_Super_Record.gde.txt" Local file not on server -- adding to extraneous files list.
+[10:28:17 2023-05-05] Patcher:     "data\Environment\Animals\Seagull\SeagullJoint.joint" Local file not on server -- adding to extraneous files list.
+[10:28:17 2023-05-05] Patcher:     "data\Environment\Animals\Seagull\SeagullStandingJoint.joint" Local file not on server -- adding to extraneous files list.
+[10:28:17 2023-05-05] Patcher:     "data\Environment\Animals\TropicalFish\TropicalFishAjoint.joint" Local file not on server -- adding to extraneous files list.
+[10:28:17 2023-05-05] Patcher:     "data\Environment\Animals\TropicalFish\TropicalFishBjoint.joint" Local file not on server -- adding to extraneous files list.
+[10:28:17 2023-05-05] Patcher:     "data\Environment\Animals\TropicalFish\TropicalFishCjoint.joint" Local file not on server -- adding to extraneous files list.
+[10:28:17 2023-05-05] Patcher:     "data\Environment\Animals\TropicalFish\TropicalFishDjoint.joint" Local file not on server -- adding to extraneous files list.
+[10:28:17 2023-05-05] Patcher:     "data\Environment\Bridges\JapanIslands\DELETEME.txt" Local file not on server -- adding to extraneous files list.
+[10:28:17 2023-05-05] Patcher:     "data\Environment\Bridges\JapanIslands\Textures\DELETEME.txt" Local file not on server -- adding to extraneous files list.
+[10:28:17 2023-05-05] Patcher:     "data\Environment\Buildings\Castle\Innsbruck_KufsteinFortress.obj" Local file not on server -- adding to extraneous files list.
+[10:28:18 2023-05-05] Patcher:     "data\Environment\Buildings\JapanIslands\DELETEME_GDEsGoHere.txt" Local file not on server -- adding to extraneous files list.
+[10:28:18 2023-05-05] Patcher:     "data\Environment\Buildings\JapanIslands\Textures\DELETEME_TexturesGoHere.txt" Local file not on server -- adding to extraneous files list.
+[10:28:18 2023-05-05] Patcher:     "data\Environment\Buildings\OldMiningTown\anims\Mill.joint" Local file not on server -- adding to extraneous files list.
+[10:28:19 2023-05-05] Patcher:     "data\Environment\Structures\JapanIslands\DELETEME.txt" Local file not on server -- adding to extraneous files list.
+[10:28:19 2023-05-05] Patcher:     "data\Environment\Structures\JapanIslands\Textures\DELETEME.txt" Local file not on server -- adding to extraneous files list.
+[10:28:19 2023-05-05] Patcher:     "data\Environment\Structures\RoadSide\JapanIslands\DELETEME.txt" Local file not on server -- adding to extraneous files list.
+[10:28:20 2023-05-05] Patcher:     "data\Environment\Structures\RoadSide\JapanIslands\Textures\DELETEME.txt" Local file not on server -- adding to extraneous files list.
+[10:28:20 2023-05-05] Patcher:     "data\Environment\Structures\RoadSide\MountainBikeTrail\textures\SteepRocksAhead_N.ztx" Local file not on server -- adding to extraneous files list.
+[10:28:20 2023-05-05] Patcher:     "data\Environment\Structures\RoadSide\NewYork\.mayaSwatches\futureRoadGate.ma.swatches" Local file not on server -- adding to extraneous files list.
+[10:28:20 2023-05-05] Patcher:     "data\Environment\Trains\joint2.joint" Local file not on server -- adding to extraneous files list.
+[10:28:20 2023-05-05] Patcher:     "data\Environment\Trains\joint3.joint" Local file not on server -- adding to extraneous files list.
+[10:28:20 2023-05-05] Patcher:     "data\Humans\Accessories\Hats\Textures\.mayaSwatches\CyclingCapBikeExchange2022.tga_hcm.swatch" Local file not on server -- adding to extraneous files list.
+[10:28:20 2023-05-05] Patcher:     "data\Humans\BanjoGuy\joints.joint" Local file not on server -- adding to extraneous files list.
+[10:28:20 2023-05-05] Patcher:     "data\Humans\BanjoGuy\Anims\joints.joint" Local file not on server -- adding to extraneous files list.
+[10:28:21 2023-05-05] Patcher:     "data\Humans\Female_Pedestrian\joints.joint" Local file not on server -- adding to extraneous files list.
+[10:28:21 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\lang_chinese.ztx" Local file not on server -- adding to extraneous files list.
+[10:28:22 2023-05-05] Patcher:     "data\UI\WhiteOrangeTheme\HUD\Route_Navigation\Route_Select_RepackRidge.ztx" Local file not on server -- adding to extraneous files list.
+[10:28:23 2023-05-05] Patcher:     "data\Workouts\.gitignore" Local file not on server -- adding to extraneous files list.
+[10:28:23 2023-05-05] Patcher:     "data\Workouts\README.md" Local file not on server -- adding to extraneous files list.
+[10:28:23 2023-05-05] Patcher: Kicking download of missing local files from server...
+[10:28:23 2023-05-05] Downloader: "ZwiftHelper.exe" downloaded successfully (local checksum=-1474162396, manifest checksum=-1474162396).
+[10:28:23 2023-05-05] Downloader: "BleWin10Lib.dll" downloaded successfully (local checksum=851879238, manifest checksum=851879238).
+[10:28:23 2023-05-05] Downloader: "ANT_DLL.dll" downloaded successfully (local checksum=-924232690, manifest checksum=-924232690).
+[10:28:23 2023-05-05] Downloader: "BleWin10Lib_V2.dll" downloaded successfully (local checksum=-779376437, manifest checksum=-779376437).
+[10:28:23 2023-05-05] Downloader: "assets\configs\buttonconfigs.wad" downloaded successfully (manifest checksum not provided, i.e. -1).
+[10:28:23 2023-05-05] Downloader: "assets\haptic\fittech_haptic.wad" downloaded successfully (local checksum=-1771901292, manifest checksum=-1771901292).
+[10:28:23 2023-05-05] Downloader: "assets\fonts\font.wad" downloaded successfully (local checksum=1101758225, manifest checksum=1101758225).
+[10:28:23 2023-05-05] Downloader: "assets\Worlds\roads.wad" downloaded successfully (local checksum=-1780541638, manifest checksum=-1780541638).
+[10:28:23 2023-05-05] Downloader: "assets\Humans\Accessories\Accessories.wad" downloaded successfully (local checksum=1092048325, manifest checksum=1092048325).
+[10:28:23 2023-05-05] Downloader: "assets\Worlds\worlds.wad" downloaded successfully (local checksum=-212856603, manifest checksum=-212856603).
+[10:28:24 2023-05-05] Downloader: "assets\Worlds\world13\data_1.wad" downloaded successfully (local checksum=-322186019, manifest checksum=-322186019).
+[10:28:24 2023-05-05] Downloader: "ZwiftWindowsCrashHandler.exe" downloaded successfully (local checksum=1650681562, manifest checksum=1650681562).
+[10:28:25 2023-05-05] Downloader: "assets\UI\WhiteOrangeTheme\WhiteOrangeTheme.wad" downloaded successfully (local checksum=-1027973353, manifest checksum=-1027973353).
+[10:28:25 2023-05-05] Downloader: "assets\Worlds\world2\data_1.wad" downloaded successfully (local checksum=2032448495, manifest checksum=2032448495).
+[10:28:25 2023-05-05] Downloader: "assets\Worlds\world5\data_1.wad" downloaded successfully (local checksum=-413906688, manifest checksum=-413906688).
+[10:28:25 2023-05-05] Downloader: "assets\Worlds\world7\data_1.wad" downloaded successfully (local checksum=-1585333186, manifest checksum=-1585333186).
+[10:28:26 2023-05-05] Downloader: "data\Audio\PC\World12.bnk" downloaded successfully (local checksum=-129390414, manifest checksum=-129390414).
+[10:28:26 2023-05-05] Downloader: "assets\Worlds\world4\data_1.wad" downloaded successfully (local checksum=1267676734, manifest checksum=1267676734).
+[10:28:27 2023-05-05] Downloader: "data\Audio\PC\Media\1042454973.wem" downloaded successfully (local checksum=-1086885441, manifest checksum=-1086885441).
+[10:28:27 2023-05-05] Downloader: "assets\Worlds\world3\data_1.wad" downloaded successfully (local checksum=1475754399, manifest checksum=1475754399).
+[10:28:27 2023-05-05] Downloader: "data\Audio\PC\Media\1060071765.wem" downloaded successfully (local checksum=-1105369988, manifest checksum=-1105369988).
+[10:28:27 2023-05-05] Downloader: "assets\Worlds\world10\data_1.wad" downloaded successfully (local checksum=-2043760038, manifest checksum=-2043760038).
+[10:28:27 2023-05-05] Downloader: "data\Audio\PC\Media\14061067.wem" downloaded successfully (local checksum=1085178728, manifest checksum=1085178728).
+[10:28:27 2023-05-05] Downloader: "assets\Workouts\workouts.wad" downloaded successfully (local checksum=-2132049007, manifest checksum=-2132049007).
+[10:28:28 2023-05-05] Downloader: "data\Audio\PC\Media\536967595.wem" downloaded successfully (local checksum=570468902, manifest checksum=570468902).
+[10:28:28 2023-05-05] Downloader: "data\Audio\PC\Media\267420827.wem" downloaded successfully (local checksum=-1793032340, manifest checksum=-1793032340).
+[10:28:28 2023-05-05] Downloader: "data\Audio\PC\globals_01.bnk" downloaded successfully (local checksum=-1697526754, manifest checksum=-1697526754).
+[10:28:29 2023-05-05] Downloader: "data\Audio\PC\Media\594141656.wem" downloaded successfully (local checksum=-31206719, manifest checksum=-31206719).
+[10:28:29 2023-05-05] Downloader: "data\Audio\PC\Media\750606579.wem" downloaded successfully (local checksum=-768811064, manifest checksum=-768811064).
+[10:28:29 2023-05-05] Downloader: "data\Audio\PC\Media\486350809.wem" downloaded successfully (local checksum=-1408950037, manifest checksum=-1408950037).
+[10:28:29 2023-05-05] Downloader: "data\Audio\PC\Media\298074532.wem" downloaded successfully (local checksum=560011315, manifest checksum=560011315).
+[10:28:29 2023-05-05] Downloader: "data\Audio\PC\Media\86434387.wem" downloaded successfully (local checksum=-451320614, manifest checksum=-451320614).
+[10:28:29 2023-05-05] Downloader: "data\Environment\Buildings\Glasgow\GlasgowCityModularBottom01ShortBlack02.gde" downloaded successfully (local checksum=-297426820, manifest checksum=-297426820).
+[10:28:29 2023-05-05] Downloader: "assets\global.wad" downloaded successfully (local checksum=528506142, manifest checksum=528506142).
+[10:28:29 2023-05-05] Downloader: "data\Environment\Buildings\Glasgow\GlasgowCityModularBottom01ShortWhite01.gde" downloaded successfully (local checksum=-1019405750, manifest checksum=-1019405750).
+[10:28:29 2023-05-05] Downloader: "data\Audio\PC\Media\982270630.wem" downloaded successfully (local checksum=887021679, manifest checksum=887021679).
+[10:28:30 2023-05-05] Downloader: "data\Audio\PC\Media\869511246.wem" downloaded successfully (local checksum=-1039764407, manifest checksum=-1039764407).
+[10:28:30 2023-05-05] Downloader: "data\Environment\Buildings\Glasgow\GlasgowCityModularBottom01ShortWhite02.gde" downloaded successfully (local checksum=234146903, manifest checksum=234146903).
+[10:28:30 2023-05-05] Downloader: "data\Environment\Misc\BoostArrows\Textures\dashB.ztx" downloaded successfully (local checksum=-37526641, manifest checksum=-37526641).
+[10:28:30 2023-05-05] Downloader: "data\Environment\SkyDome\cirrus1.gde" downloaded successfully (local checksum=18830098, manifest checksum=18830098).
+[10:28:30 2023-05-05] Downloader: "data\Environment\SkyDome\cirrus2.gde" downloaded successfully (local checksum=276723478, manifest checksum=276723478).
+[10:28:30 2023-05-05] Downloader: "data\Environment\Buildings\Glasgow\GlasgowCityModularBottom03Short.gde" downloaded successfully (local checksum=-872232764, manifest checksum=-872232764).
+[10:28:30 2023-05-05] Downloader: "data\Environment\SkyDome\clouds1.gde" downloaded successfully (local checksum=-76072759, manifest checksum=-76072759).
+[10:28:30 2023-05-05] Downloader: "data\Environment\SkyDome\clouds2.gde" downloaded successfully (local checksum=-1451844634, manifest checksum=-1451844634).
+[10:28:30 2023-05-05] Downloader: "data\Environment\SkyDome\clouds3.gde" downloaded successfully (local checksum=217611788, manifest checksum=217611788).
+[10:28:30 2023-05-05] Downloader: "data\Environment\Buildings\Glasgow\GlasgowCityModularBottom04Tall.gde" downloaded successfully (local checksum=-1962795896, manifest checksum=-1962795896).
+[10:28:30 2023-05-05] Downloader: "data\Environment\SkyDome\demoSkyCloudsFast.gde" downloaded successfully (local checksum=1251271988, manifest checksum=1251271988).
+[10:28:30 2023-05-05] Downloader: "data\Environment\SkyDome\exampleSkyCloudsFast.gde" downloaded successfully (local checksum=824010429, manifest checksum=824010429).
+[10:28:30 2023-05-05] Downloader: "data\Environment\SkyDome\portal.gde" downloaded successfully (local checksum=555552155, manifest checksum=555552155).
+[10:28:30 2023-05-05] Downloader: "data\Environment\SkyDome\SkyDome.gde" downloaded successfully (local checksum=-1383918260, manifest checksum=-1383918260).
+[10:28:30 2023-05-05] Downloader: "data\Environment\SkyDome\skyhalfdome2.gde" downloaded successfully (local checksum=438154877, manifest checksum=438154877).
+[10:28:30 2023-05-05] Downloader: "data\Environment\SkyDome\triangle.ztx" downloaded successfully (local checksum=-562914237, manifest checksum=-562914237).
+[10:28:30 2023-05-05] Downloader: "data\Environment\SkyDome\starfield.ztx" downloaded successfully (local checksum=2048705877, manifest checksum=2048705877).
+[10:28:31 2023-05-05] Downloader: "data\Environment\Structures\Bridges\NatlForestWoodBridge.gde" downloaded successfully (local checksum=-1236256319, manifest checksum=-1236256319).
+[10:28:31 2023-05-05] Downloader: "data\Environment\Structures\Bridges\NatlForest\BrokenRoadBridge.gde" downloaded successfully (local checksum=1285893616, manifest checksum=1285893616).
+[10:28:31 2023-05-05] Downloader: "data\Audio\PC\Media\254978304.wem" downloaded successfully (local checksum=-373615817, manifest checksum=-373615817).
+[10:28:31 2023-05-05] Downloader: "data\Environment\Structures\Bridges\NatlForestConcreteBridge.gde" downloaded successfully (local checksum=-1176672274, manifest checksum=-1176672274).
+[10:28:31 2023-05-05] Downloader: "assets\Worlds\world9\data_1.wad" downloaded successfully (local checksum=-38469155, manifest checksum=-38469155).
+[10:28:31 2023-05-05] Downloader: "data\Environment\Structures\Bridges\NatlForest\NatlForestWoodBridge.gde" downloaded successfully (local checksum=1855076187, manifest checksum=1855076187).
+[10:28:31 2023-05-05] Downloader: "data\Environment\Structures\EventArches\ZwiftObstacleCourse2021.ztx" downloaded successfully (local checksum=2064249769, manifest checksum=2064249769).
+[10:28:31 2023-05-05] Downloader: "data\Environment\Structures\Bridges\NatlForest\NatlForestStoneBridge.gde" downloaded successfully (local checksum=322620460, manifest checksum=322620460).
+[10:28:31 2023-05-05] Downloader: "data\Environment\Structures\EventArches\ZwiftObstacleCourseArch2021.gde" downloaded successfully (local checksum=-1510173371, manifest checksum=-1510173371).
+[10:28:31 2023-05-05] Downloader: "data\Environment\SkyDome\Cirrus_01.ztx" downloaded successfully (local checksum=744764198, manifest checksum=744764198).
+[10:28:31 2023-05-05] Downloader: "data\Environment\Structures\RoadSide\MountainBikeTrail\Creek.gde" downloaded successfully (local checksum=-1328165483, manifest checksum=-1328165483).
+[10:28:31 2023-05-05] Downloader: "data\Environment\Structures\RoadSide\MountainBikeTrail\CreekBridgeSmall.gde" downloaded successfully (local checksum=603982809, manifest checksum=603982809).
+[10:28:31 2023-05-05] Downloader: "data\Environment\Structures\RoadSide\MountainBikeTrail\CreekSmall.gde" downloaded successfully (local checksum=215198499, manifest checksum=215198499).
+[10:28:31 2023-05-05] Downloader: "data\Environment\Structures\RoadSide\MountainBikeTrail\RePackEntrancePaddock.gde" downloaded successfully (local checksum=-76194471, manifest checksum=-76194471).
+[10:28:31 2023-05-05] Downloader: "data\Environment\Structures\RoadSide\MountainBikeTrail\RePackEntrancePaddockExit.gde" downloaded successfully (local checksum=2126853050, manifest checksum=2126853050).
+[10:28:31 2023-05-05] Downloader: "data\Environment\Structures\RoadSide\MountainBikeTrail\RePackExit.gde" downloaded successfully (local checksum=-1620553591, manifest checksum=-1620553591).
+[10:28:31 2023-05-05] Downloader: "data\Environment\Structures\RoadSide\MountainBikeTrail\MtbTrailRamp3.gde" downloaded successfully (local checksum=893017325, manifest checksum=893017325).
+[10:28:31 2023-05-05] Downloader: "data\Environment\Structures\RoadSide\MountainBikeTrail\OldBandSaw.gde" downloaded successfully (local checksum=2075331173, manifest checksum=2075331173).
+[10:28:31 2023-05-05] Downloader: "data\Environment\Structures\RoadSide\MountainBikeTrail\RoadShoulderSection04.gde" downloaded successfully (local checksum=-1728930166, manifest checksum=-1728930166).
+[10:28:32 2023-05-05] Downloader: "data\Environment\SkyDome\cloudsA.ztx" downloaded successfully (local checksum=15078640, manifest checksum=15078640).
+[10:28:32 2023-05-05] Downloader: "data\Fonts\ZwiftFondoMedium54ptW2.ztx" downloaded successfully (local checksum=98631747, manifest checksum=98631747).
+[10:28:32 2023-05-05] Downloader: "data\FX\Boosts\BoostPickup_Blue.gde" downloaded successfully (local checksum=842295386, manifest checksum=842295386).
+[10:28:32 2023-05-05] Downloader: "data\Fonts\ZwiftFondoBlack105ptW2.ztx" downloaded successfully (local checksum=327629724, manifest checksum=327629724).
+[10:28:32 2023-05-05] Downloader: "data\FX\Boosts\BoostPickup_UI_Blue.gde" downloaded successfully (local checksum=-1812432203, manifest checksum=-1812432203).
+[10:28:32 2023-05-05] Downloader: "data\Audio\PC\soundmedia.bnk" downloaded successfully (local checksum=-2020945673, manifest checksum=-2020945673).
+[10:28:32 2023-05-05] Downloader: "data\FX\Boosts\BoostStripA.gde" downloaded successfully (local checksum=1313957923, manifest checksum=1313957923).
+[10:28:32 2023-05-05] Downloader: "data\FX\Boosts\CollectionFX_Blue.gde" downloaded successfully (local checksum=-990891082, manifest checksum=-990891082).
+[10:28:32 2023-05-05] Downloader: "data\FX\Boosts\CollectionSpeedFX_Blue.gde" downloaded successfully (local checksum=667868842, manifest checksum=667868842).
+[10:28:32 2023-05-05] Downloader: "data\FX\Energies\RadialEnergy_Blue.gde" downloaded successfully (local checksum=-662447982, manifest checksum=-662447982).
+[10:28:32 2023-05-05] Downloader: "data\FX\Boosts\CollectionSpeedFX_Blue_Turbo.gde" downloaded successfully (local checksum=2016344899, manifest checksum=2016344899).
+[10:28:32 2023-05-05] Downloader: "data\FX\Energies\RadialEnergy_Green.gde" downloaded successfully (local checksum=-387946967, manifest checksum=-387946967).
+[10:28:32 2023-05-05] Downloader: "data\FX\Energies\RadialEnergy_Orange.gde" downloaded successfully (local checksum=411838669, manifest checksum=411838669).
+[10:28:32 2023-05-05] Downloader: "data\FX\Energies\RadialEnergy_Red.gde" downloaded successfully (local checksum=432988873, manifest checksum=432988873).
+[10:28:32 2023-05-05] Downloader: "data\Fonts\ZwiftFondoBlack105ptW1.ztx" downloaded successfully (local checksum=193848071, manifest checksum=193848071).
+[10:28:32 2023-05-05] Downloader: "data\FX\Hazards\CollectionGlow_Red.gde" downloaded successfully (local checksum=-1566564268, manifest checksum=-1566564268).
+[10:28:32 2023-05-05] Downloader: "data\FX\Hazards\HazardPickup_Red.gde" downloaded successfully (local checksum=1690364915, manifest checksum=1690364915).
+[10:28:32 2023-05-05] Downloader: "data\FX\Hazards\HazardPickup_UI_Red.gde" downloaded successfully (local checksum=-409847726, manifest checksum=-409847726).
+[10:28:32 2023-05-05] Downloader: "data\FX\Hazards\Hazard_BumperA.gde" downloaded successfully (local checksum=726870478, manifest checksum=726870478).
+[10:28:32 2023-05-05] Downloader: "data\FX\Hazards\Hazard_BumperB.gde" downloaded successfully (local checksum=-1221040783, manifest checksum=-1221040783).
+[10:28:32 2023-05-05] Downloader: "data\FX\Particles\confetti01_sheet.ztx" downloaded successfully (local checksum=-632965430, manifest checksum=-632965430).
+[10:28:32 2023-05-05] Downloader: "data\FX\StopWatch\CollectionGlow_Green.gde" downloaded successfully (local checksum=1081703730, manifest checksum=1081703730).
+[10:28:32 2023-05-05] Downloader: "data\FX\StopWatch\StopWatch_Blue.gde" downloaded successfully (local checksum=970652149, manifest checksum=970652149).
+[10:28:32 2023-05-05] Downloader: "data\FX\StopWatch\StopWatch_Green.gde" downloaded successfully (local checksum=605879090, manifest checksum=605879090).
+[10:28:32 2023-05-05] Downloader: "data\FX\StopWatch\StopWatch_Orange.gde" downloaded successfully (local checksum=1769697882, manifest checksum=1769697882).
+[10:28:33 2023-05-05] Downloader: "data\Environment\Structures\RoadSide\MountainBikeTrail\SafetyNetFinish.gde" downloaded successfully (local checksum=-1936911810, manifest checksum=-1936911810).
+[10:28:33 2023-05-05] Downloader: "data\FX\StopWatch\TimePickupEnergy_Blue.gde" downloaded successfully (local checksum=-1151256830, manifest checksum=-1151256830).
+[10:28:33 2023-05-05] Downloader: "data\FX\StopWatch\TimePickupEnergy_Green.gde" downloaded successfully (local checksum=1208829977, manifest checksum=1208829977).
+[10:28:33 2023-05-05] Downloader: "data\FX\StopWatch\TimePickupEnergy_Orange.gde" downloaded successfully (local checksum=1749701886, manifest checksum=1749701886).
+[10:28:33 2023-05-05] Downloader: "data\FX\StopWatch\StopWatch_UI_Green.gde" downloaded successfully (local checksum=660474479, manifest checksum=660474479).
+[10:28:33 2023-05-05] Downloader: "data\FX\Textures\Bars.ztx" downloaded successfully (local checksum=-1838467511, manifest checksum=-1838467511).
+[10:28:33 2023-05-05] Downloader: "data\FX\ZwiftPickup\ZwiftOrange.gde" downloaded successfully (local checksum=567550506, manifest checksum=567550506).
+[10:28:33 2023-05-05] Downloader: "data\Humans\Accessories\Hair\MaleHair03.gde" downloaded successfully (local checksum=1395895155, manifest checksum=1395895155).
+[10:28:33 2023-05-05] Downloader: "data\Humans\Accessories\Hats\RunningCapTourOfWatopia2023.gde" downloaded successfully (local checksum=1729147860, manifest checksum=1729147860).
+[10:28:33 2023-05-05] Downloader: "data\Humans\Accessories\Hair\MaleHair04.gde" downloaded successfully (local checksum=-484479068, manifest checksum=-484479068).
+[10:28:33 2023-05-05] Downloader: "data\Humans\Accessories\Hair\MaleHair05.gde" downloaded successfully (local checksum=-838537722, manifest checksum=-838537722).
+[10:28:33 2023-05-05] Downloader: "data\Humans\Accessories\Socks\Textures\Socks_PrideOn2023.ztx" downloaded successfully (local checksum=596476508, manifest checksum=596476508).
+[10:28:33 2023-05-05] Downloader: "data\Humans\Accessories\Hair\CurlyHair01.gde" downloaded successfully (local checksum=1154043174, manifest checksum=1154043174).
+[10:28:33 2023-05-05] Downloader: "data\Humans\Accessories\Hair\MaleHair02.gde" downloaded successfully (local checksum=793488205, manifest checksum=793488205).
+[10:28:33 2023-05-05] Downloader: "data\Humans\Clothes\PrideOn2023.ztx" downloaded successfully (local checksum=1883854407, manifest checksum=1883854407).
+[10:28:33 2023-05-05] Downloader: "data\Humans\Jerseys\Events\RideLikeKing2023.ztx" downloaded successfully (local checksum=-624355379, manifest checksum=-624355379).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistBottleDrink.anim" downloaded successfully (local checksum=192786700, manifest checksum=192786700).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistClipIn.anim" downloaded successfully (local checksum=1591132385, manifest checksum=1591132385).
+[10:28:33 2023-05-05] Downloader: "data\Humans\Jerseys\Pro_Teams\BoraHansgrohe2023.ztx" downloaded successfully (local checksum=-1254514896, manifest checksum=-1254514896).
+[10:28:33 2023-05-05] Downloader: "data\Humans\Jerseys\Events\PrideOn2023.ztx" downloaded successfully (local checksum=-564448956, manifest checksum=-564448956).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\CyclistClipInMountain.anim" downloaded successfully (local checksum=577115767, manifest checksum=577115767).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistClipIn_Buffalo.anim" downloaded successfully (local checksum=1713609764, manifest checksum=1713609764).
+[10:28:33 2023-05-05] Downloader: "data\Fonts\ZwiftFondoBlack105ptW3.ztx" downloaded successfully (local checksum=-563147974, manifest checksum=-563147974).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\CyclistClipOutMountain.anim" downloaded successfully (local checksum=-619302955, manifest checksum=-619302955).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistClipOut_Buffalo.anim" downloaded successfully (local checksum=515681805, manifest checksum=515681805).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistDropsElbowFlick.anim" downloaded successfully (local checksum=-1637535266, manifest checksum=-1637535266).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistClipOut.anim" downloaded successfully (local checksum=-1827921815, manifest checksum=-1827921815).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\CyclistFootDownIdleMountain.anim" downloaded successfully (local checksum=-2114164133, manifest checksum=-2114164133).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistHoodsElbowFlick.anim" downloaded successfully (local checksum=1526167793, manifest checksum=1526167793).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\CyclistIdleBW.anim" downloaded successfully (local checksum=-1438239536, manifest checksum=-1438239536).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistFootDownIdle.anim" downloaded successfully (local checksum=-67847954, manifest checksum=-67847954).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistFootDownIdle_Buffalo.anim" downloaded successfully (local checksum=918122274, manifest checksum=918122274).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\CyclistIdleHandcycle.anim" downloaded successfully (local checksum=409819614, manifest checksum=409819614).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistSeatedDrops.anim" downloaded successfully (local checksum=445483532, manifest checksum=445483532).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistSeatedDropsBlink.anim" downloaded successfully (local checksum=-777067960, manifest checksum=-777067960).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\CyclistSeatedDropsBW.anim" downloaded successfully (local checksum=909011614, manifest checksum=909011614).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\CyclistSeatedDropsHandcycle.anim" downloaded successfully (local checksum=1221462234, manifest checksum=1221462234).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\CyclistSeatedDropsMountain.anim" downloaded successfully (local checksum=1996690756, manifest checksum=1996690756).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\CyclistSeatedDropsMountainBlink.anim" downloaded successfully (local checksum=529612416, manifest checksum=529612416).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistSeatedDrops_Buffalo.anim" downloaded successfully (local checksum=-419204772, manifest checksum=-419204772).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistSeatedDrops_BuffaloBlink.anim" downloaded successfully (local checksum=429080711, manifest checksum=429080711).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistSeatedDrops_TT.anim" downloaded successfully (local checksum=527348059, manifest checksum=527348059).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistSeatedDrops_TTBlink.anim" downloaded successfully (local checksum=1314711864, manifest checksum=1314711864).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistSeatedHoods.anim" downloaded successfully (local checksum=631075663, manifest checksum=631075663).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistSeatedHoodsBlink.anim" downloaded successfully (local checksum=179993125, manifest checksum=179993125).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\CyclistSeatedHoodsBW.anim" downloaded successfully (local checksum=-1553068189, manifest checksum=-1553068189).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\CyclistSeatedHoodsHandcycle.anim" downloaded successfully (local checksum=1221462234, manifest checksum=1221462234).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\CyclistSeatedHoodsMountain.anim" downloaded successfully (local checksum=1892554846, manifest checksum=1892554846).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\CyclistSeatedHoodsMountainBlink.anim" downloaded successfully (local checksum=98170759, manifest checksum=98170759).
+[10:28:33 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistSeatedHoods_Buffalo.anim" downloaded successfully (local checksum=-407788976, manifest checksum=-407788976).
+[10:28:34 2023-05-05] Downloader: "data\Fonts\ZwiftFondoMedium54ptW3.ztx" downloaded successfully (local checksum=-1927812802, manifest checksum=-1927812802).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistSeatedHoods_BuffaloBlink.anim" downloaded successfully (local checksum=-1368578635, manifest checksum=-1368578635).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistSeatedHoods_TT.anim" downloaded successfully (local checksum=1302051461, manifest checksum=1302051461).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistSeatedHoods_TTBlink.anim" downloaded successfully (local checksum=1583407662, manifest checksum=1583407662).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistSeatedWave.anim" downloaded successfully (local checksum=-1753181108, manifest checksum=-1753181108).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistSprint.anim" downloaded successfully (local checksum=655071724, manifest checksum=655071724).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\CyclistSprintAltMountain.anim" downloaded successfully (local checksum=1700051505, manifest checksum=1700051505).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\CyclistSprintBW.anim" downloaded successfully (local checksum=1969275623, manifest checksum=1969275623).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\CyclistSprintHandcycle.anim" downloaded successfully (local checksum=1221462234, manifest checksum=1221462234).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\CyclistSprintMountain.anim" downloaded successfully (local checksum=-1621154213, manifest checksum=-1621154213).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistSprint_Buffalo.anim" downloaded successfully (local checksum=-1949263303, manifest checksum=-1949263303).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistStandingHoods.anim" downloaded successfully (local checksum=187926200, manifest checksum=187926200).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistStandingHoodsBlink.anim" downloaded successfully (local checksum=2133675022, manifest checksum=2133675022).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\CyclistSprintMountain_alt.anim" downloaded successfully (local checksum=-902484858, manifest checksum=-902484858).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistSprint_alt.anim" downloaded successfully (local checksum=-1934493621, manifest checksum=-1934493621).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\CyclistStandingHoodsMountain.anim" downloaded successfully (local checksum=1567346885, manifest checksum=1567346885).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\CyclistStandingHoodsMountainBlink.anim" downloaded successfully (local checksum=1397187691, manifest checksum=1397187691).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistStandingHoods_Buffalo.anim" downloaded successfully (local checksum=-2051902687, manifest checksum=-2051902687).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistSprint_alt_Buffalo.anim" downloaded successfully (local checksum=144831112, manifest checksum=144831112).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistStandingHoods_TTBlink.anim" downloaded successfully (local checksum=1752682687, manifest checksum=1752682687).
+[10:28:34 2023-05-05] Downloader: "data\Audio\PC\Media\899869566.wem" downloaded successfully (local checksum=-284982431, manifest checksum=-284982431).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistStandingHoods_BuffaloBlink.anim" downloaded successfully (local checksum=-2144551160, manifest checksum=-2144551160).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistStandingHoods_TT.anim" downloaded successfully (local checksum=343522406, manifest checksum=343522406).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistSuperAero.anim" downloaded successfully (local checksum=-1665441056, manifest checksum=-1665441056).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclistSuperAeroBlink.anim" downloaded successfully (local checksum=163024270, manifest checksum=163024270).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclist_clipInConcept.anim" downloaded successfully (local checksum=-581508809, manifest checksum=-581508809).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclist_clipIn_TT.anim" downloaded successfully (local checksum=1664339431, manifest checksum=1664339431).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclist_clipOutConcept.anim" downloaded successfully (local checksum=1356602536, manifest checksum=1356602536).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclist_SeatedDrops_Concept.anim" downloaded successfully (local checksum=445114006, manifest checksum=445114006).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclist_SeatedDrops_ConceptBlink.anim" downloaded successfully (local checksum=439271433, manifest checksum=439271433).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\Idle.anim" downloaded successfully (local checksum=2100012212, manifest checksum=2100012212).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\cyclist_clipOutIdleConcept.anim" downloaded successfully (local checksum=-1077168546, manifest checksum=-1077168546).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\PaperThrowDrops.anim" downloaded successfully (local checksum=-1491042298, manifest checksum=-1491042298).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\PaperThrowHoods.anim" downloaded successfully (local checksum=-1832828756, manifest checksum=-1832828756).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\PaperThrowStanding.anim" downloaded successfully (local checksum=-2010073144, manifest checksum=-2010073144).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\RunnerJog.anim" downloaded successfully (local checksum=76653894, manifest checksum=76653894).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\RunnerJogFast.anim" downloaded successfully (local checksum=-1685397022, manifest checksum=-1685397022).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\RunnerStoreIdle.anim" downloaded successfully (local checksum=-152105303, manifest checksum=-152105303).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\RunnerRun.anim" downloaded successfully (local checksum=-2093486709, manifest checksum=-2093486709).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\RunnerSprint.anim" downloaded successfully (local checksum=575905859, manifest checksum=575905859).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Textures\Glow_A.ztx" downloaded successfully (local checksum=-174010261, manifest checksum=-174010261).
+[10:28:34 2023-05-05] Downloader: "data\Fonts\ZwiftFondoMedium54ptW1.ztx" downloaded successfully (local checksum=-609960792, manifest checksum=-609960792).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\RunnerWalk.anim" downloaded successfully (local checksum=1036098093, manifest checksum=1036098093).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\RunnerWalkFaster.anim" downloaded successfully (local checksum=-556858598, manifest checksum=-556858598).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Textures\Glow_B.ztx" downloaded successfully (local checksum=615773957, manifest checksum=615773957).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Textures\Glow_C.ztx" downloaded successfully (local checksum=-275262221, manifest checksum=-275262221).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Textures\Glow_D.ztx" downloaded successfully (local checksum=2086926296, manifest checksum=2086926296).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\runnerIdle.anim" downloaded successfully (local checksum=-2066563082, manifest checksum=-2066563082).
+[10:28:34 2023-05-05] Downloader: "data\Humans\RoboPacer\Anims\RunnerWalkFast.anim" downloaded successfully (local checksum=-293354559, manifest checksum=-293354559).
+[10:28:35 2023-05-05] Downloader: "data\Audio\PC\Media\971957210.wem" downloaded successfully (local checksum=-1237501637, manifest checksum=-1237501637).
+[10:28:35 2023-05-05] Downloader: "data\Humans\RoboPacer\Textures\RPLimbs_DM_A.ztx" downloaded successfully (local checksum=-343311240, manifest checksum=-343311240).
+[10:28:35 2023-05-05] Downloader: "data\Humans\RoboPacer\Textures\RPBody_DM_B.ztx" downloaded successfully (local checksum=-751741788, manifest checksum=-751741788).
+[10:28:35 2023-05-05] Downloader: "data\Humans\RoboPacer\Textures\RPBody_DM_A.ztx" downloaded successfully (local checksum=-97999087, manifest checksum=-97999087).
+[10:28:35 2023-05-05] Downloader: "data\Humans\RoboPacer\Textures\RPLimbs_DM_B.ztx" downloaded successfully (local checksum=-484650215, manifest checksum=-484650215).
+[10:28:35 2023-05-05] Downloader: "data\Humans\RoboPacer\Textures\RPLimbs_DM_C.ztx" downloaded successfully (local checksum=1395330657, manifest checksum=1395330657).
+[10:28:35 2023-05-05] Downloader: "data\Humans\RoboPacer\Textures\RPBody_DM_C.ztx" downloaded successfully (local checksum=1459496469, manifest checksum=1459496469).
+[10:28:35 2023-05-05] Downloader: "data\Humans\RoboPacer\Textures\RPBody_DM_D.ztx" downloaded successfully (local checksum=-570589992, manifest checksum=-570589992).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\icon_back.png" downloaded successfully (local checksum=-958128347, manifest checksum=-958128347).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\Fallback\ImageFallback_Portal.jpg" downloaded successfully (local checksum=-631557304, manifest checksum=-631557304).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\Controller\Controller_FrontLeft.png" downloaded successfully (local checksum=-137112279, manifest checksum=-137112279).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\Controller\Controller_FrontRight.png" downloaded successfully (local checksum=-137112279, manifest checksum=-137112279).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\Controller\Controller_TopLeft.png" downloaded successfully (local checksum=2089326442, manifest checksum=2089326442).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\Controller\Controller_TopRight.png" downloaded successfully (local checksum=2089326442, manifest checksum=2089326442).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\Garage\icon_back.png" downloaded successfully (local checksum=-958128347, manifest checksum=-958128347).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\Garage\icon_dropz.png" downloaded successfully (local checksum=54152450, manifest checksum=54152450).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\Garage\icon_equipped_checkmark.png" downloaded successfully (local checksum=-902277011, manifest checksum=-902277011).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\Garage\icon_gearing_delete.png" downloaded successfully (local checksum=751797221, manifest checksum=751797221).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\Garage\icon_shifter.png" downloaded successfully (local checksum=1878127485, manifest checksum=1878127485).
+[10:28:35 2023-05-05] Downloader: "data\Humans\RoboPacer\Textures\RPLimbs_DM_D.ztx" downloaded successfully (local checksum=725098245, manifest checksum=725098245).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\Campaigns\zrs2023_mission_box.png" downloaded successfully (local checksum=-1042510942, manifest checksum=-1042510942).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\Languages\lang_chinese.png" downloaded successfully (local checksum=-226996084, manifest checksum=-226996084).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\Garage\icon_gearing_basic.png" downloaded successfully (local checksum=1600334686, manifest checksum=1600334686).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\Languages\lang_japanese.png" downloaded successfully (local checksum=-1115652679, manifest checksum=-1115652679).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\Languages\lang_korean.png" downloaded successfully (local checksum=-2142039197, manifest checksum=-2142039197).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\Garage\icon_gearing_offroad.png" downloaded successfully (local checksum=-698781314, manifest checksum=-698781314).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\RC1\background.png" downloaded successfully (local checksum=378956986, manifest checksum=378956986).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\Garage\icon_gearing_tt.png" downloaded successfully (local checksum=1822183226, manifest checksum=1822183226).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\ZwiftUI\ZwiftGameUI\Images\Fallback\ImageFallback_Profile.png" downloaded successfully (local checksum=-1235322851, manifest checksum=-1235322851).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\Garage\icon_gearing_climbing.png" downloaded successfully (local checksum=-2101385764, manifest checksum=-2101385764).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\RC1\background.jpg" downloaded successfully (local checksum=-1873641489, manifest checksum=-1873641489).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\RC1\RideOn.png" downloaded successfully (local checksum=-1598374636, manifest checksum=-1598374636).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\ZwiftUI\ZwiftGameUI\Images\RaceResults\error_state.png" downloaded successfully (local checksum=1434066497, manifest checksum=1434066497).
+[10:28:35 2023-05-05] Downloader: "data\UI\icons\Icon_Global.ztx" downloaded successfully (local checksum=1195023286, manifest checksum=1195023286).
+[10:28:35 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\Garage\placeholder_garage_gearing_item.png" downloaded successfully (local checksum=611394028, manifest checksum=611394028).
+[10:28:35 2023-05-05] Downloader: "data\UI\icons\Icon_Cadence_White.tgax" downloaded successfully (local checksum=-1365266503, manifest checksum=-1365266503).
+[10:28:35 2023-05-05] Downloader: "data\Humans\RoboPacer\RoboPacer.gde" downloaded successfully (local checksum=543556021, manifest checksum=543556021).
+[10:28:35 2023-05-05] Downloader: "data\UI\icons\Icon_Input.ztx" downloaded successfully (local checksum=1423802372, manifest checksum=1423802372).
+[10:28:35 2023-05-05] Downloader: "data\UI\icons\Icon_Input_Alt.ztx" downloaded successfully (local checksum=-300915439, manifest checksum=-300915439).
+[10:28:35 2023-05-05] Downloader: "data\UI\icons\Icon_Left_Controller_White.ztx" downloaded successfully (local checksum=-300915439, manifest checksum=-300915439).
+[10:28:35 2023-05-05] Downloader: "data\UI\icons\Icon_DumbSpeed_White.tgax" downloaded successfully (local checksum=-1765355164, manifest checksum=-1765355164).
+[10:28:35 2023-05-05] Downloader: "data\UI\icons\Icon_Heart_White.tgax" downloaded successfully (local checksum=114906899, manifest checksum=114906899).
+[10:28:35 2023-05-05] Downloader: "data\UI\icons\Icon_Personal.ztx" downloaded successfully (local checksum=321877395, manifest checksum=321877395).
+[10:28:36 2023-05-05] Downloader: "data\UI\icons\Icon_Right_Controller_White.ztx" downloaded successfully (local checksum=1423802372, manifest checksum=1423802372).
+[10:28:36 2023-05-05] Downloader: "data\UI\icons\UpdatedIcons2022\BonusIconFrameSegmented.ztx" downloaded successfully (local checksum=-1881024599, manifest checksum=-1881024599).
+[10:28:36 2023-05-05] Downloader: "data\UI\icons\UpdatedIcons2022\Clock.ztx" downloaded successfully (local checksum=-1796869397, manifest checksum=-1796869397).
+[10:28:36 2023-05-05] Downloader: "data\UI\icons\UpdatedIcons2022\Personal-Best.ztx" downloaded successfully (local checksum=-539857887, manifest checksum=-539857887).
+[10:28:36 2023-05-05] Downloader: "data\UI\icons\UpdatedIcons2022\PowerupInnerBG.ztx" downloaded successfully (local checksum=-1507781136, manifest checksum=-1507781136).
+[10:28:36 2023-05-05] Downloader: "data\UI\icons\Icon_Power_White.tgax" downloaded successfully (local checksum=-847053814, manifest checksum=-847053814).
+[10:28:36 2023-05-05] Downloader: "data\UI\icons\UpdatedIcons2022\Rewind.ztx" downloaded successfully (local checksum=-926769862, manifest checksum=-926769862).
+[10:28:36 2023-05-05] Downloader: "data\UI\icons\UpdatedIcons2022\RewindWhite.ztx" downloaded successfully (local checksum=-1884488776, manifest checksum=-1884488776).
+[10:28:36 2023-05-05] Downloader: "data\UI\icons\UpdatedIcons2022\Stopwatch.ztx" downloaded successfully (local checksum=-1419901496, manifest checksum=-1419901496).
+[10:28:36 2023-05-05] Downloader: "data\UI\icons\Icon_Smart_White.tgax" downloaded successfully (local checksum=84226818, manifest checksum=84226818).
+[10:28:36 2023-05-05] Downloader: "data\UI\icons\UpdatedIcons2022\PowerupOuterBG.ztx" downloaded successfully (local checksum=735481254, manifest checksum=735481254).
+[10:28:36 2023-05-05] Downloader: "data\Humans\RoboPacer\Textures\RPBody_NM.ztx" downloaded successfully (local checksum=-1209306103, manifest checksum=-1209306103).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\Customization\custom_icon_gearing.ztx" downloaded successfully (local checksum=-687300273, manifest checksum=-687300273).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\Customization\custom_icon_shifting.ztx" downloaded successfully (local checksum=-2125154755, manifest checksum=-2125154755).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\Customization\RunningShirts\PrideOn2023_thumb.ztx" downloaded successfully (local checksum=1126061658, manifest checksum=1126061658).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\Customization\RunningShorts\PrideOn2023_thumb.ztx" downloaded successfully (local checksum=-1233821381, manifest checksum=-1233821381).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\HUD\icon_face_b.ztx" downloaded successfully (local checksum=2066493563, manifest checksum=2066493563).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\HUD\icon_face_dpad_down.ztx" downloaded successfully (local checksum=-1185940190, manifest checksum=-1185940190).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\HUD\icon_face_dpad_left.ztx" downloaded successfully (local checksum=-1342176479, manifest checksum=-1342176479).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\HUD\icon_face_dpad_right.ztx" downloaded successfully (local checksum=-872828021, manifest checksum=-872828021).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\HUD\icon_face_y.ztx" downloaded successfully (local checksum=-611383205, manifest checksum=-611383205).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\HUD\icon_face_z.ztx" downloaded successfully (local checksum=-525897710, manifest checksum=-525897710).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\HUD\icon_front_ls.ztx" downloaded successfully (local checksum=-347802158, manifest checksum=-347802158).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\HUD\icon_front_rs.ztx" downloaded successfully (local checksum=-1660420873, manifest checksum=-1660420873).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\HUD\icon_minus.ztx" downloaded successfully (local checksum=-1313789272, manifest checksum=-1313789272).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\HUD\icon_plus.ztx" downloaded successfully (local checksum=302608355, manifest checksum=302608355).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\HUD\Navigation\steeringwheel.ztx" downloaded successfully (local checksum=-239327399, manifest checksum=-239327399).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\HUD\RepackIntro\help_repackintro_01.ztx" downloaded successfully (local checksum=-176606548, manifest checksum=-176606548).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\HUD\RepackIntro\help_repackintro_02.ztx" downloaded successfully (local checksum=-1395243587, manifest checksum=-1395243587).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\HUD\RepackIntro\help_repackintro_03.ztx" downloaded successfully (local checksum=-2093644509, manifest checksum=-2093644509).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\JerseyIcons\BoraHansgrohe2023_thumb.ztx" downloaded successfully (local checksum=810311887, manifest checksum=810311887).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\JerseyIcons\PrideOn2023_thumb.ztx" downloaded successfully (local checksum=-805243146, manifest checksum=-805243146).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\JerseyIcons\RideLikeKing2023_thumb.ztx" downloaded successfully (local checksum=2056972687, manifest checksum=2056972687).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\Pairing_Screen\icon_device_battery.ztx" downloaded successfully (local checksum=-1854551877, manifest checksum=-1854551877).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\ZwiftCampaigns\zrs2023_badge.ztx" downloaded successfully (local checksum=-168441364, manifest checksum=-168441364).
+[10:28:36 2023-05-05] Downloader: "data\Humans\RoboPacer\Textures\RPLimbs_NM.ztx" downloaded successfully (local checksum=1247753213, manifest checksum=1247753213).
+[10:28:36 2023-05-05] Downloader: "data\UI\WhiteOrangeTheme\ZwiftCampaigns\zrs2023_mission_box.ztx" downloaded successfully (local checksum=1499519392, manifest checksum=1499519392).
+[10:28:36 2023-05-05] Downloader: "data\Worlds\world13\vertexcolormap_1024_2.ztx" downloaded successfully (local checksum=423680562, manifest checksum=423680562).
+[10:28:36 2023-05-05] Downloader: "data\Noesis\Blend_Data\ZwiftUI\ZwiftGameUI\Images\WorkoutDetail\background_workout.jpg" downloaded successfully (local checksum=617356244, manifest checksum=617356244).
+[10:28:36 2023-05-05] Downloader: "data\Worlds\world13\vertexcolormap_1024_3.ztx" downloaded successfully (local checksum=1044982261, manifest checksum=1044982261).
+[10:28:36 2023-05-05] Downloader: "data\Worlds\world13\vertexcolormap_1024_4.ztx" downloaded successfully (local checksum=423680562, manifest checksum=423680562).
+[10:28:36 2023-05-05] Downloader: "data\Worlds\world13\vertexcolormap_1024_5.ztx" downloaded successfully (local checksum=2015811519, manifest checksum=2015811519).
+[10:28:36 2023-05-05] Downloader: "data\Worlds\world13\vertexcolormap_1024_1.ztx" downloaded successfully (local checksum=242112940, manifest checksum=242112940).
+[10:28:36 2023-05-05] Downloader: "data\Worlds\world13\vertexcolormap_1024_0.ztx" downloaded successfully (local checksum=521016379, manifest checksum=521016379).
+[10:28:36 2023-05-05] Downloader: "data\Noesis\Blend_Data\Images\Garage\placeholder_garage_gearing.png" downloaded successfully (local checksum=595249431, manifest checksum=595249431).
+[10:28:36 2023-05-05] Downloader: "assets\Humans\Male\male.wad" downloaded successfully (local checksum=-1893153868, manifest checksum=-1893153868).
+[10:28:37 2023-05-05] Downloader: "data\Worlds\world1\map.ztx" downloaded successfully (local checksum=-1888636326, manifest checksum=-1888636326).
+[10:28:38 2023-05-05] Downloader: "assets\Worlds\world1\data_1.wad" downloaded successfully (local checksum=-79835760, manifest checksum=-79835760).
+[10:28:39 2023-05-05] Downloader: "assets\Worlds\world1\data.wad" downloaded successfully (local checksum=-618828028, manifest checksum=-618828028).
+[10:28:40 2023-05-05] Downloader: "data\Audio\PC\World16.bnk" downloaded successfully (local checksum=1576777774, manifest checksum=1576777774).
+[10:28:40 2023-05-05] Downloader: "data\Audio\PC\World11.bnk" downloaded successfully (local checksum=159504278, manifest checksum=159504278).
+[10:28:42 2023-05-05] Downloader: "data\Audio\PC\World10.bnk" downloaded successfully (local checksum=294244409, manifest checksum=294244409).
+[10:28:42 2023-05-05] Downloader: "data\Video\Braking.bik" downloaded successfully (local checksum=-432812104, manifest checksum=-432812104).
+[10:28:45 2023-05-05] Downloader: "data\Audio\PC\World3.bnk" downloaded successfully (local checksum=-99881177, manifest checksum=-99881177).
+[10:28:46 2023-05-05] Downloader: "data\Video\Steering.bik" downloaded successfully (local checksum=826051196, manifest checksum=826051196).
+[10:28:48 2023-05-05] Downloader: "data\Audio\PC\Main.bnk" downloaded successfully (local checksum=529545136, manifest checksum=529545136).
+[10:28:50 2023-05-05] Downloader: "ZwiftSetup.exe" downloaded successfully (local checksum=796944998, manifest checksum=796944998).
+[10:28:52 2023-05-05] Downloader: "data\Audio\PC\World1.bnk" downloaded successfully (local checksum=1715862993, manifest checksum=1715862993).
+[10:28:54 2023-05-05] Downloader: "ZwiftApp.exe" downloaded successfully (local checksum=1497928056, manifest checksum=1497928056).
+[10:29:07 2023-05-05] Downloader: "assets\Noesis\Blend_Data\noesis.wad" downloaded successfully (local checksum=-1888806771, manifest checksum=-1888806771).
+[10:29:07 2023-05-05] Patcher: Completed download of needed server files for update.
+[10:29:07 2023-05-05] Launcher: ZwiftApp.exe is not running.
+[10:29:07 2023-05-05] Patcher: Copying new and replacement files into place...
+[10:29:08 2023-05-05] Patcher: Copying new and replacement files into place...
+[10:29:08 2023-05-05] Patcher: Deleting unneeded files...
+[10:29:08 2023-05-05] Patcher: Deleting old local manifest file...
+[10:29:09 2023-05-05] Patcher: Copying new Manifest file into place ("C:\Users\erick\Downloads\Zwift\Zwift_1.0.110983_c2f5d01a_manifest.xml"->"Zwift_1.0.110983_c2f5d01a_manifest.xml")
+[10:29:09 2023-05-05] Patcher: Copying new Game Version file into place ("C:\Users\erick\Downloads\Zwift\Zwift_ver_cur.xml"->"Zwift_ver_cur.xml")
+[10:29:09 2023-05-05] Patcher: Copying new Launcher Version file into place ("C:\Users\erick\Downloads\Zwift\Launcher_ver_cur.xml"->"Launcher_ver_cur.xml")
+[10:29:09 2023-05-05] Patcher: Local Game version is now "1.0.110983".
+[10:29:09 2023-05-05] Patcher: Deleting temp files...
